@@ -1004,19 +1004,19 @@
   SEQ_SILENCE_FIELD           1001      21001  70  30  64   1                   160 \Seq\SEQ_SILENCE_FIELD.sseq
   SEQ_SILENCE_DUNGEON         1002      21003  70  30  64   1                   160 \Seq\SEQ_SILENCE_DUNGEON.sseq
   SEQ_TEST_TITLE              1003      31000  50  30  64   7                 21568 \Seq\SEQ_TEST_TITLE.sseq
-  SEQ_GS_T_WAKABA             1004      41001  90  30  64   1                  8544 \Seq\SEQ_GS_T_WAKABA.sseq
-  SEQ_GS_C_ENJU               1005      51001  70  30  64   1                  8768 \Seq\SEQ_GS_C_ENJU.sseq
+  SEQ_GS_T_WAKABA             1004      41001 100  30  64   1                  8544 \Seq\SEQ_GS_T_WAKABA.sseq
+  SEQ_GS_C_ENJU               1005      51001  76  30  64   1                  8768 \Seq\SEQ_GS_C_ENJU.sseq
   SEQ_GS_C_YOSHINO            1006      61001 114  30  64   1                  4992 \Seq\SEQ_GS_C_YOSHINO.sseq
-  SEQ_GS_C_KIKYOU             1007      71001  70  30  64   1                  7072 \Seq\SEQ_GS_C_KIKYOU.sseq
-  SEQ_GS_T_HIWADA             1008      81001  86  30  64   1                  6240 \Seq\SEQ_GS_T_HIWADA.sseq
-  SEQ_GS_R_29                 1009      91001  82  30  64   1                  6976 \Seq\SEQ_GS_R_29.sseq
-  SEQ_GS_R_30                 1010     101001  68  30  64   1                  5088 \Seq\SEQ_GS_R_30.sseq
-  SEQ_GS_R_26                 1011     111001  68  30  64   1                  4064 \Seq\SEQ_GS_R_26.sseq
-  SEQ_GS_POKESEN              1012     121001  86  30  64   1                  5280 \Seq\SEQ_GS_POKESEN.sseq
-  SEQ_GS_UTSUGI_RABO          1013     131001  96  30  64   1                 14880 \Seq\SEQ_GS_UTSUGI_RABO.sseq
-  SEQ_GS_GYM                  1014     141001  76  30  64   1                  4288 \Seq\SEQ_GS_GYM.sseq
-  SEQ_GS_VS_NORAPOKE_A        1015     151002  80  30  64   7                  3360 \Seq\SEQ_GS_VS_NORAPOKE_A.sseq
-  SEQ_GS_D_CHIKATSUURO        1016     161003  90  30  64   1                  7840 \Seq\SEQ_GS_D_CHIKATSUURO.sseq
+  SEQ_GS_C_KIKYOU             1007      71001  76  30  64   1                  7072 \Seq\SEQ_GS_C_KIKYOU.sseq
+  SEQ_GS_T_HIWADA             1008      81001  94  30  64   1                  6240 \Seq\SEQ_GS_T_HIWADA.sseq
+  SEQ_GS_R_29                 1009      91001  88  30  64   1                  6976 \Seq\SEQ_GS_R_29.sseq
+  SEQ_GS_R_30                 1010     101001  76  30  64   1                  5088 \Seq\SEQ_GS_R_30.sseq
+  SEQ_GS_R_26                 1011     111001  76  30  64   1                  4064 \Seq\SEQ_GS_R_26.sseq
+  SEQ_GS_POKESEN              1012     121001  88  30  64   1                  5280 \Seq\SEQ_GS_POKESEN.sseq
+  SEQ_GS_UTSUGI_RABO          1013     131001  86  30  64   1                 14880 \Seq\SEQ_GS_UTSUGI_RABO.sseq
+  SEQ_GS_GYM                  1014     141001  64  30  64   1                  4288 \Seq\SEQ_GS_GYM.sseq
+  SEQ_GS_VS_NORAPOKE_A        1015     151002  78  30  64   7                  3360 \Seq\SEQ_GS_VS_NORAPOKE_A.sseq
+  SEQ_GS_D_CHIKATSUURO        1016     161003 100  30  64   1                  7840 \Seq\SEQ_GS_D_CHIKATSUURO.sseq
   SEQ_GS_TITLE01              1017     171004  90  30  64   7                  6720 \Seq\SEQ_GS_TITLE01.sseq
   SEQ_GS_STARTING             1018     181001  76  30  64   7                  2144 \Seq\SEQ_GS_STARTING.sseq
   SEQ_GS_STARTING2            1019     191001  68  30  64   7                  5088 \Seq\SEQ_GS_STARTING2.sseq
