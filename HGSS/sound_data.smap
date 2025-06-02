@@ -1010,7 +1010,7 @@
   SEQ_TOWN04_D                1007      71001 110  30  64   1                  6952 \Seq\SEQ_TOWN04_D.sseq
   SEQ_TOWN06_D                1008      81001  94  30  64   1                 12160 \Seq\SEQ_TOWN06_D.sseq
   SEQ_TOWN07_D                1009      91001  96  30  64   1                  5728 \Seq\SEQ_TOWN07_D.sseq
-  SEQ_CITY01_D                1010     101001  96  30  64   1                  8756 \Seq\SEQ_CITY01_D.sseq
+  SEQ_CITY01_D                1010     101001  80  30  64   1                  8756 \Seq\SEQ_CITY01_D.sseq
   SEQ_CITY02_D                1011     111001 108  30  64   1                  8292 \Seq\SEQ_CITY02_D.sseq
   SEQ_CITY03_D                1012     121001  90  30  64   1                  7648 \Seq\SEQ_CITY03_D.sseq
   SEQ_CITY04_D                1013     131001  96  30  64   1                 13492 \Seq\SEQ_CITY04_D.sseq
@@ -1039,7 +1039,7 @@
   SEQ_TOWN04_N                1036     361001 110  30  64   1                  7020 \Seq\SEQ_TOWN04_N.sseq
   SEQ_TOWN06_N                1037     371001  94  30  64   1                 12224 \Seq\SEQ_TOWN06_N.sseq
   SEQ_TOWN07_N                1038     381001  95  30  64   1                  5876 \Seq\SEQ_TOWN07_N.sseq
-  SEQ_CITY01_N                1039     391001 104  30  64   1                  8756 \Seq\SEQ_CITY01_N.sseq
+  SEQ_CITY01_N                1039     391001  80  30  64   1                  8756 \Seq\SEQ_CITY01_N.sseq
   SEQ_CITY02_N                1040     401001 110  30  64   1                  8260 \Seq\SEQ_CITY02_N.sseq
   SEQ_CITY03_N                1041     411001  90  30  64   1                  7604 \Seq\SEQ_CITY03_N.sseq
   SEQ_CITY04_N                1042     421001  98  30  64   1                 12520 \Seq\SEQ_CITY04_N.sseq
