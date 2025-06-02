@@ -1028,7 +1028,7 @@
   SEQ_GS_TITLE                1025     251001 125  30  64   1                  1116 \Seq\SEQ_GS_TITLE.sseq
   SEQ_GS_TAIKAIMAE            1026     261001 125  30  64   1                  1116 \Seq\SEQ_GS_TAIKAIMAE.sseq
   SEQ_GS_TAIKAI               1027     271001 125  30  64   1                  1116 \Seq\SEQ_GS_TAIKAI.sseq
-  SEQ_GS_T_WAKABA             1028     281001 125  30  64   1                  1116 \Seq\SEQ_GS_T_WAKABA.sseq
+  SEQ_GS_T_WAKABA             1028     281001 100  30  64   1                  1116 \Seq\SEQ_GS_T_WAKABA.sseq
   SEQ_GS_T_MASARA             1029     291001 125  30  64   1                  1116 \Seq\SEQ_GS_T_MASARA.sseq
   SEQ_GS_T_HIWADA             1030     301001 125  30  64   1                  1116 \Seq\SEQ_GS_T_HIWADA.sseq
   SEQ_GS_T_CHION              1031     311001 125  30  64   1                  1116 \Seq\SEQ_GS_T_CHION.sseq
