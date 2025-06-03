@@ -1009,7 +1009,7 @@
   SEQ_GS_STARTING2            1006      61001  76  30  64   7                  5076 \Seq\SEQ_GS_STARTING2.sseq
   SEQ_GS_BICYCLE              1007      71000 110  30  64   7                  5728 \Seq\SEQ_GS_BICYCLE.sseq
   SEQ_GS_SHINKA               1008      81000 100  30  64   1                  5352 \Seq\SEQ_GS_SHINKA.sseq
-  SEQ_GS_NAMINORI             1009      91000 125  30  64   1                  9388 \Seq\SEQ_GS_NAMINORI.sseq
+  SEQ_GS_NAMINORI             1009      91000 100  30  64   1                  9388 \Seq\SEQ_GS_NAMINORI.sseq
   SEQ_GS_C_ENJU               1010     101001  60  30  64   1                  8176 \Seq\SEQ_GS_C_ENJU.sseq
   SEQ_GS_C_KIKYOU             1011     111001  55  30  64   1                  7656 \Seq\SEQ_GS_C_KIKYOU.sseq
   SEQ_GS_C_KOGANE             1012     121001  92  30  64   1                  4124 \Seq\SEQ_GS_C_KOGANE.sseq
