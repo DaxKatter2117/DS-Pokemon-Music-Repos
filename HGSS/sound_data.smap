@@ -2136,11 +2136,11 @@
   SEQ_SE_GS_N_UMIBE           2133    9171500 120 114  64   5                   160 \Seq\SEQ_SE_GS_N_UMIBE.sseq
   SEQ_SE_GS_N_HUUSHA          2134    9181500 120 114  64   5                   320 \Seq\SEQ_SE_GS_N_HUUSHA.sseq
   SEQ_SE_GS_HASHIRA           2135    9191500 127 114  64   5                   256 \Seq\SEQ_SE_GS_HASHIRA.sseq
-  SEQ_SE_GS_PHONE0            2136    9201000 120  89  64   3                   160 \Seq\SEQ_SE_GS_PHONE0.sseq
-  SEQ_SE_GS_PHONE1            2137    9211000 120  89  64   3                   160 \Seq\SEQ_SE_GS_PHONE1.sseq
-  SEQ_SE_GS_PHONE_OFF         2138    9221000 120  89  64   3                    96 \Seq\SEQ_SE_GS_PHONE_OFF.sseq
-  SEQ_SE_GS_OCHIBA            2139    9231500 120  84  64   3                   192 \Seq\SEQ_SE_GS_OCHIBA.sseq
-  SEQ_SE_GS_ASHIOTO           2140    9241500 120  84  64   3                   128 \Seq\SEQ_SE_GS_ASHIOTO.sseq
+  SEQ_SE_GS_OCHIBA            2136    9201500 120  64  54   4                   192 \Seq\SEQ_SE_GS_OCHIBA.sseq
+  SEQ_SE_GS_ASHIOTO           2137    9211500 120  64  54   4                   128 \Seq\SEQ_SE_GS_ASHIOTO.sseq
+  SEQ_SE_GS_PHONE0            2138    9221000 120  89  64   3                   160 \Seq\SEQ_SE_GS_PHONE0.sseq
+  SEQ_SE_GS_PHONE1            2139    9231000 120  89  64   3                   160 \Seq\SEQ_SE_GS_PHONE1.sseq
+  SEQ_SE_GS_PHONE_OFF         2140    9241000 120  89  64   3                    96 \Seq\SEQ_SE_GS_PHONE_OFF.sseq
   SEQ_SE_END                  2141      01000   0   0   0   0                    64 \Seq\SEQ_SE_END.sseq
 
 # SEQARC:
@@ -6115,11 +6115,11 @@
      917 0x001AFAA0        160   \Seq\SEQ_SE_GS_N_UMIBE.sseq
      918 0x001AFB40        320   \Seq\SEQ_SE_GS_N_HUUSHA.sseq
      919 0x001AFC80        256   \Seq\SEQ_SE_GS_HASHIRA.sseq
-     920 0x001AFD80        160   \Seq\SEQ_SE_GS_PHONE0.sseq
-     921 0x001AFE20        160   \Seq\SEQ_SE_GS_PHONE1.sseq
-     922 0x001AFEC0         96   \Seq\SEQ_SE_GS_PHONE_OFF.sseq
-     923 0x001AFF20        192   \Seq\SEQ_SE_GS_OCHIBA.sseq
-     924 0x001AFFE0        128   \Seq\SEQ_SE_GS_ASHIOTO.sseq
+     920 0x001AFD80        192   \Seq\SEQ_SE_GS_OCHIBA.sseq
+     921 0x001AFE40        128   \Seq\SEQ_SE_GS_ASHIOTO.sseq
+     922 0x001AFEC0        160   \Seq\SEQ_SE_GS_PHONE0.sseq
+     923 0x001AFF60        160   \Seq\SEQ_SE_GS_PHONE1.sseq
+     924 0x001B0000         96   \Seq\SEQ_SE_GS_PHONE_OFF.sseq
      925 0x001B0060         96   \Bank\BANK_PV001.sbnk
      926 0x001B00C0         96   \Bank\BANK_PV002.sbnk
      927 0x001B0120         96   \Bank\BANK_PV003.sbnk
