@@ -1052,7 +1052,7 @@
   SEQ_GS_TO_MADATSUBOMI1      1049     41 728  76  30  64   1                  5816 \Seq\SEQ_GS_TO_MADATSUBOMI1.sseq
   SEQ_GS_D_CHIKATSUURO        1050     42 727 100  30  64   1                  7852 \Seq\SEQ_GS_D_CHIKATSUURO.sseq
   SEQ_GS_D_UNKNOWN_ISEKI      1051     43 727 115  30  64   1                  3756 \Seq\SEQ_GS_D_UNKNOWN_ISEKI.sseq
-  SEQ_GS_D_KOUEN              1052     44 701  90  30  64   1                  4420 \Seq\SEQ_GS_D_KOUEN.sseq
+  SEQ_GS_D_KOUEN              1052     44 727  90  30  64   1                  4420 \Seq\SEQ_GS_D_KOUEN.sseq
   SEQ_GS_TO_YAKETA            1053     45 729  86  30  64   1                  6916 \Seq\SEQ_GS_TO_YAKETA.sseq
   SEQ_GS_TO_SUZU              1054     46 729 100  30  64   1                  4236 \Seq\SEQ_GS_TO_SUZU.sseq
   SEQ_GS_TO_TOUDAI            1055     47 727  70  30  64   1                  5816 \Seq\SEQ_GS_TO_TOUDAI.sseq
@@ -1061,7 +1061,7 @@
   SEQ_GS_RYUUNOANA            1058     50 727 108  30  64   1                  7560 \Seq\SEQ_GS_RYUUNOANA.sseq
   SEQ_GS_D_IWAYAMA            1059     51 727 120  30  64   1                 10348 \Seq\SEQ_GS_D_IWAYAMA.sseq
   SEQ_GS_D_CHAMPROAD          1060     52 727 115  30  64   1                  4812 \Seq\SEQ_GS_D_CHAMPROAD.sseq
-  SEQ_GS_CHAMPROAD            1061     53 701 100  30  64   1                  4064 \Seq\SEQ_GS_CHAMPROAD.sseq
+  SEQ_GS_CHAMPROAD            1061     53 709 100  30  64   1                  4064 \Seq\SEQ_GS_CHAMPROAD.sseq
   SEQ_GS_E_TSURETEKE1         1062     54 700  90  30  64   7                  1044 \Seq\SEQ_GS_E_TSURETEKE1.sseq
   SEQ_GS_E_TSURETEKE2         1063     55 700  90  30  64   7                  3432 \Seq\SEQ_GS_E_TSURETEKE2.sseq
   SEQ_GS_E_RIVAL1             1064     56 700  65  30  64   7                  5880 \Seq\SEQ_GS_E_RIVAL1.sseq
@@ -1071,7 +1071,7 @@
   SEQ_GS_KAIDENPA             1068     60 700 110  30  64   7                   520 \Seq\SEQ_GS_KAIDENPA.sseq
   SEQ_GS_SENKYO               1069     61 700  65  30  64   1                  2992 \Seq\SEQ_GS_SENKYO.sseq
   SEQ_GS_E_LINEAR             1070     62 700 118  30  64   7                  2084 \Seq\SEQ_GS_E_LINEAR.sseq
-  SEQ_GS_KOUSOKUSEN           1071     63 701  95  30  64   1                  8688 \Seq\SEQ_GS_KOUSOKUSEN.sseq
+  SEQ_GS_KOUSOKUSEN           1071     63 727  95  30  64   1                  8688 \Seq\SEQ_GS_KOUSOKUSEN.sseq
   SEQ_GS_RADIO_JINGLE         1072     64 700 100  30  64   7                  1936 \Seq\SEQ_GS_RADIO_JINGLE.sseq
   SEQ_GS_RADIO_KOMORIUTA      1073     65 700 100  30  64   7                  1068 \Seq\SEQ_GS_RADIO_KOMORIUTA.sseq
   SEQ_GS_RADIO_MARCH          1074     66 700 100  30  64   7                  3456 \Seq\SEQ_GS_RADIO_MARCH.sseq
@@ -1084,8 +1084,8 @@
   SEQ_GS_EYE_BOUZU            1081     73 700 100  30  64   7                  3356 \Seq\SEQ_GS_EYE_BOUZU.sseq
   SEQ_GS_EYE_MAIKO            1082     74 700 100  30  64   7                  3156 \Seq\SEQ_GS_EYE_MAIKO.sseq
   SEQ_GS_EYE_ROCKET           1083     75 700  70  30  64   7                  2992 \Seq\SEQ_GS_EYE_ROCKET.sseq
-  SEQ_GS_EYE_K_SHOUJO         1084     76 701 115  30  64   1                  2856 \Seq\SEQ_GS_EYE_K_SHOUJO.sseq
-  SEQ_GS_EYE_K_SHOUNEN        1085     77 701  95  30  64   1                  3548 \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
+  SEQ_GS_EYE_K_SHOUJO         1084     76 700 115  30  64   7                  2856 \Seq\SEQ_GS_EYE_K_SHOUJO.sseq
+  SEQ_GS_EYE_K_SHOUNEN        1085     77 700  95  30  64   7                  3548 \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
   SEQ_GS_EYE_K_AYASHII        1086     78 700  98  30  64   7                  2572 \Seq\SEQ_GS_EYE_K_AYASHII.sseq
   SEQ_GS_VS_NORAPOKE          1087     79 719  80  30  64   7                 10620 \Seq\SEQ_GS_VS_NORAPOKE.sseq
   SEQ_GS_VS_TRAINER           1088     80 719  72  30  64   7                 18260 \Seq\SEQ_GS_VS_TRAINER.sseq
@@ -1094,7 +1094,7 @@
   SEQ_GS_VS_ROCKET            1091     83 719 118  30  64   7                 10168 \Seq\SEQ_GS_VS_ROCKET.sseq
   SEQ_GS_VS_CHAMP             1092     84 721 123  30  64   7                 12656 \Seq\SEQ_GS_VS_CHAMP.sseq
   SEQ_GS_VS_NORAPOKE_KANTO    1093     85 719 122  30  64   7                 11216 \Seq\SEQ_GS_VS_NORAPOKE_KANTO.sseq
-  SEQ_GS_VS_TRAINER_KANTO     1094     86 722 105  30  64   1                  9696 \Seq\SEQ_GS_VS_TRAINER_KANTO.sseq
+  SEQ_GS_VS_TRAINER_KANTO     1094     86 722 105  30  64   7                  9696 \Seq\SEQ_GS_VS_TRAINER_KANTO.sseq
   SEQ_GS_VS_GYMREADER_KANTO   1095     87 723  70  30  64   7                 16268 \Seq\SEQ_GS_VS_GYMREADER_KANTO.sseq
   SEQ_GS_WIN1                 1096     88 700 125  30  64   7                  3032 \Seq\SEQ_GS_WIN1.sseq
   SEQ_GS_WIN2                 1097     89 700 125  30  64   7                  3056 \Seq\SEQ_GS_WIN2.sseq
