@@ -1751,7 +1751,7 @@
   SEQ_SE_DP_CLIMAX15          1748    657 750 120  89  64   3                   136 \Seq\SEQ_SE_DP_CLIMAX15.sseq
   SEQ_SE_DP_TRAIN02           1749    658 764 127  89  64   3                   256 \Seq\SEQ_SE_DP_TRAIN02.sseq
   SEQ_SE_DP_TRAIN03           1750    659 764 127  89  64   3                   104 \Seq\SEQ_SE_DP_TRAIN03.sseq
-  SEQ_SE_DP_TRAIN04           1751    660 700 115  89  64   4                    72 \Seq\SEQ_SE_DP_TRAIN04.sseq
+  SEQ_SE_DP_TRAIN04           1751    660 700 120  89  64   4                    72 \Seq\SEQ_SE_DP_TRAIN04.sseq
   SEQ_SE_DP_SHIP01            1752    661 765 100  89  64   3                   120 \Seq\SEQ_SE_DP_SHIP01.sseq
   SEQ_SE_DP_SHIP02            1753    662 765 100  89  64   3                    88 \Seq\SEQ_SE_DP_SHIP02.sseq
   SEQ_SE_DP_SHIP03            1754    663 750 100  89  64   4                    96 \Seq\SEQ_SE_DP_SHIP03.sseq
@@ -2185,9 +2185,9 @@
   SEQ_SE_GS_FW104             2182   1066 770 105  89  64   3                   108 \Seq\SEQ_SE_GS_FW104.sseq
   SEQ_SE_GS_BAN               2183   1001 770 110  89  64   4                   108 \Seq\SEQ_SE_GS_BAN.sseq
   SEQ_SE_GS_W091              2184    868 770 110  89  64   4                   100 \Seq\SEQ_SE_GS_W091.sseq
-  SEQ_SE_GS_TAMA              2185   1067 770 110  89  64   4                   100 \Seq\SEQ_SE_GS_TAMA.sseq
+  SEQ_SE_GS_TAMA              2185   1067 770 120  89  64   4                   100 \Seq\SEQ_SE_GS_TAMA.sseq
   SEQ_SE_GS_NIGI              2186   1068 770 127  89  64   5                    80 \Seq\SEQ_SE_GS_NIGI.sseq
-  SEQ_SE_GS_160               2187    750 770 110  89  64   5                    96 \Seq\SEQ_SE_GS_160.sseq
+  SEQ_SE_GS_160               2187    750 770  90  89  64   5                    96 \Seq\SEQ_SE_GS_160.sseq
   SEQ_SE_GS_W100              2188   1069 770 127  89  64   3                   548 \Seq\SEQ_SE_GS_W100.sseq
   SEQ_SE_GS_NAGERU            2189    694 770 110 104  64   3                    96 \Seq\SEQ_SE_GS_NAGERU.sseq
   SEQ_SE_GS_BOWA2             2190   1070 770 115 104  64   3                    92 \Seq\SEQ_SE_GS_BOWA2.sseq
