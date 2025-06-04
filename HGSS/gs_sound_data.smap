@@ -2160,10 +2160,10 @@
   SEQ_SE_GS_GII               2157   1046 750 100  89  64   3                    84 \Seq\SEQ_SE_GS_GII.sseq
   SEQ_SE_DP_FW411             2158    979 750 120  89  64   3                   324 \Seq\SEQ_SE_DP_FW411.sseq
   SEQ_SE_DP_F207              2159   1047 750 110  89  64   4                   440 \Seq\SEQ_SE_DP_F207.sseq
-  SEQ_SE_GS_POINT1            2160   1048 700 100  89  64   6                    76 \Seq\SEQ_SE_GS_POINT1.sseq
-  SEQ_SE_GS_POINT2            2161   1049 700 100  89  64   6                    88 \Seq\SEQ_SE_GS_POINT2.sseq
-  SEQ_SE_GS_POINT3            2162   1050 700 100  89  64   6                   108 \Seq\SEQ_SE_GS_POINT3.sseq
-  SEQ_SE_GS_W146              2163    892 770 100  89  64   6                   124 \Seq\SEQ_SE_GS_W146.sseq
+  SEQ_SE_GS_POINT1            2160   1048 700 100 104  64   6                    76 \Seq\SEQ_SE_GS_POINT1.sseq
+  SEQ_SE_GS_POINT2            2161   1049 700 100 104  64   6                    88 \Seq\SEQ_SE_GS_POINT2.sseq
+  SEQ_SE_GS_POINT3            2162   1050 700 100 104  64   6                   108 \Seq\SEQ_SE_GS_POINT3.sseq
+  SEQ_SE_GS_W146              2163    892 770 100  89  54   6                   124 \Seq\SEQ_SE_GS_W146.sseq
   SEQ_SE_GS_DODON             2164   1051 770 120  89  64   3                    96 \Seq\SEQ_SE_GS_DODON.sseq
   SEQ_SE_GS_PUSH02            2165   1052 770 100  89  64   3                   304 \Seq\SEQ_SE_GS_PUSH02.sseq
   SEQ_SE_GS_PUSH03            2166   1053 770 127  89  64   4                    92 \Seq\SEQ_SE_GS_PUSH03.sseq
