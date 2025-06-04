@@ -1526,8 +1526,8 @@
   SEQ_SE_DP_BOX03             1523    561 500 115 104  64   3                    60 \Seq\SEQ_SE_DP_BOX03.sseq
   SEQ_SE_DP_SELECT_SLOT       1524    319 500  72 104  64   4                   120 \Seq\SEQ_SE_DP_SELECT_SLOT.sseq
   SEQ_SE_DP_CARD10            1525    562 500 110  89  64   4                   132 \Seq\SEQ_SE_DP_CARD10.sseq
-  SEQ_SE_DP_KATI              1526    563 500 127 104  64   3                    76 \Seq\SEQ_SE_DP_KATI.sseq
-  SEQ_SE_DP_CON_014           1527    563 500 110  89  64   6                    76 \Seq\SEQ_SE_DP_CON_014.sseq
+  SEQ_SE_DP_KATI              1526    563 550 115 104  64   3                    96 \Seq\SEQ_SE_DP_KATI.sseq
+  SEQ_SE_DUMMY_9378           1527    319 500 110  89  64   6                   120 \Seq\SEQ_SE_DUMMY_9378.sseq
   SEQ_SE_DP_W025              1528    564 500 110  89  64   3                   280 \Seq\SEQ_SE_DP_W025.sseq
   SEQ_SE_DP_W060C             1529    565 500 127  89  64   3                  1196 \Seq\SEQ_SE_DP_W060C.sseq
   SEQ_SE_DP_W062              1530    566 500 117  89  64   3                   448 \Seq\SEQ_SE_DP_W062.sseq
@@ -2223,7 +2223,7 @@
   SEQ_SE_GS_VOICE09           2220   1201 571 127  89  64   3                    64 \Seq\SEQ_SE_GS_VOICE09.sseq
   SEQ_SE_GS_CON_005           2221    778 571 106  89  64   3                    56 \Seq\SEQ_SE_GS_CON_005.sseq
   SEQ_SE_GS_FW255E            2222   1202 550 110  89  64   3                   104 \Seq\SEQ_SE_GS_FW255E.sseq
-  SEQ_SE_GS_BON01             2223   1203 550 110  89  64   3                   104 \Seq\SEQ_SE_GS_BON01.sseq
+  SEQ_SE_GS_BON01             2223   1203 550 127  89  64   3                   104 \Seq\SEQ_SE_GS_BON01.sseq
   SEQ_SE_GS_ZKN02             2224   1204 556 110  89  64   3                    88 \Seq\SEQ_SE_GS_ZKN02.sseq
   SEQ_SE_GS_HYUN2             2225   1205 559 110  89  64   3                   208 \Seq\SEQ_SE_GS_HYUN2.sseq
   SEQ_SE_END                  2226      0 500   0   0   0   0                    44 \Seq\SEQ_SE_END.sseq
@@ -3949,7 +3949,7 @@
      560 0x002431E0         52   \Seq\SEQ_SE_DP_CUSTOM06.sseq
      561 0x00243220         60   \Seq\SEQ_SE_DP_BOX03.sseq
      562 0x00243260        132   \Seq\SEQ_SE_DP_CARD10.sseq
-     563 0x00243300         76   \Seq\SEQ_SE_DP_CON_014.sseq
+     563 0x00243300         96   \Seq\SEQ_SE_DP_KATI.sseq
      564 0x00243360        280   \Seq\SEQ_SE_DP_W025.sseq
      565 0x00243480       1196   \Seq\SEQ_SE_DP_W060C.sseq
      566 0x00243940        448   \Seq\SEQ_SE_DP_W062.sseq
