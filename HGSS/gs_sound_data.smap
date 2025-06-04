@@ -2218,7 +2218,7 @@
   SEQ_SE_GS_VOICE08           2215   1098 771 127  89  64   3                   124 \Seq\SEQ_SE_GS_VOICE08.sseq
   SEQ_SE_GS_VOICE09           2216   1099 771 127  89  64   3                   124 \Seq\SEQ_SE_GS_VOICE09.sseq
   SEQ_SE_GS_FW255E            2217   1100 750 110  89  64   3                   104 \Seq\SEQ_SE_GS_FW255E.sseq
-  SEQ_SE_GS_BON01             2218   1101 750 110  89  64   3                   120 \Seq\SEQ_SE_GS_BON01.sseq
+  SEQ_SE_GS_BON01             2218   1101 750 110  89  64   3                   104 \Seq\SEQ_SE_GS_BON01.sseq
   SEQ_SE_END                  2219      0 700   0   0   0   0                    44 \Seq\SEQ_SE_END.sseq
 
 # SEQARC:
@@ -4880,7 +4880,7 @@
     1098 0x00224C40        124   \Seq\SEQ_SE_GS_VOICE08.sseq
     1099 0x00224CC0        124   \Seq\SEQ_SE_GS_VOICE09.sseq
     1100 0x00224D40        104   \Seq\SEQ_SE_GS_FW255E.sseq
-    1101 0x00224DC0        120   \Seq\SEQ_SE_GS_BON01.sseq
+    1101 0x00224DC0        104   \Seq\SEQ_SE_GS_BON01.sseq
     1102 0x00224E40         76   \Bank\BANK_PV001.sbnk
     1103 0x00224EA0         76   \Bank\BANK_PV002.sbnk
     1104 0x00224F00         76   \Bank\BANK_PV003.sbnk
