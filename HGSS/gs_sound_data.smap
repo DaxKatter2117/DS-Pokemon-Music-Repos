@@ -1135,7 +1135,7 @@
   SEQ_GS_BF_ROULETTE          1132    122 730  95  30  64   1                 14520 \Seq\SEQ_GS_BF_ROULETTE.sseq
   SEQ_GS_BF_CASTLE            1133    123 730 114  30  64   1                 11588 \Seq\SEQ_GS_BF_CASTLE.sseq
   SEQ_GS_BA_BRAIN             1134    124 722 115  30  64   7                 12448 \Seq\SEQ_GS_BA_BRAIN.sseq
-  SEQ_GS_WINBRAIN             1135    125 722 118  30  64   7                  3152 \Seq\SEQ_GS_WINBRAIN.sseq
+  SEQ_GS_WINBRAIN             1135    125 700 118  30  64   7                  3152 \Seq\SEQ_GS_WINBRAIN.sseq
   SEQ_GS_WIFIUNION            1136    126 701 100  30  64   7                  9716 \Seq\SEQ_GS_WIFIUNION.sseq
   SEQ_GS_WIFIGAME             1137    127 701 115  30  64   7                  4848 \Seq\SEQ_GS_WIFIGAME.sseq
   SEQ_GS_WIFIPARADE           1138    128 701 110  30  64   7                  8576 \Seq\SEQ_GS_WIFIPARADE.sseq
@@ -1183,7 +1183,7 @@
   SEQ_PL_BF_ROULETTE          1180    169 730  95  30  64   1                 14520 \Seq\SEQ_PL_BF_ROULETTE.sseq
   SEQ_PL_BF_CASTLE            1181    170 730 114  30  64   1                 11588 \Seq\SEQ_PL_BF_CASTLE.sseq
   SEQ_PL_BA_BRAIN             1182    171 722 105  30  64   7                 12448 \Seq\SEQ_PL_BA_BRAIN.sseq
-  SEQ_PL_WINBRAIN             1183    172 722 118  30  64   7                  3152 \Seq\SEQ_PL_WINBRAIN.sseq
+  SEQ_PL_WINBRAIN             1183    172 700 118  30  64   7                  3152 \Seq\SEQ_PL_WINBRAIN.sseq
   SEQ_PL_WIFIUNION            1184    173 701 100  30  64   7                  9716 \Seq\SEQ_PL_WIFIUNION.sseq
   SEQ_PL_WIFIGAME             1185    174 701 115  30  64   7                  4848 \Seq\SEQ_PL_WIFIGAME.sseq
   SEQ_PL_WIFIPARADE           1186    175 701 110  30  64   7                  8576 \Seq\SEQ_PL_WIFIPARADE.sseq
@@ -2134,29 +2134,29 @@
   SEQ_SE_DP_DODON             2131   1027 751 120  89  64   3                    96 \Seq\SEQ_SE_DP_DODON.sseq
   SEQ_SE_GS_N_SESERAGI        2132   1028 750 120 114  64   5                    64 \Seq\SEQ_SE_GS_N_SESERAGI.sseq
   SEQ_SE_GS_N_UMIBE           2133   1029 750 120 114  64   5                   140 \Seq\SEQ_SE_GS_N_UMIBE.sseq
-  SEQ_SE_GS_N_HUUSHA          2134   1030 750 120 114  64   5                   316 \Seq\SEQ_SE_GS_N_HUUSHA.sseq
+  SEQ_SE_GS_N_HUUSHA          2134   1030 750 127 114  64   5                   316 \Seq\SEQ_SE_GS_N_HUUSHA.sseq
   SEQ_SE_GS_N_HASHIRA         2135   1031 750 127 114  64   5                   256 \Seq\SEQ_SE_GS_N_HASHIRA.sseq
-  SEQ_SE_GS_N_ENGINE          2136   1032 750 120 114  64   5                    64 \Seq\SEQ_SE_GS_N_ENGINE.sseq
+  SEQ_SE_GS_N_ENGINE          2136   1032 750 127 114  64   5                    64 \Seq\SEQ_SE_GS_N_ENGINE.sseq
   SEQ_SE_GS_N_KABIGON         2137   1033 750 120 114  64   5                   160 \Seq\SEQ_SE_GS_N_KABIGON.sseq
   SEQ_SE_GS_N_KANE            2138   1034 750 120 114  64   5                    84 \Seq\SEQ_SE_GS_N_KANE.sseq
-  SEQ_SE_GS_N_KAZE            2139   1035 750 120 114  64   5                   436 \Seq\SEQ_SE_GS_N_KAZE.sseq
+  SEQ_SE_GS_N_KAZE            2139   1035 750 127 114  64   5                   436 \Seq\SEQ_SE_GS_N_KAZE.sseq
   SEQ_SE_GS_N_KITEKI          2140   1036 750 120 114  64   5                   100 \Seq\SEQ_SE_GS_N_KITEKI.sseq
-  SEQ_SE_GS_N_MOTER           2141   1037 750 100 114  64   5                    96 \Seq\SEQ_SE_GS_N_MOTER.sseq
+  SEQ_SE_GS_N_MOTER           2141   1037 750  70 114  64   5                    96 \Seq\SEQ_SE_GS_N_MOTER.sseq
   SEQ_SE_GS_N_LINEAR          2142   1038 750 120 114  64   5                   168 \Seq\SEQ_SE_GS_N_LINEAR.sseq
   SEQ_SE_GS_N_TAKI            2143   1039 750 100 114  64   5                    76 \Seq\SEQ_SE_GS_N_TAKI.sseq
-  SEQ_SE_GS_N_UZUSIO          2144   1040 750 100 114  64   5                   268 \Seq\SEQ_SE_GS_N_UZUSIO.sseq
-  SEQ_SE_GS_N_YOUGAN          2145   1041 750 127 114  64   5                   132 \Seq\SEQ_SE_GS_N_YOUGAN.sseq
+  SEQ_SE_GS_N_UZUSIO          2144   1040 750 100 114  64   5                   264 \Seq\SEQ_SE_GS_N_UZUSIO.sseq
+  SEQ_SE_GS_N_YOUGAN          2145   1041 750 127 114  64   5                   144 \Seq\SEQ_SE_GS_N_YOUGAN.sseq
   SEQ_SE_GS_OCHIBA            2146   1042 750 127  64  54   4                   180 \Seq\SEQ_SE_GS_OCHIBA.sseq
   SEQ_SE_GS_ASHIOTO           2147   1043 750 100  64  54   4                   120 \Seq\SEQ_SE_GS_ASHIOTO.sseq
   SEQ_SE_GS_ASHIOTO_A_WALK    2148   1044 750  80  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_A_WALK.sseq
   SEQ_SE_GS_ASHIOTO_A         2149   1045 750  80  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_A.sseq
   SEQ_SE_GS_ASHIOTO_B         2150   1046 750  80  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_B.sseq
   SEQ_SE_GS_ASHIOTO_C         2151   1044 750 105  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_C.sseq
-  SEQ_SE_GS_ASHIOTO_D         2152   1047 750  90  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_D.sseq
-  SEQ_SE_GS_ASHIOTO_D_2       2153   1048 750  72  64  54   4                    84 \Seq\SEQ_SE_GS_ASHIOTO_D_2.sseq
+  SEQ_SE_GS_ASHIOTO_D         2152   1047 750 110  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_D.sseq
+  SEQ_SE_GS_ASHIOTO_D_2       2153   1048 750  72  64  54   4                    96 \Seq\SEQ_SE_GS_ASHIOTO_D_2.sseq
   SEQ_SE_GS_ASHIOTO_E         2154   1049 750  90  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_E.sseq
   SEQ_SE_GS_ASHIOTO_F         2155   1050 750  80  64  54   4                    76 \Seq\SEQ_SE_GS_ASHIOTO_F.sseq
-  SEQ_SE_GS_ASHIOTO_G         2156   1051 750  55  64  54   4                   108 \Seq\SEQ_SE_GS_ASHIOTO_G.sseq
+  SEQ_SE_GS_ASHIOTO_G         2156   1051 750  47  64  54   4                   108 \Seq\SEQ_SE_GS_ASHIOTO_G.sseq
   SEQ_SE_GS_ASHIOTO_H         2157   1052 750  90  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_H.sseq
   SEQ_SE_GS_EDAPAKI           2158   1053 750 120  64  54   4                    76 \Seq\SEQ_SE_GS_EDAPAKI.sseq
   SEQ_SE_GS_PHONE0            2159   1054 700 120  89  64   3                   156 \Seq\SEQ_SE_GS_PHONE0.sseq
@@ -4819,15 +4819,15 @@
     1037 0x00221EA0         96   \Seq\SEQ_SE_GS_N_MOTER.sseq
     1038 0x00221F00        168   \Seq\SEQ_SE_GS_N_LINEAR.sseq
     1039 0x00221FC0         76   \Seq\SEQ_SE_GS_N_TAKI.sseq
-    1040 0x00222020        268   \Seq\SEQ_SE_GS_N_UZUSIO.sseq
-    1041 0x00222140        132   \Seq\SEQ_SE_GS_N_YOUGAN.sseq
+    1040 0x00222020        264   \Seq\SEQ_SE_GS_N_UZUSIO.sseq
+    1041 0x00222140        144   \Seq\SEQ_SE_GS_N_YOUGAN.sseq
     1042 0x002221E0        180   \Seq\SEQ_SE_GS_OCHIBA.sseq
     1043 0x002222A0        120   \Seq\SEQ_SE_GS_ASHIOTO.sseq
     1044 0x00222320        116   \Seq\SEQ_SE_GS_ASHIOTO_C.sseq
     1045 0x002223A0        116   \Seq\SEQ_SE_GS_ASHIOTO_A.sseq
     1046 0x00222420        116   \Seq\SEQ_SE_GS_ASHIOTO_B.sseq
     1047 0x002224A0        116   \Seq\SEQ_SE_GS_ASHIOTO_D.sseq
-    1048 0x00222520         84   \Seq\SEQ_SE_GS_ASHIOTO_D_2.sseq
+    1048 0x00222520         96   \Seq\SEQ_SE_GS_ASHIOTO_D_2.sseq
     1049 0x00222580        116   \Seq\SEQ_SE_GS_ASHIOTO_E.sseq
     1050 0x00222600         76   \Seq\SEQ_SE_GS_ASHIOTO_F.sseq
     1051 0x00222660        108   \Seq\SEQ_SE_GS_ASHIOTO_G.sseq
