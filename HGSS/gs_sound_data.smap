@@ -2738,9 +2738,9 @@
   BANK_BGM_FIELD1              502   1702 500 502                              4168 \Bank\BANK_BGM_FIELD1.sbnk
   BANK_BGM_FIELD2              503   1703 500 503                              4084 \Bank\BANK_BGM_FIELD2.sbnk
   BANK_BGM_FIELD3              504   1704 500 504                              4020 \Bank\BANK_BGM_FIELD3.sbnk
-  BANK_BGM_FIELD4              505   1705 500 505                              4160 \Bank\BANK_BGM_FIELD4.sbnk
+  BANK_BGM_FIELD4              505   1705 500 505                              4076 \Bank\BANK_BGM_FIELD4.sbnk
   BANK_BGM_FIELD5              506   1706 500 506                              4148 \Bank\BANK_BGM_FIELD5.sbnk
-  BANK_BGM_FIELD6              507   1707 500 507                              4188 \Bank\BANK_BGM_FIELD6.sbnk
+  BANK_BGM_FIELD6              507   1707 500 507                              4052 \Bank\BANK_BGM_FIELD6.sbnk
   BANK_BGM_FIELD7              508   1708 500 508                              4084 \Bank\BANK_BGM_FIELD7.sbnk
   BANK_BGM_FIELD8              509   1709 500 509                              4088 \Bank\BANK_BGM_FIELD8.sbnk
   BANK_BGM_FIELD9              510   1710 500 510                              4076 \Bank\BANK_BGM_FIELD9.sbnk
@@ -2752,7 +2752,7 @@
   BANK_BGM_FIELD15             516   1716 500 516                              4084 \Bank\BANK_BGM_FIELD15.sbnk
   BANK_BGM_FIELD16             517   1717 500 517                              4016 \Bank\BANK_BGM_FIELD16.sbnk
   BANK_BGM_FIELD17             518   1718 500 518                              4032 \Bank\BANK_BGM_FIELD17.sbnk
-  BANK_BGM_FIELD18             519   1719 500 519                              3868 \Bank\BANK_BGM_FIELD18.sbnk
+  BANK_BGM_FIELD18             519   1719 500 519                              4076 \Bank\BANK_BGM_FIELD18.sbnk
   BANK_BGM_BATTLE1             520   1720 500 520                              3960 \Bank\BANK_BGM_BATTLE1.sbnk
   BANK_BGM_BATTLE2             521   1721 500 521                              3924 \Bank\BANK_BGM_BATTLE2.sbnk
   BANK_BGM_BATTLE3             522   1722 500 522                              3916 \Bank\BANK_BGM_BATTLE3.sbnk
@@ -2761,13 +2761,13 @@
   BANK_BGM_BATTLE6             525   1725 500 525                              3896 \Bank\BANK_BGM_BATTLE6.sbnk
   BANK_BGM_BATTLE7             526   1726 500 526                              3976 \Bank\BANK_BGM_BATTLE7.sbnk
   BANK_BGM_BATTLE8             527   1727 500 527                              3896 \Bank\BANK_BGM_BATTLE8.sbnk
-  BANK_BGM_DUNGEON1            528   1728 500 528                              4096 \Bank\BANK_BGM_DUNGEON1.sbnk
+  BANK_BGM_DUNGEON1            528   1728 500 528                              4128 \Bank\BANK_BGM_DUNGEON1.sbnk
   BANK_BGM_DUNGEON2            529   1729 500 529                              4156 \Bank\BANK_BGM_DUNGEON2.sbnk
   BANK_BGM_DUNGEON3            530   1730 500 530                              4196 \Bank\BANK_BGM_DUNGEON3.sbnk
   BANK_BGM_DUNGEON4            531   1731 500 531                              3956 \Bank\BANK_BGM_DUNGEON4.sbnk
   BANK_BGM_DUNGEON5            532   1732 500 532                              4168 \Bank\BANK_BGM_DUNGEON5.sbnk
   BANK_BGM_DUNGEON6            533   1733 500 533                              3856 \Bank\BANK_BGM_DUNGEON6.sbnk
-  BANK_BGM_DUNGEON7            534   1734 500 534                              4088 \Bank\BANK_BGM_DUNGEON7.sbnk
+  BANK_BGM_DUNGEON7            534   1734 500 534                              4020 \Bank\BANK_BGM_DUNGEON7.sbnk
   BANK_BGM_DUNGEON8            535   1735 500 535                              4168 \Bank\BANK_BGM_DUNGEON8.sbnk
   BANK_BGM_DUNGEON9            536   1736 500 536                              4148 \Bank\BANK_BGM_DUNGEON9.sbnk
   BANK_BGM_OPEND               537   1737 500 537                              4028 \Bank\BANK_BGM_OPEND.sbnk
@@ -3313,9 +3313,9 @@
   WAVE_ARC_BGM_FIELD1          502   2256                                     26960 \WaveArc\WAVE_ARC_BGM_FIELD1.swar
   WAVE_ARC_BGM_FIELD2          503   2257                                     11284 \WaveArc\WAVE_ARC_BGM_FIELD2.swar
   WAVE_ARC_BGM_FIELD3          504   2258                                      3476 \WaveArc\WAVE_ARC_BGM_FIELD3.swar
-  WAVE_ARC_BGM_FIELD4          505   2259                                     24792 \WaveArc\WAVE_ARC_BGM_FIELD4.swar
+  WAVE_ARC_BGM_FIELD4          505   2259                                     10200 \WaveArc\WAVE_ARC_BGM_FIELD4.swar
   WAVE_ARC_BGM_FIELD5          506   2260                                     27116 \WaveArc\WAVE_ARC_BGM_FIELD5.swar
-  WAVE_ARC_BGM_FIELD6          507   2261                                     22832 \WaveArc\WAVE_ARC_BGM_FIELD6.swar
+  WAVE_ARC_BGM_FIELD6          507   2261                                      5688 \WaveArc\WAVE_ARC_BGM_FIELD6.swar
   WAVE_ARC_BGM_FIELD7          508   2262                                     11284 \WaveArc\WAVE_ARC_BGM_FIELD7.swar
   WAVE_ARC_BGM_FIELD8          509   2263                                     17264 \WaveArc\WAVE_ARC_BGM_FIELD8.swar
   WAVE_ARC_BGM_FIELD9          510   2264                                     10200 \WaveArc\WAVE_ARC_BGM_FIELD9.swar
@@ -3327,7 +3327,7 @@
   WAVE_ARC_BGM_FIELD15         516   2270                                     11284 \WaveArc\WAVE_ARC_BGM_FIELD15.swar
   WAVE_ARC_BGM_FIELD16         517   2271                                      3520 \WaveArc\WAVE_ARC_BGM_FIELD16.swar
   WAVE_ARC_BGM_FIELD17         518   2272                                      3476 \WaveArc\WAVE_ARC_BGM_FIELD17.swar
-  WAVE_ARC_BGM_FIELD18         519   2273                                        60 \WaveArc\WAVE_ARC_BGM_FIELD18.swar
+  WAVE_ARC_BGM_FIELD18         519   2273                                     10156 \WaveArc\WAVE_ARC_BGM_FIELD18.swar
   WAVE_ARC_BGM_BATTLE1         520   2274                                     13252 \WaveArc\WAVE_ARC_BGM_BATTLE1.swar
   WAVE_ARC_BGM_BATTLE2         521   2275                                     13956 \WaveArc\WAVE_ARC_BGM_BATTLE2.swar
   WAVE_ARC_BGM_BATTLE3         522   2276                                      8452 \WaveArc\WAVE_ARC_BGM_BATTLE3.swar
@@ -3336,13 +3336,13 @@
   WAVE_ARC_BGM_BATTLE6         525   2279                                      4140 \WaveArc\WAVE_ARC_BGM_BATTLE6.swar
   WAVE_ARC_BGM_BATTLE7         526   2280                                     27188 \WaveArc\WAVE_ARC_BGM_BATTLE7.swar
   WAVE_ARC_BGM_BATTLE8         527   2281                                      4140 \WaveArc\WAVE_ARC_BGM_BATTLE8.swar
-  WAVE_ARC_BGM_DUNGEON1        528   2282                                     16972 \WaveArc\WAVE_ARC_BGM_DUNGEON1.swar
+  WAVE_ARC_BGM_DUNGEON1        528   2282                                     20220 \WaveArc\WAVE_ARC_BGM_DUNGEON1.swar
   WAVE_ARC_BGM_DUNGEON2        529   2283                                     10440 \WaveArc\WAVE_ARC_BGM_DUNGEON2.swar
   WAVE_ARC_BGM_DUNGEON3        530   2284                                     19704 \WaveArc\WAVE_ARC_BGM_DUNGEON3.swar
   WAVE_ARC_BGM_DUNGEON4        531   2285                                     24740 \WaveArc\WAVE_ARC_BGM_DUNGEON4.swar
   WAVE_ARC_BGM_DUNGEON5        532   2286                                     30552 \WaveArc\WAVE_ARC_BGM_DUNGEON5.swar
   WAVE_ARC_BGM_DUNGEON6        533   2287                                        60 \WaveArc\WAVE_ARC_BGM_DUNGEON6.swar
-  WAVE_ARC_BGM_DUNGEON7        534   2288                                      7780 \WaveArc\WAVE_ARC_BGM_DUNGEON7.swar
+  WAVE_ARC_BGM_DUNGEON7        534   2288                                      4532 \WaveArc\WAVE_ARC_BGM_DUNGEON7.swar
   WAVE_ARC_BGM_DUNGEON8        535   2289                                     12440 \WaveArc\WAVE_ARC_BGM_DUNGEON8.swar
   WAVE_ARC_BGM_DUNGEON9        536   2290                                      4872 \WaveArc\WAVE_ARC_BGM_DUNGEON9.swar
   WAVE_ARC_BGM_OPEND           537   2291                                     31488 \WaveArc\WAVE_ARC_BGM_OPEND.swar
@@ -5091,36 +5091,36 @@
     1702 0x00270800       4168   \Bank\BANK_BGM_FIELD1.sbnk
     1703 0x00271860       4084   \Bank\BANK_BGM_FIELD2.sbnk
     1704 0x00272860       4020   \Bank\BANK_BGM_FIELD3.sbnk
-    1705 0x00273820       4160   \Bank\BANK_BGM_FIELD4.sbnk
-    1706 0x00274860       4148   \Bank\BANK_BGM_FIELD5.sbnk
-    1707 0x002758A0       4188   \Bank\BANK_BGM_FIELD6.sbnk
-    1708 0x00276900       4084   \Bank\BANK_BGM_FIELD7.sbnk
-    1709 0x00277900       4088   \Bank\BANK_BGM_FIELD8.sbnk
-    1710 0x00278900       4076   \Bank\BANK_BGM_FIELD9.sbnk
-    1711 0x00279900       4180   \Bank\BANK_BGM_FIELD10.sbnk
-    1712 0x0027A960       4076   \Bank\BANK_BGM_FIELD11.sbnk
-    1713 0x0027B960       4168   \Bank\BANK_BGM_FIELD12.sbnk
-    1714 0x0027C9C0       4052   \Bank\BANK_BGM_FIELD13.sbnk
-    1715 0x0027D9A0       4084   \Bank\BANK_BGM_FIELD14.sbnk
-    1716 0x0027E9A0       4084   \Bank\BANK_BGM_FIELD15.sbnk
-    1717 0x0027F9A0       4016   \Bank\BANK_BGM_FIELD16.sbnk
-    1718 0x00280960       4032   \Bank\BANK_BGM_FIELD17.sbnk
-    1719 0x00281920       3868   \Bank\BANK_BGM_FIELD18.sbnk
-    1720 0x00282840       3960   \Bank\BANK_BGM_BATTLE1.sbnk
-    1721 0x002837C0       3924   \Bank\BANK_BGM_BATTLE2.sbnk
-    1722 0x00284720       3916   \Bank\BANK_BGM_BATTLE3.sbnk
-    1723 0x00285680       3996   \Bank\BANK_BGM_BATTLE4.sbnk
-    1724 0x00286620       3960   \Bank\BANK_BGM_BATTLE5.sbnk
-    1725 0x002875A0       3896   \Bank\BANK_BGM_BATTLE6.sbnk
-    1726 0x002884E0       3976   \Bank\BANK_BGM_BATTLE7.sbnk
-    1727 0x00289480       3896   \Bank\BANK_BGM_BATTLE8.sbnk
-    1728 0x0028A3C0       4096   \Bank\BANK_BGM_DUNGEON1.sbnk
-    1729 0x0028B3C0       4156   \Bank\BANK_BGM_DUNGEON2.sbnk
-    1730 0x0028C400       4196   \Bank\BANK_BGM_DUNGEON3.sbnk
-    1731 0x0028D480       3956   \Bank\BANK_BGM_DUNGEON4.sbnk
-    1732 0x0028E400       4168   \Bank\BANK_BGM_DUNGEON5.sbnk
-    1733 0x0028F460       3856   \Bank\BANK_BGM_DUNGEON6.sbnk
-    1734 0x00290380       4088   \Bank\BANK_BGM_DUNGEON7.sbnk
+    1705 0x00273820       4076   \Bank\BANK_BGM_FIELD4.sbnk
+    1706 0x00274820       4148   \Bank\BANK_BGM_FIELD5.sbnk
+    1707 0x00275860       4052   \Bank\BANK_BGM_FIELD6.sbnk
+    1708 0x00276840       4084   \Bank\BANK_BGM_FIELD7.sbnk
+    1709 0x00277840       4088   \Bank\BANK_BGM_FIELD8.sbnk
+    1710 0x00278840       4076   \Bank\BANK_BGM_FIELD9.sbnk
+    1711 0x00279840       4180   \Bank\BANK_BGM_FIELD10.sbnk
+    1712 0x0027A8A0       4076   \Bank\BANK_BGM_FIELD11.sbnk
+    1713 0x0027B8A0       4168   \Bank\BANK_BGM_FIELD12.sbnk
+    1714 0x0027C900       4052   \Bank\BANK_BGM_FIELD13.sbnk
+    1715 0x0027D8E0       4084   \Bank\BANK_BGM_FIELD14.sbnk
+    1716 0x0027E8E0       4084   \Bank\BANK_BGM_FIELD15.sbnk
+    1717 0x0027F8E0       4016   \Bank\BANK_BGM_FIELD16.sbnk
+    1718 0x002808A0       4032   \Bank\BANK_BGM_FIELD17.sbnk
+    1719 0x00281860       4076   \Bank\BANK_BGM_FIELD18.sbnk
+    1720 0x00282860       3960   \Bank\BANK_BGM_BATTLE1.sbnk
+    1721 0x002837E0       3924   \Bank\BANK_BGM_BATTLE2.sbnk
+    1722 0x00284740       3916   \Bank\BANK_BGM_BATTLE3.sbnk
+    1723 0x002856A0       3996   \Bank\BANK_BGM_BATTLE4.sbnk
+    1724 0x00286640       3960   \Bank\BANK_BGM_BATTLE5.sbnk
+    1725 0x002875C0       3896   \Bank\BANK_BGM_BATTLE6.sbnk
+    1726 0x00288500       3976   \Bank\BANK_BGM_BATTLE7.sbnk
+    1727 0x002894A0       3896   \Bank\BANK_BGM_BATTLE8.sbnk
+    1728 0x0028A3E0       4128   \Bank\BANK_BGM_DUNGEON1.sbnk
+    1729 0x0028B400       4156   \Bank\BANK_BGM_DUNGEON2.sbnk
+    1730 0x0028C440       4196   \Bank\BANK_BGM_DUNGEON3.sbnk
+    1731 0x0028D4C0       3956   \Bank\BANK_BGM_DUNGEON4.sbnk
+    1732 0x0028E440       4168   \Bank\BANK_BGM_DUNGEON5.sbnk
+    1733 0x0028F4A0       3856   \Bank\BANK_BGM_DUNGEON6.sbnk
+    1734 0x002903C0       4020   \Bank\BANK_BGM_DUNGEON7.sbnk
     1735 0x00291380       4168   \Bank\BANK_BGM_DUNGEON8.sbnk
     1736 0x002923E0       4148   \Bank\BANK_BGM_DUNGEON9.sbnk
     1737 0x00293420       4028   \Bank\BANK_BGM_OPEND.sbnk
@@ -5645,58 +5645,58 @@
     2256 0x007B8920      26960   \WaveArc\WAVE_ARC_BGM_FIELD1.swar
     2257 0x007BF280      11284   \WaveArc\WAVE_ARC_BGM_FIELD2.swar
     2258 0x007C1EA0       3476   \WaveArc\WAVE_ARC_BGM_FIELD3.swar
-    2259 0x007C2C40      24792   \WaveArc\WAVE_ARC_BGM_FIELD4.swar
-    2260 0x007C8D20      27116   \WaveArc\WAVE_ARC_BGM_FIELD5.swar
-    2261 0x007CF720      22832   \WaveArc\WAVE_ARC_BGM_FIELD6.swar
-    2262 0x007D5060      11284   \WaveArc\WAVE_ARC_BGM_FIELD7.swar
-    2263 0x007D7C80      17264   \WaveArc\WAVE_ARC_BGM_FIELD8.swar
-    2264 0x007DC000      10200   \WaveArc\WAVE_ARC_BGM_FIELD9.swar
-    2265 0x007DE7E0      13836   \WaveArc\WAVE_ARC_BGM_FIELD10.swar
-    2266 0x007E1E00       9888   \WaveArc\WAVE_ARC_BGM_FIELD11.swar
-    2267 0x007E44A0      13884   \WaveArc\WAVE_ARC_BGM_FIELD12.swar
-    2268 0x007E7AE0       5688   \WaveArc\WAVE_ARC_BGM_FIELD13.swar
-    2269 0x007E9120      11284   \WaveArc\WAVE_ARC_BGM_FIELD14.swar
-    2270 0x007EBD40      11284   \WaveArc\WAVE_ARC_BGM_FIELD15.swar
-    2271 0x007EE960       3520   \WaveArc\WAVE_ARC_BGM_FIELD16.swar
-    2272 0x007EF720       3476   \WaveArc\WAVE_ARC_BGM_FIELD17.swar
-    2273 0x007F04C0         60   \WaveArc\WAVE_ARC_BGM_FIELD18.swar
-    2274 0x007F0500      13252   \WaveArc\WAVE_ARC_BGM_BATTLE1.swar
-    2275 0x007F38E0      13956   \WaveArc\WAVE_ARC_BGM_BATTLE2.swar
-    2276 0x007F6F80       8452   \WaveArc\WAVE_ARC_BGM_BATTLE3.swar
-    2277 0x007F90A0      28820   \WaveArc\WAVE_ARC_BGM_BATTLE4.swar
-    2278 0x00800140      27708   \WaveArc\WAVE_ARC_BGM_BATTLE5.swar
-    2279 0x00806D80       4140   \WaveArc\WAVE_ARC_BGM_BATTLE6.swar
-    2280 0x00807DC0      27188   \WaveArc\WAVE_ARC_BGM_BATTLE7.swar
-    2281 0x0080E800       4140   \WaveArc\WAVE_ARC_BGM_BATTLE8.swar
-    2282 0x0080F840      16972   \WaveArc\WAVE_ARC_BGM_DUNGEON1.swar
-    2283 0x00813AA0      10440   \WaveArc\WAVE_ARC_BGM_DUNGEON2.swar
-    2284 0x00816380      19704   \WaveArc\WAVE_ARC_BGM_DUNGEON3.swar
-    2285 0x0081B080      24740   \WaveArc\WAVE_ARC_BGM_DUNGEON4.swar
-    2286 0x00821140      30552   \WaveArc\WAVE_ARC_BGM_DUNGEON5.swar
-    2287 0x008288A0         60   \WaveArc\WAVE_ARC_BGM_DUNGEON6.swar
-    2288 0x008288E0       7780   \WaveArc\WAVE_ARC_BGM_DUNGEON7.swar
-    2289 0x0082A760      12440   \WaveArc\WAVE_ARC_BGM_DUNGEON8.swar
-    2290 0x0082D800       4872   \WaveArc\WAVE_ARC_BGM_DUNGEON9.swar
-    2291 0x0082EB20      31488   \WaveArc\WAVE_ARC_BGM_OPEND.swar
-    2292 0x00836620      82636   \WaveArc\WAVE_ARC_SE_FIELD.swar
-    2293 0x0084A900      85568   \WaveArc\WAVE_ARC_SE_BATTLE.swar
-    2294 0x0085F740      21032   \WaveArc\WAVE_ARC_SE_BAG.swar
-    2295 0x00864980       3848   \WaveArc\WAVE_ARC_SE_SHINKA.swar
-    2296 0x008658A0       4940   \WaveArc\WAVE_ARC_SE_NAMEIN.swar
-    2297 0x00866C00      17664   \WaveArc\WAVE_ARC_SE_IMAGE.swar
-    2298 0x0086B100       1584   \WaveArc\WAVE_ARC_SE_ZUKAN.swar
-    2299 0x0086B740       7308   \WaveArc\WAVE_ARC_SE_TOWNMAP.swar
-    2300 0x0086D3E0      10708   \WaveArc\WAVE_ARC_SE_TRCARD.swar
-    2301 0x0086FDC0      17552   \WaveArc\WAVE_ARC_SE_POKELIST.swar
-    2302 0x00874260       9332   \WaveArc\WAVE_ARC_SE_DIG.swar
-    2303 0x008766E0      14016   \WaveArc\WAVE_ARC_SE_CUSTOM.swar
-    2304 0x00879DA0      20232   \WaveArc\WAVE_ARC_SE_TRADE.swar
-    2305 0x0087ECC0      26888   \WaveArc\WAVE_ARC_SE_NUTMIXER.swar
-    2306 0x008855E0       4240   \WaveArc\WAVE_ARC_SE_TRAIN.swar
-    2307 0x00886680       8620   \WaveArc\WAVE_ARC_SE_SHIP.swar
-    2308 0x00888840       6484   \WaveArc\WAVE_ARC_SE_SLOT.swar
-    2309 0x0088A1A0      15464   \WaveArc\WAVE_ARC_SE_SCRATCH.swar
-    2310 0x0088DE20      59648   \WaveArc\WAVE_ARC_SE_HIROBA.swar
-    2311 0x0089C720       8028   \WaveArc\WAVE_ARC_SE_PLANTER.swar
-    2312 0x0089E680      89636   \WaveArc\WAVE_ARC_SE_THLON.swar
-    2313 0x008B44C0      87404   \WaveArc\WAVE_ARC_SE_THLON_OPED.swar
+    2259 0x007C2C40      10200   \WaveArc\WAVE_ARC_BGM_FIELD4.swar
+    2260 0x007C5420      27116   \WaveArc\WAVE_ARC_BGM_FIELD5.swar
+    2261 0x007CBE20       5688   \WaveArc\WAVE_ARC_BGM_FIELD6.swar
+    2262 0x007CD460      11284   \WaveArc\WAVE_ARC_BGM_FIELD7.swar
+    2263 0x007D0080      17264   \WaveArc\WAVE_ARC_BGM_FIELD8.swar
+    2264 0x007D4400      10200   \WaveArc\WAVE_ARC_BGM_FIELD9.swar
+    2265 0x007D6BE0      13836   \WaveArc\WAVE_ARC_BGM_FIELD10.swar
+    2266 0x007DA200       9888   \WaveArc\WAVE_ARC_BGM_FIELD11.swar
+    2267 0x007DC8A0      13884   \WaveArc\WAVE_ARC_BGM_FIELD12.swar
+    2268 0x007DFEE0       5688   \WaveArc\WAVE_ARC_BGM_FIELD13.swar
+    2269 0x007E1520      11284   \WaveArc\WAVE_ARC_BGM_FIELD14.swar
+    2270 0x007E4140      11284   \WaveArc\WAVE_ARC_BGM_FIELD15.swar
+    2271 0x007E6D60       3520   \WaveArc\WAVE_ARC_BGM_FIELD16.swar
+    2272 0x007E7B20       3476   \WaveArc\WAVE_ARC_BGM_FIELD17.swar
+    2273 0x007E88C0      10156   \WaveArc\WAVE_ARC_BGM_FIELD18.swar
+    2274 0x007EB080      13252   \WaveArc\WAVE_ARC_BGM_BATTLE1.swar
+    2275 0x007EE460      13956   \WaveArc\WAVE_ARC_BGM_BATTLE2.swar
+    2276 0x007F1B00       8452   \WaveArc\WAVE_ARC_BGM_BATTLE3.swar
+    2277 0x007F3C20      28820   \WaveArc\WAVE_ARC_BGM_BATTLE4.swar
+    2278 0x007FACC0      27708   \WaveArc\WAVE_ARC_BGM_BATTLE5.swar
+    2279 0x00801900       4140   \WaveArc\WAVE_ARC_BGM_BATTLE6.swar
+    2280 0x00802940      27188   \WaveArc\WAVE_ARC_BGM_BATTLE7.swar
+    2281 0x00809380       4140   \WaveArc\WAVE_ARC_BGM_BATTLE8.swar
+    2282 0x0080A3C0      20220   \WaveArc\WAVE_ARC_BGM_DUNGEON1.swar
+    2283 0x0080F2C0      10440   \WaveArc\WAVE_ARC_BGM_DUNGEON2.swar
+    2284 0x00811BA0      19704   \WaveArc\WAVE_ARC_BGM_DUNGEON3.swar
+    2285 0x008168A0      24740   \WaveArc\WAVE_ARC_BGM_DUNGEON4.swar
+    2286 0x0081C960      30552   \WaveArc\WAVE_ARC_BGM_DUNGEON5.swar
+    2287 0x008240C0         60   \WaveArc\WAVE_ARC_BGM_DUNGEON6.swar
+    2288 0x00824100       4532   \WaveArc\WAVE_ARC_BGM_DUNGEON7.swar
+    2289 0x008252C0      12440   \WaveArc\WAVE_ARC_BGM_DUNGEON8.swar
+    2290 0x00828360       4872   \WaveArc\WAVE_ARC_BGM_DUNGEON9.swar
+    2291 0x00829680      31488   \WaveArc\WAVE_ARC_BGM_OPEND.swar
+    2292 0x00831180      82636   \WaveArc\WAVE_ARC_SE_FIELD.swar
+    2293 0x00845460      85568   \WaveArc\WAVE_ARC_SE_BATTLE.swar
+    2294 0x0085A2A0      21032   \WaveArc\WAVE_ARC_SE_BAG.swar
+    2295 0x0085F4E0       3848   \WaveArc\WAVE_ARC_SE_SHINKA.swar
+    2296 0x00860400       4940   \WaveArc\WAVE_ARC_SE_NAMEIN.swar
+    2297 0x00861760      17664   \WaveArc\WAVE_ARC_SE_IMAGE.swar
+    2298 0x00865C60       1584   \WaveArc\WAVE_ARC_SE_ZUKAN.swar
+    2299 0x008662A0       7308   \WaveArc\WAVE_ARC_SE_TOWNMAP.swar
+    2300 0x00867F40      10708   \WaveArc\WAVE_ARC_SE_TRCARD.swar
+    2301 0x0086A920      17552   \WaveArc\WAVE_ARC_SE_POKELIST.swar
+    2302 0x0086EDC0       9332   \WaveArc\WAVE_ARC_SE_DIG.swar
+    2303 0x00871240      14016   \WaveArc\WAVE_ARC_SE_CUSTOM.swar
+    2304 0x00874900      20232   \WaveArc\WAVE_ARC_SE_TRADE.swar
+    2305 0x00879820      26888   \WaveArc\WAVE_ARC_SE_NUTMIXER.swar
+    2306 0x00880140       4240   \WaveArc\WAVE_ARC_SE_TRAIN.swar
+    2307 0x008811E0       8620   \WaveArc\WAVE_ARC_SE_SHIP.swar
+    2308 0x008833A0       6484   \WaveArc\WAVE_ARC_SE_SLOT.swar
+    2309 0x00884D00      15464   \WaveArc\WAVE_ARC_SE_SCRATCH.swar
+    2310 0x00888980      59648   \WaveArc\WAVE_ARC_SE_HIROBA.swar
+    2311 0x00897280       8028   \WaveArc\WAVE_ARC_SE_PLANTER.swar
+    2312 0x008991E0      89636   \WaveArc\WAVE_ARC_SE_THLON.swar
+    2313 0x008AF020      87404   \WaveArc\WAVE_ARC_SE_THLON_OPED.swar
