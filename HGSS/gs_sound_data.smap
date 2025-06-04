@@ -1621,8 +1621,8 @@
   SEQ_SE_DP_KUSA              1618    546 750 108  89  54   3                   180 \Seq\SEQ_SE_DP_KUSA.sseq
   SEQ_SE_DP_SUNA              1619    547 750  83  89  64   3                   132 \Seq\SEQ_SE_DP_SUNA.sseq
   SEQ_SE_DP_MARSH_WALK        1620    548 750 109  89  54   3                    84 \Seq\SEQ_SE_DP_MARSH_WALK.sseq
-  SEQ_SE_DP_DANSA4            1621    549 750  55  89  64   3                    60 \Seq\SEQ_SE_DP_DANSA4.sseq
-  SEQ_SE_DP_DANSA5            1622    414 750  55  89  64   3                    60 \Seq\SEQ_SE_DP_DANSA5.sseq
+  SEQ_SE_DP_DANSA4            1621    549 700  55  89  64   3                    60 \Seq\SEQ_SE_DP_DANSA4.sseq
+  SEQ_SE_DP_DANSA5            1622    414 700  55  89  64   3                    60 \Seq\SEQ_SE_DP_DANSA5.sseq
   SEQ_SE_DP_F209              1623    550 750  90  89  64   3                   476 \Seq\SEQ_SE_DP_F209.sseq
   SEQ_SE_DP_SUBERU            1624    551 750 100  89  64   3                   232 \Seq\SEQ_SE_DP_SUBERU.sseq
   SEQ_SE_DP_FW056             1625    552 750 110  89  64   3                   148 \Seq\SEQ_SE_DP_FW056.sseq
