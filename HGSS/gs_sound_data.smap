@@ -2224,7 +2224,7 @@
   SEQ_SE_GS_HAMARU            2221    489 770  90  89  54   5                   128 \Seq\SEQ_SE_GS_HAMARU.sseq
   SEQ_SE_GS_KI_GASYAN         2222    455 770 110  89  64   5                   116 \Seq\SEQ_SE_GS_KI_GASYAN.sseq
   SEQ_SE_GS_W052              2223    804 770 125  89  64   4                    92 \Seq\SEQ_SE_GS_W052.sseq
-  SEQ_SE_GS_186_2             2224   1068 770 110  89  64   4                   136 \Seq\SEQ_SE_GS_186_2.sseq
+  SEQ_SE_GS_186_2             2224   1068 770 127  89  64   4                   136 \Seq\SEQ_SE_GS_186_2.sseq
   SEQ_SE_GS_W082              2225   1069 770 125  89  64   4                   512 \Seq\SEQ_SE_GS_W082.sseq
   SEQ_SE_GS_GUGU              2226   1070 770 100 104  64   6                   104 \Seq\SEQ_SE_GS_GUGU.sseq
   SEQ_SE_GS_W030              2227    793 770 110  89  64   3                   100 \Seq\SEQ_SE_GS_W030.sseq
