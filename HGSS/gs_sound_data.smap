@@ -2228,7 +2228,7 @@
   SEQ_SE_GS_VOICE10           2225   1210 571  95 104  64   5                   320 \Seq\SEQ_SE_GS_VOICE10.sseq
   SEQ_SE_GS_CON_005           2226    783 571 106  89  64   3                    56 \Seq\SEQ_SE_GS_CON_005.sseq
   SEQ_SE_GS_FW255E            2227   1211 550 110  89  64   3                   104 \Seq\SEQ_SE_GS_FW255E.sseq
-  SEQ_SE_GS_BON01             2228   1212 550 127  89  64   3                   104 \Seq\SEQ_SE_GS_BON01.sseq
+  SEQ_SE_GS_BON01             2228   1212 550 127  89  64   6                   104 \Seq\SEQ_SE_GS_BON01.sseq
   SEQ_SE_GS_ZKN02             2229   1213 556 110  89  64   3                    88 \Seq\SEQ_SE_GS_ZKN02.sseq
   SEQ_SE_GS_HYUN2             2230   1214 559 110  89  64   3                   208 \Seq\SEQ_SE_GS_HYUN2.sseq
   SEQ_SE_END                  2231      0 500   0   0   0   0                    44 \Seq\SEQ_SE_END.sseq
