@@ -1092,7 +1092,7 @@
   SEQ_GS_E_RIVAL2             1089     67 700  65  30  64   7                  5880 \Seq\SEQ_GS_E_RIVAL2.sseq
   SEQ_GS_TAIKAIMAE            1090     68 706  65  30  64   1                  1476 \Seq\SEQ_GS_TAIKAIMAE.sseq
   SEQ_GS_TAIKAIMA_D5          1091     68 732  65  30  64   1                  1476 \Seq\SEQ_GS_TAIKAIMA_D5.sseq
-  SEQ_GS_TAIKAI               1092     69 700 114  30  64   1                  4668 \Seq\SEQ_GS_TAIKAI.sseq
+  SEQ_GS_TAIKAI               1092     69 706 114  30  64   1                  4668 \Seq\SEQ_GS_TAIKAI.sseq
   SEQ_GS_KAIDENPA             1093     70 700 110  30  64   7                   520 \Seq\SEQ_GS_KAIDENPA.sseq
   SEQ_GS_SENKYO               1094     71 700  65  30  64   1                  2992 \Seq\SEQ_GS_SENKYO.sseq
   SEQ_GS_E_LINEAR             1095     72 700 120  30  64   7                  1836 \Seq\SEQ_GS_E_LINEAR.sseq
