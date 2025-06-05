@@ -1749,8 +1749,8 @@
   SEQ_SE_DP_CLIMAX06          1746    641 750 110  89  64   3                   152 \Seq\SEQ_SE_DP_CLIMAX06.sseq
   SEQ_SE_DP_CLIMAX10          1747    642 750 120  89  64   3                   172 \Seq\SEQ_SE_DP_CLIMAX10.sseq
   SEQ_SE_DP_CLIMAX15          1748    643 750 120  89  64   3                   136 \Seq\SEQ_SE_DP_CLIMAX15.sseq
-  SEQ_SE_GS_LINEAR            1749    644 764 127  89  64   3                   148 \Seq\SEQ_SE_GS_LINEAR.sseq
-  SEQ_SE_GS_LINEAR_LR         1750    645 764 127  89  64   3                   152 \Seq\SEQ_SE_GS_LINEAR_LR.sseq
+  SEQ_SE_GS_LINEAR            1749    644 750 127  89  64   3                   148 \Seq\SEQ_SE_GS_LINEAR.sseq
+  SEQ_SE_GS_LINEAR_LR         1750    645 750 127  89  64   3                   152 \Seq\SEQ_SE_GS_LINEAR_LR.sseq
   SEQ_SE_DP_TRAIN04           1751    646 700 120  89  64   4                    72 \Seq\SEQ_SE_DP_TRAIN04.sseq
   SEQ_SE_DP_SHIP01            1752    647 765 100  89  64   3                   120 \Seq\SEQ_SE_DP_SHIP01.sseq
   SEQ_SE_DP_SHIP02            1753    648 765 100  89  64   3                    88 \Seq\SEQ_SE_DP_SHIP02.sseq
