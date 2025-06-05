@@ -1277,7 +1277,7 @@
   SEQ_GS_P_E_RIVAL1           1274    227 701  82  30  64   7                  2588 \Seq\SEQ_GS_P_E_RIVAL1.sseq
   SEQ_GS_P_E_RIVAL2           1275    228 701  82  30  64   7                  2356 \Seq\SEQ_GS_P_E_RIVAL2.sseq
   SEQ_GS_P_TAIKAIMAE          1276    229 701  52  30  64   1                   604 \Seq\SEQ_GS_P_TAIKAIMAE.sseq
-  SEQ_GS_P_DUNGEON5           1277    229 701  52  30  64   1                   604 \Seq\SEQ_GS_P_DUNGEON5.sseq
+  SEQ_GS_P_TAIKAIMA_D5        1277    229 701  52  30  64   1                   604 \Seq\SEQ_GS_P_TAIKAIMA_D5.sseq
   SEQ_GS_P_TAIKAI             1278    230 701  82  30  64   1                  2464 \Seq\SEQ_GS_P_TAIKAI.sseq
   SEQ_GS_P_KAIDENPA           1279    231 701  82  30  64   7                   308 \Seq\SEQ_GS_P_KAIDENPA.sseq
   SEQ_GS_P_SENKYO             1280    232 701  82  30  64   1                  3456 \Seq\SEQ_GS_P_SENKYO.sseq
@@ -4073,7 +4073,7 @@
      226 0x0011DB60       1468   \Seq\SEQ_GS_P_E_TSURETEKE2.sseq
      227 0x0011E120       2588   \Seq\SEQ_GS_P_E_RIVAL1.sseq
      228 0x0011EB40       2356   \Seq\SEQ_GS_P_E_RIVAL2.sseq
-     229 0x0011F480        604   \Seq\SEQ_GS_P_DUNGEON5.sseq
+     229 0x0011F480        604   \Seq\SEQ_GS_P_TAIKAIMA_D5.sseq
      230 0x0011F6E0       2464   \Seq\SEQ_GS_P_TAIKAI.sseq
      231 0x00120080        308   \Seq\SEQ_GS_P_KAIDENPA.sseq
      232 0x001201C0       3456   \Seq\SEQ_GS_P_SENKYO.sseq
