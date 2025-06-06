@@ -1117,7 +1117,7 @@
   SEQ_GS_EYE_K_SHOUNEN        1114     87 700  91  30  64   7                  3492 \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
   SEQ_GS_EYE_K_AYASHII        1115     88 700  88  30  64   7                  2224 \Seq\SEQ_GS_EYE_K_AYASHII.sseq
   SEQ_GS_VS_NORAPOKE          1116     89 720 113  30  64   7                 13124 \Seq\SEQ_GS_VS_NORAPOKE.sseq
-  SEQ_GS_VS_TRAINER           1117     90 720 112  30  64   7                 24020 \Seq\SEQ_GS_VS_TRAINER.sseq
+  SEQ_GS_VS_TRAINER           1117     90 720 114  30  64   7                 24020 \Seq\SEQ_GS_VS_TRAINER.sseq
   SEQ_GS_VS_GYMREADER         1118     91 720 108  30  64   7                 11596 \Seq\SEQ_GS_VS_GYMREADER.sseq
   SEQ_GS_VS_RIVAL             1119     92 721  84  30  64   7                 15056 \Seq\SEQ_GS_VS_RIVAL.sseq
   SEQ_GS_VS_ROCKET            1120     93 720 105  30  64   7                 10192 \Seq\SEQ_GS_VS_ROCKET.sseq
@@ -1218,8 +1218,8 @@
   SEQ_ME_MINIGAME             1215    180 700  93 127  64   2                   868 \Seq\SEQ_ME_MINIGAME.sseq
   SEQ_PL_BICYCLE              1216      9 700 110  30  64   1                  6932 \Seq\SEQ_PL_BICYCLE.sseq
   SEQ_GS_P_START              1217    181 701  75  30  64   7                   120 \Seq\SEQ_GS_P_START.sseq
-  SEQ_GS_P_TITLE              1218    182 701  75  30  64   7                  2432 \Seq\SEQ_GS_P_TITLE.sseq
-  SEQ_GS_P_TITLE01            1219    183 701  75  30  64   7                  2432 \Seq\SEQ_GS_P_TITLE01.sseq
+  SEQ_GS_P_TITLE              1218    182 701  75  30  64   7                  2428 \Seq\SEQ_GS_P_TITLE.sseq
+  SEQ_GS_P_TITLE01            1219    183 701  75  30  64   7                  2428 \Seq\SEQ_GS_P_TITLE01.sseq
   SEQ_GS_P_OPENING_TITLE_G    1220    184 701  77  30  64   7                  1256 \Seq\SEQ_GS_P_OPENING_TITLE_G.sseq
   SEQ_GS_P_OPENING_TITLE_S    1221    185 701  77  30  64   7                  1256 \Seq\SEQ_GS_P_OPENING_TITLE_S.sseq
   SEQ_GS_P_POKEMON_THEME      1222    186 701  75  30  64   7                  6140 \Seq\SEQ_GS_P_POKEMON_THEME.sseq
@@ -2200,7 +2200,7 @@
   SEQ_SE_GS_TERERE4           2197   1071 770  95 104  74   6                   308 \Seq\SEQ_SE_GS_TERERE4.sseq
   SEQ_SE_GS_KYU               2198   1072 770 100  89  74   6                    60 \Seq\SEQ_SE_GS_KYU.sseq
   SEQ_SE_GS_ENDCOUNT          2199   1073 770 105 104  74   6                   108 \Seq\SEQ_SE_GS_ENDCOUNT.sseq
-  SEQ_SE_GS_NEWRECORD         2200   1074 770 105 104  74   6                   420 \Seq\SEQ_SE_GS_NEWRECORD.sseq
+  SEQ_SE_GS_NEWRECORD         2200   1074 770 125 104  74   6                   420 \Seq\SEQ_SE_GS_NEWRECORD.sseq
   SEQ_SE_GS_FINISH            2201   1075 770 125 104  74   6                   236 \Seq\SEQ_SE_GS_FINISH.sseq
   SEQ_SE_GS_TOUCHPEN          2202   1076 770 100 104  64   6                   160 \Seq\SEQ_SE_GS_TOUCHPEN.sseq
   SEQ_SE_GS_CHANGE1           2203   1077 770 115  89  64   6                   108 \Seq\SEQ_SE_GS_CHANGE1.sseq
@@ -2280,17 +2280,17 @@
   SEQ_SE_GS_FW255E            2277   1131 750 105  89  64   3                   104 \Seq\SEQ_SE_GS_FW255E.sseq
   SEQ_SE_GS_BON01             2278   1132 750 127  89  64   6                   104 \Seq\SEQ_SE_GS_BON01.sseq
   SEQ_SE_GS_ZKN02             2279   1133 756 110  89  64   3                    88 \Seq\SEQ_SE_GS_ZKN02.sseq
-  SEQ_SE_GS_ZKN03             2280   1134 750  90  89  64   3                    80 \Seq\SEQ_SE_GS_ZKN03.sseq
-  SEQ_SE_GS_ZKN04             2281   1135 750  90  89  64   3                   144 \Seq\SEQ_SE_GS_ZKN04.sseq
-  SEQ_SE_GS_ZKN05             2282   1136 750  90  89  64   3                   144 \Seq\SEQ_SE_GS_ZKN05.sseq
+  SEQ_SE_GS_ZKN03             2280   1134 750  50  89  64   3                    80 \Seq\SEQ_SE_GS_ZKN03.sseq
+  SEQ_SE_GS_ZKN04             2281   1135 750  50  89  64   3                   148 \Seq\SEQ_SE_GS_ZKN04.sseq
+  SEQ_SE_GS_ZKN05             2282   1136 750  50  89  64   3                   148 \Seq\SEQ_SE_GS_ZKN05.sseq
   SEQ_SE_GS_ZUKAN01           2283   1137 750 127  89  64   3                   104 \Seq\SEQ_SE_GS_ZUKAN01.sseq
   SEQ_SE_GS_ZUKAN02           2284   1138 750 110  89  64   3                   128 \Seq\SEQ_SE_GS_ZUKAN02.sseq
-  SEQ_SE_GS_ZUKAN03           2285   1139 750 115  89  64   3                   140 \Seq\SEQ_SE_GS_ZUKAN03.sseq
-  SEQ_SE_GS_ZUKAN04           2286   1140 750 120  89  64   3                   160 \Seq\SEQ_SE_GS_ZUKAN04.sseq
-  SEQ_SE_GS_ZUKAN05           2287   1141 700 110  89  64   3                    88 \Seq\SEQ_SE_GS_ZUKAN05.sseq
-  SEQ_SE_GS_ZUKAN06           2288   1142 750  70  89  64   3                   160 \Seq\SEQ_SE_GS_ZUKAN06.sseq
+  SEQ_SE_GS_ZUKAN03           2285   1139 750 110  89  64   3                   140 \Seq\SEQ_SE_GS_ZUKAN03.sseq
+  SEQ_SE_GS_ZUKAN04           2286   1140 750 110  89  64   3                   160 \Seq\SEQ_SE_GS_ZUKAN04.sseq
+  SEQ_SE_GS_ZUKAN05           2287   1141 700 100  89  64   3                    88 \Seq\SEQ_SE_GS_ZUKAN05.sseq
+  SEQ_SE_GS_ZUKAN06           2288   1142 750  80  89  64   3                   160 \Seq\SEQ_SE_GS_ZUKAN06.sseq
   SEQ_SE_GS_ZKN_BUTTON8       2289   1143 750 110  89  64   3                   116 \Seq\SEQ_SE_GS_ZKN_BUTTON8.sseq
-  SEQ_SE_GS_BUTTON01          2290   1144 756 124  89  64   3                   236 \Seq\SEQ_SE_GS_BUTTON01.sseq
+  SEQ_SE_GS_BUTTON01          2290   1144 756  82  89  64   3                   236 \Seq\SEQ_SE_GS_BUTTON01.sseq
   SEQ_SE_GS_HYUN2             2291   1145 759 110  89  64   3                   208 \Seq\SEQ_SE_GS_HYUN2.sseq
   SEQ_SE_GS_DECIDE2           2292   1146 750 124  89  64   4                    72 \Seq\SEQ_SE_GS_DECIDE2.sseq
   SEQ_SE_GS_SYU02             2293   1147 750 125 104  64   3                   164 \Seq\SEQ_SE_GS_SYU02.sseq
@@ -2369,7 +2369,7 @@
   SEQ_SE_GS_DOWSING_LOOP      2366   1218 700  90 104  74   3                    72 \Seq\SEQ_SE_GS_DOWSING_LOOP.sseq
   SEQ_SE_GS_GEARCURSOR        2367   1219 700 100 104  64   3                   216 \Seq\SEQ_SE_GS_GEARCURSOR.sseq
   SEQ_SE_GS_GEARCANCEL        2368   1220 700 126 104  64   3                   348 \Seq\SEQ_SE_GS_GEARCANCEL.sseq
-  SEQ_SE_GS_GEARDECIDE        2369   1221 700  95 104  64   3                   340 \Seq\SEQ_SE_GS_GEARDECIDE.sseq
+  SEQ_SE_GS_GEARDECIDE        2369   1221 700 105 104  64   3                   340 \Seq\SEQ_SE_GS_GEARDECIDE.sseq
   SEQ_SE_GS_GEARAPPLICHANGE   2370   1222 700 125 104  64   3                   240 \Seq\SEQ_SE_GS_GEARAPPLICHANGE.sseq
   SEQ_SE_GS_GEARXBUTTON       2371   1223 700 105 104  64   3                   400 \Seq\SEQ_SE_GS_GEARXBUTTON.sseq
   SEQ_SE_GS_GEARYBUTTON       2372   1224 700 110 104  64   3                   120 \Seq\SEQ_SE_GS_GEARYBUTTON.sseq
@@ -4132,8 +4132,8 @@
      179 0x00121E60       1328   \Seq\SEQ_ME_BPGET.sseq
      180 0x001223A0        868   \Seq\SEQ_ME_MINIGAME.sseq
      181 0x00122720        120   \Seq\SEQ_SE_DP_DUMMY17.sseq
-     182 0x001227A0       2432   \Seq\SEQ_GS_P_TITLE.sseq
-     183 0x00123120       2432   \Seq\SEQ_GS_P_TITLE01.sseq
+     182 0x001227A0       2428   \Seq\SEQ_GS_P_TITLE.sseq
+     183 0x00123120       2428   \Seq\SEQ_GS_P_TITLE01.sseq
      184 0x00123AA0       1256   \Seq\SEQ_GS_P_OPENING_TITLE_G.sseq
      185 0x00123FA0       1256   \Seq\SEQ_GS_P_OPENING_TITLE_S.sseq
      186 0x001244A0       6140   \Seq\SEQ_GS_P_POKEMON_THEME.sseq
@@ -5085,8 +5085,8 @@
     1132 0x00198DE0        104   \Seq\SEQ_SE_GS_BON01.sseq
     1133 0x00198E60         88   \Seq\SEQ_SE_GS_ZKN02.sseq
     1134 0x00198EC0         80   \Seq\SEQ_SE_GS_ZKN03.sseq
-    1135 0x00198F20        144   \Seq\SEQ_SE_GS_ZKN04.sseq
-    1136 0x00198FC0        144   \Seq\SEQ_SE_GS_ZKN05.sseq
+    1135 0x00198F20        148   \Seq\SEQ_SE_GS_ZKN04.sseq
+    1136 0x00198FC0        148   \Seq\SEQ_SE_GS_ZKN05.sseq
     1137 0x00199060        104   \Seq\SEQ_SE_GS_ZUKAN01.sseq
     1138 0x001990E0        128   \Seq\SEQ_SE_GS_ZUKAN02.sseq
     1139 0x00199160        140   \Seq\SEQ_SE_GS_ZUKAN03.sseq
