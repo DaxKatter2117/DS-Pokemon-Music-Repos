@@ -1776,10 +1776,10 @@
   SEQ_SE_DP_CON_032           1773    666 751 110  89  64   3                    64 \Seq\SEQ_SE_DP_CON_032.sseq
   SEQ_SE_DP_CON_033           1774    667 700 127  89  64   5                   376 \Seq\SEQ_SE_DP_CON_033.sseq
   SEQ_SE_DP_CON_034           1775    668 751 110  89  64   3                  1236 \Seq\SEQ_SE_DP_CON_034.sseq
-  SEQ_SE_GS_LINEAR2           1776    669 750 127  89  64   3                   232 \Seq\SEQ_SE_GS_LINEAR2.sseq
-  SEQ_SE_GS_LINEAR_LR2        1777    670 750 127  89  64   3                   232 \Seq\SEQ_SE_GS_LINEAR_LR2.sseq
-  SEQ_SE_GS_LINEAR3           1778    671 750 127  89  64   3                   480 \Seq\SEQ_SE_GS_LINEAR3.sseq
-  SEQ_SE_GS_LINEAR_LR3        1779    672 750 127  89  64   3                   480 \Seq\SEQ_SE_GS_LINEAR_LR3.sseq
+  SEQ_SE_GS_LINEAR2           1776    669 750  70  89  64   3                   232 \Seq\SEQ_SE_GS_LINEAR2.sseq
+  SEQ_SE_GS_LINEAR_LR2        1777    670 750  70  89  64   3                   232 \Seq\SEQ_SE_GS_LINEAR_LR2.sseq
+  SEQ_SE_GS_LINEAR3           1778    671 750  70  89  64   3                   480 \Seq\SEQ_SE_GS_LINEAR3.sseq
+  SEQ_SE_GS_LINEAR_LR3        1779    672 750  70  89  64   3                   480 \Seq\SEQ_SE_GS_LINEAR_LR3.sseq
   SEQ_SE_DUMMY_005            1780    181 700 110  89  64   3                   120 \Seq\SEQ_SE_DUMMY_005.sseq
   SEQ_SE_DUMMY_006            1781    181 700 110  89  64   3                   120 \Seq\SEQ_SE_DUMMY_006.sseq
   SEQ_SE_DUMMY_007            1782    181 700 110  89  64   3                   120 \Seq\SEQ_SE_DUMMY_007.sseq
