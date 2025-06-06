@@ -3924,7 +3924,7 @@
   WAVE_ARC_SE_IMAGE            755   2329                                     17664 \WaveArc\WAVE_ARC_SE_IMAGE.swar
   WAVE_ARC_SE_ZUKAN            756   2330                                      3472 \WaveArc\WAVE_ARC_SE_ZUKAN.swar
   WAVE_ARC_SE_TOWNMAP          757   2331                                      7308 \WaveArc\WAVE_ARC_SE_TOWNMAP.swar
-  WAVE_ARC_SE_TRCARD           758   2332                                      9540 \WaveArc\WAVE_ARC_SE_TRCARD.swar
+  WAVE_ARC_SE_TRCARD           758   2332                                     10708 \WaveArc\WAVE_ARC_SE_TRCARD.swar
   WAVE_ARC_SE_POKELIST         759   2333                                     17552 \WaveArc\WAVE_ARC_SE_POKELIST.swar
   WAVE_ARC_SE_DIG              760   2334                                      9332 \WaveArc\WAVE_ARC_SE_DIG.swar
   WAVE_ARC_SE_CUSTOM           761   2335                                     14016 \WaveArc\WAVE_ARC_SE_CUSTOM.swar
@@ -6282,23 +6282,23 @@
     2329 0x007C1F80      17664   \WaveArc\WAVE_ARC_SE_IMAGE.swar
     2330 0x007C6480       3472   \WaveArc\WAVE_ARC_SE_ZUKAN.swar
     2331 0x007C7220       7308   \WaveArc\WAVE_ARC_SE_TOWNMAP.swar
-    2332 0x007C8EC0       9540   \WaveArc\WAVE_ARC_SE_TRCARD.swar
-    2333 0x007CB420      17552   \WaveArc\WAVE_ARC_SE_POKELIST.swar
-    2334 0x007CF8C0       9332   \WaveArc\WAVE_ARC_SE_DIG.swar
-    2335 0x007D1D40      14016   \WaveArc\WAVE_ARC_SE_CUSTOM.swar
-    2336 0x007D5400      20232   \WaveArc\WAVE_ARC_SE_TRADE.swar
-    2337 0x007DA320      26888   \WaveArc\WAVE_ARC_SE_NUTMIXER.swar
-    2338 0x007E0C40       7744   \WaveArc\WAVE_ARC_SE_LINEAR.swar
-    2339 0x007E2A80       8620   \WaveArc\WAVE_ARC_SE_SHIP.swar
-    2340 0x007E4C40       9020   \WaveArc\WAVE_ARC_SE_SLOT.swar
-    2341 0x007E6F80      15464   \WaveArc\WAVE_ARC_SE_SCRATCH.swar
-    2342 0x007EAC00      62268   \WaveArc\WAVE_ARC_SE_HIROBA.swar
-    2343 0x007F9F40       8028   \WaveArc\WAVE_ARC_SE_PLANTER.swar
-    2344 0x007FBEA0      99384   \WaveArc\WAVE_ARC_SE_THLON.swar
-    2345 0x008142E0      87404   \WaveArc\WAVE_ARC_SE_THLON_OPED.swar
-    2346 0x00829860      14124   \WaveArc\WAVE_ARC_SE_JUICE.swar
-    2347 0x0082CFA0       6964   \WaveArc\WAVE_ARC_SE_COIN.swar
-    2348 0x0082EAE0      10416   \WaveArc\WAVE_ARC_SE_DENDO.swar
-    2349 0x008313A0      26444   \WaveArc\WAVE_ARC_SE_SEKIBAN.swar
-    2350 0x00837B00      11196   \WaveArc\WAVE_ARC_SE_PHC.swar
-    2351 0x0083A6C0       5780   \WaveArc\WAVE_ARC_SE_EVENT.swar
+    2332 0x007C8EC0      10708   \WaveArc\WAVE_ARC_SE_TRCARD.swar
+    2333 0x007CB8A0      17552   \WaveArc\WAVE_ARC_SE_POKELIST.swar
+    2334 0x007CFD40       9332   \WaveArc\WAVE_ARC_SE_DIG.swar
+    2335 0x007D21C0      14016   \WaveArc\WAVE_ARC_SE_CUSTOM.swar
+    2336 0x007D5880      20232   \WaveArc\WAVE_ARC_SE_TRADE.swar
+    2337 0x007DA7A0      26888   \WaveArc\WAVE_ARC_SE_NUTMIXER.swar
+    2338 0x007E10C0       7744   \WaveArc\WAVE_ARC_SE_LINEAR.swar
+    2339 0x007E2F00       8620   \WaveArc\WAVE_ARC_SE_SHIP.swar
+    2340 0x007E50C0       9020   \WaveArc\WAVE_ARC_SE_SLOT.swar
+    2341 0x007E7400      15464   \WaveArc\WAVE_ARC_SE_SCRATCH.swar
+    2342 0x007EB080      62268   \WaveArc\WAVE_ARC_SE_HIROBA.swar
+    2343 0x007FA3C0       8028   \WaveArc\WAVE_ARC_SE_PLANTER.swar
+    2344 0x007FC320      99384   \WaveArc\WAVE_ARC_SE_THLON.swar
+    2345 0x00814760      87404   \WaveArc\WAVE_ARC_SE_THLON_OPED.swar
+    2346 0x00829CE0      14124   \WaveArc\WAVE_ARC_SE_JUICE.swar
+    2347 0x0082D420       6964   \WaveArc\WAVE_ARC_SE_COIN.swar
+    2348 0x0082EF60      10416   \WaveArc\WAVE_ARC_SE_DENDO.swar
+    2349 0x00831820      26444   \WaveArc\WAVE_ARC_SE_SEKIBAN.swar
+    2350 0x00837F80      11196   \WaveArc\WAVE_ARC_SE_PHC.swar
+    2351 0x0083AB40       5780   \WaveArc\WAVE_ARC_SE_EVENT.swar
