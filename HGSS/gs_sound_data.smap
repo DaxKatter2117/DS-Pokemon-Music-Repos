@@ -1216,7 +1216,7 @@
   SEQ_ME_CASTLE               1213    178 700  86 127  64   2                   648 \Seq\SEQ_ME_CASTLE.sseq
   SEQ_ME_BPGET                1214    179 700 107 127  64   2                  1328 \Seq\SEQ_ME_BPGET.sseq
   SEQ_ME_MINIGAME             1215    180 700  91 127  64   2                   868 \Seq\SEQ_ME_MINIGAME.sseq
-  SEQ_PL_BICYCLE              1216      9 700 110  30  64   1                  6932 \Seq\SEQ_PL_BICYCLE.sseq
+  SEQ_PL_BICYCLE              1216      9 716  85  30  64   1                  6932 \Seq\SEQ_PL_BICYCLE.sseq
   SEQ_GS_P_START              1217    181 701  75  30  64   7                   120 \Seq\SEQ_GS_P_START.sseq
   SEQ_GS_P_TITLE              1218    182 701  75  30  64   7                  2428 \Seq\SEQ_GS_P_TITLE.sseq
   SEQ_GS_P_TITLE01            1219    183 701  75  30  64   7                  2428 \Seq\SEQ_GS_P_TITLE01.sseq
