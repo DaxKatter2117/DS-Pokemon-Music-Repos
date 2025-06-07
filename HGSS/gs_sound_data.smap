@@ -1167,7 +1167,7 @@
   SEQ_GS_E_MAIKO_THEME        1164    136 700  90  30  64   7                  3824 \Seq\SEQ_GS_E_MAIKO_THEME.sseq
   SEQ_GS_E_HOUOU              1165    137 700 110  30  64   7                  3156 \Seq\SEQ_GS_E_HOUOU.sseq
   SEQ_GS_E_LUGIA              1166    138 700  92  30  64   7                  2604 \Seq\SEQ_GS_E_LUGIA.sseq
-  SEQ_GS_E_G_PICHU            1167    139 700 102  30  64   7                  4520 \Seq\SEQ_GS_E_G_PICHU.sseq
+  SEQ_GS_E_G_PICHU            1167    139 702 102  30  64   7                  4520 \Seq\SEQ_GS_E_G_PICHU.sseq
   SEQ_GS_D_SHINTO             1168    140 728  91  30  64   1                 11600 \Seq\SEQ_GS_D_SHINTO.sseq
   SEQ_GS_RADIO_R_101          1169    141 700  72  30  64   7                  6192 \Seq\SEQ_GS_RADIO_R_101.sseq
   SEQ_GS_RADIO_R_201          1170    142 700 106  30  64   7                  4508 \Seq\SEQ_GS_RADIO_R_201.sseq
