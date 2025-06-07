@@ -1182,7 +1182,7 @@
   SEQ_GS_R_7_42_PHC           1179     24 700  76  30  64   7                  7112 \Seq\SEQ_GS_R_7_42_PHC.sseq
   SEQ_GS_NAMINORI_PHC         1180     10 700  71  30  64   7                 12408 \Seq\SEQ_GS_NAMINORI_PHC.sseq
   SEQ_GS_D_CHIKATSUURO_PHC    1181    148 700  72  30  64   7                  7848 \Seq\SEQ_GS_D_CHIKATSUURO_PHC.sseq
-  SEQ_GS_SENKYO_R             1182     67 700  72  30  64   1                  8556 \Seq\SEQ_GS_SENKYO_R.sseq
+  SEQ_GS_SENKYO_R             1182     67 700  64  30  64   1                  8556 \Seq\SEQ_GS_SENKYO_R.sseq
   SEQ_ME_ASA                  1183    149 700  80 127  64   2                   732 \Seq\SEQ_ME_ASA.sseq
   SEQ_ME_LVUP                 1184    150 700 102 127  64   2                   400 \Seq\SEQ_ME_LVUP.sseq
   SEQ_ME_ITEM                 1185    151 700  81 127  64   2                   700 \Seq\SEQ_ME_ITEM.sseq
