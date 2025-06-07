@@ -1070,8 +1070,8 @@
   SEQ_GS_OHKIDO               1067     41 700 100  30  64   7                  8248 \Seq\SEQ_GS_OHKIDO.sseq
   SEQ_GS_KABURENJOU           1068     42 706  80  30  64   1                  4192 \Seq\SEQ_GS_KABURENJOU.sseq
   SEQ_GS_GAME                 1069     43 702  92  30  64   1                 11268 \Seq\SEQ_GS_GAME.sseq
-  SEQ_GS_BATTLETOWER          1070     44 702  97  30  64   1                  8108 \Seq\SEQ_GS_BATTLETOWER.sseq
-  SEQ_GS_BATTLETOWER2         1071     45 702  70  30  64   1                  5748 \Seq\SEQ_GS_BATTLETOWER2.sseq
+  SEQ_GS_BATTLETOWER          1070     44 731  97  30  64   1                  8108 \Seq\SEQ_GS_BATTLETOWER.sseq
+  SEQ_GS_BATTLETOWER2         1071     45 731  70  30  64   1                  5748 \Seq\SEQ_GS_BATTLETOWER2.sseq
   SEQ_GS_TO_MADATSUBOMI1      1072     46 729  62  30  64   1                  9072 \Seq\SEQ_GS_TO_MADATSUBOMI1.sseq
   SEQ_GS_D_CHIKATSUURO        1073     47 728  80  30  64   1                  7828 \Seq\SEQ_GS_D_CHIKATSUURO.sseq
   SEQ_GS_D_UNKNOWN_ISEKI      1074     48 734  93  30  64   1                  3960 \Seq\SEQ_GS_D_UNKNOWN_ISEKI.sseq
