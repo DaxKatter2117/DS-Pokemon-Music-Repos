@@ -1085,7 +1085,7 @@
   SEQ_GS_D_IWAYAMA            1082     56 733  79  30  64   1                 10344 \Seq\SEQ_GS_D_IWAYAMA.sseq
   SEQ_GS_D_TOKIWANOMORI3      1083     57 728  87  30  64   1                  5768 \Seq\SEQ_GS_D_TOKIWANOMORI3.sseq
   SEQ_GS_D_CHAMPROAD          1084     58 733  87  30  64   1                  5260 \Seq\SEQ_GS_D_CHAMPROAD.sseq
-  SEQ_GS_CHAMPROAD            1085     59 710  82  30  64   1                  4544 \Seq\SEQ_GS_CHAMPROAD.sseq
+  SEQ_GS_CHAMPROAD            1085     59 710  82  30  64   1                  4548 \Seq\SEQ_GS_CHAMPROAD.sseq
   SEQ_GS_E_TSURETEKE1         1086     60 700  79  30  64   7                  1044 \Seq\SEQ_GS_E_TSURETEKE1.sseq
   SEQ_GS_E_TSURETEKE2         1087     61 700  78  30  64   7                  3436 \Seq\SEQ_GS_E_TSURETEKE2.sseq
   SEQ_GS_E_RIVAL1             1088     62 700  89  30  64   7                  6976 \Seq\SEQ_GS_E_RIVAL1.sseq
@@ -1103,7 +1103,7 @@
   SEQ_GS_RADIO_MARCH          1100     73 700  82  30  64   7                  3416 \Seq\SEQ_GS_RADIO_MARCH.sseq
   SEQ_GS_RADIO_UNKNOWN        1101     74 700  89  30  64   7                   488 \Seq\SEQ_GS_RADIO_UNKNOWN.sseq
   SEQ_GS_HUE                  1102     75 700  89  30  64   7                  1960 \Seq\SEQ_GS_HUE.sseq
-  SEQ_GS_OHKIDO_RABO          1103     76 700  89  30  64   7                  5760 \Seq\SEQ_GS_OHKIDO_RABO.sseq
+  SEQ_GS_OHKIDO_RABO          1103     76 700  89  30  64   7                  5732 \Seq\SEQ_GS_OHKIDO_RABO.sseq
   SEQ_GS_AIKOTOBA             1104     77 700  92  30  64   7                  6456 \Seq\SEQ_GS_AIKOTOBA.sseq
   SEQ_GS_E_MINAKI             1105     78 700  86  30  64   7                  6444 \Seq\SEQ_GS_E_MINAKI.sseq
   SEQ_GS_IBUKI                1106     79 700  89  30  64   7                  3860 \Seq\SEQ_GS_IBUKI.sseq
@@ -1174,7 +1174,7 @@
   SEQ_GS_RADIO_TRAINER        1171    143 700  73  30  64   7                  7332 \Seq\SEQ_GS_RADIO_TRAINER.sseq
   SEQ_GS_RADIO_PT             1172     17 700  70  30  64   7                  9968 \Seq\SEQ_GS_RADIO_PT.sseq
   SEQ_GS_RADIO_VARIETY        1173    144 700  73  30  64   7                  3748 \Seq\SEQ_GS_RADIO_VARIETY.sseq
-  SEQ_GS_VS_KODAI             1174    145 720 110  30  64   7                  4976 \Seq\SEQ_GS_VS_KODAI.sseq
+  SEQ_GS_VS_KODAI             1174    145 720 110  30  64   7                  4960 \Seq\SEQ_GS_VS_KODAI.sseq
   SEQ_GS_PHC                  1175    146 700 106  30  64   7                  4672 \Seq\SEQ_GS_PHC.sseq
   SEQ_GS_E_ARCEUS             1176    147 738  99  30  64   7                  3284 \Seq\SEQ_GS_E_ARCEUS.sseq
   SEQ_GS_R_1_29_PHC           1177      1 700  53  30  64   7                  9428 \Seq\SEQ_GS_R_1_29_PHC.sseq
@@ -4009,93 +4009,93 @@
       56 0x00085B80      10344   \Seq\SEQ_GS_D_IWAYAMA.sseq
       57 0x00088400       5768   \Seq\SEQ_GS_D_TOKIWANOMORI3.sseq
       58 0x00089AA0       5260   \Seq\SEQ_GS_D_CHAMPROAD.sseq
-      59 0x0008AF40       4544   \Seq\SEQ_GS_CHAMPROAD.sseq
-      60 0x0008C100       1044   \Seq\SEQ_GS_E_TSURETEKE1.sseq
-      61 0x0008C520       3436   \Seq\SEQ_GS_E_TSURETEKE2.sseq
-      62 0x0008D2A0       6976   \Seq\SEQ_GS_E_RIVAL1.sseq
-      63 0x0008EDE0       6080   \Seq\SEQ_GS_E_RIVAL2.sseq
-      64 0x000905A0       1476   \Seq\SEQ_GS_TAIKAIMAE_D5.sseq
-      65 0x00090B80       4668   \Seq\SEQ_GS_TAIKAI.sseq
-      66 0x00091DC0        520   \Seq\SEQ_GS_KAIDENPA.sseq
-      67 0x00091FE0       8556   \Seq\SEQ_GS_SENKYO_R.sseq
-      68 0x00094160       1888   \Seq\SEQ_GS_E_LINEAR.sseq
-      69 0x000948C0       8688   \Seq\SEQ_GS_KOUSOKUSEN.sseq
-      70 0x00096AC0       1508   \Seq\SEQ_GS_OTSUKIMI_EVENT.sseq
-      71 0x000970C0       1936   \Seq\SEQ_GS_RADIO_JINGLE.sseq
-      72 0x00097860        960   \Seq\SEQ_GS_RADIO_KOMORIUTA.sseq
-      73 0x00097C20       3416   \Seq\SEQ_GS_RADIO_MARCH.sseq
-      74 0x00098980        488   \Seq\SEQ_GS_RADIO_UNKNOWN.sseq
-      75 0x00098B80       1960   \Seq\SEQ_GS_HUE.sseq
-      76 0x00099340       5760   \Seq\SEQ_GS_OHKIDO_RABO.sseq
-      77 0x0009A9C0       6456   \Seq\SEQ_GS_AIKOTOBA.sseq
-      78 0x0009C300       6444   \Seq\SEQ_GS_E_MINAKI.sseq
-      79 0x0009DC40       3860   \Seq\SEQ_GS_IBUKI.sseq
-      80 0x0009EB60       3148   \Seq\SEQ_GS_EYE_J_SHOUJO.sseq
-      81 0x0009F7C0       3548   \Seq\SEQ_GS_EYE_J_SHOUNEN.sseq
-      82 0x000A05A0       2752   \Seq\SEQ_GS_EYE_J_AYASHII.sseq
-      83 0x000A1060       3080   \Seq\SEQ_GS_EYE_BOUZU.sseq
-      84 0x000A1C80       2764   \Seq\SEQ_GS_EYE_MAIKO.sseq
-      85 0x000A2760       3252   \Seq\SEQ_GS_EYE_ROCKET.sseq
-      86 0x000A3420       2968   \Seq\SEQ_GS_EYE_K_SHOUJO.sseq
-      87 0x000A3FC0       3492   \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
-      88 0x000A4D80       2224   \Seq\SEQ_GS_EYE_K_AYASHII.sseq
-      89 0x000A5640      13124   \Seq\SEQ_GS_VS_NORAPOKE.sseq
-      90 0x000A89A0      24012   \Seq\SEQ_GS_VS_TRAINER.sseq
-      91 0x000AE780      11596   \Seq\SEQ_GS_VS_GYMREADER.sseq
-      92 0x000B14E0      15056   \Seq\SEQ_GS_VS_RIVAL.sseq
-      93 0x000B4FC0      10192   \Seq\SEQ_GS_VS_ROCKET.sseq
-      94 0x000B77A0      16068   \Seq\SEQ_GS_VS_SUICUNE.sseq
-      95 0x000BB680      10500   \Seq\SEQ_GS_VS_ENTEI.sseq
-      96 0x000BDFA0      15924   \Seq\SEQ_GS_VS_RAIKOU.sseq
-      97 0x000C1DE0      12628   \Seq\SEQ_GS_VS_CHAMP.sseq
-      98 0x000C4F40      11188   \Seq\SEQ_GS_VS_NORAPOKE_KANTO.sseq
-      99 0x000C7B00      21464   \Seq\SEQ_GS_VS_TRAINER_KANTO.sseq
-     100 0x000CCEE0      20568   \Seq\SEQ_GS_VS_GYMREADER_KANTO.sseq
-     101 0x000D1F40       3164   \Seq\SEQ_GS_WIN1.sseq
-     102 0x000D2BA0       3128   \Seq\SEQ_GS_WIN2.sseq
-     103 0x000D37E0       2640   \Seq\SEQ_GS_WIN2_NOT_FAN.sseq
-     104 0x000D4240       6180   \Seq\SEQ_GS_WIN3.sseq
-     105 0x000D5A80      19500   \Seq\SEQ_GS_VS_HOUOU.sseq
-     106 0x000DA6C0      12872   \Seq\SEQ_GS_VS_LUGIA.sseq
-     107 0x000DD920       3924   \Seq\SEQ_GS_PT_ENTR.sseq
-     108 0x000DE880       2704   \Seq\SEQ_GS_PT_OPEN.sseq
-     109 0x000DF320       2660   \Seq\SEQ_GS_PT_TITLE.sseq
-     110 0x000DFDA0      10400   \Seq\SEQ_GS_PT_GAME.sseq
-     111 0x000E2640      10748   \Seq\SEQ_GS_PT_GAMEF.sseq
-     112 0x000E5040       4508   \Seq\SEQ_GS_PT_RESULT.sseq
-     113 0x000E61E0       8632   \Seq\SEQ_GS_PT_END_FIELD.sseq
-     114 0x000E83A0       2372   \Seq\SEQ_GS_PT_VICTORY.sseq
-     115 0x000E8D00       8872   \Seq\SEQ_GS_BF_FACTORY.sseq
-     116 0x000EAFC0      10804   \Seq\SEQ_GS_BF_STAGE.sseq
-     117 0x000EDA00      14668   \Seq\SEQ_GS_BF_ROULETTE.sseq
-     118 0x000F1360      10620   \Seq\SEQ_GS_BF_CASTLE.sseq
-     119 0x000F3CE0      12500   \Seq\SEQ_GS_BA_BRAIN.sseq
-     120 0x000F6DC0       3256   \Seq\SEQ_GS_WINBRAIN.sseq
-     121 0x000F7A80       1464   \Seq\SEQ_GS_WIFI_ACCESS.sseq
-     122 0x000F8040       2808   \Seq\SEQ_GS_WIFI_PRESENT.sseq
-     123 0x000F8B40      10716   \Seq\SEQ_GS_WIFIUNION.sseq
-     124 0x000FB520       4884   \Seq\SEQ_GS_WIFIGAME.sseq
-     125 0x000FC840       8792   \Seq\SEQ_GS_WIFIPARADE.sseq
-     126 0x000FEAA0      10128   \Seq\SEQ_GS_WIFITOWER.sseq
-     127 0x00101240       2820   \Seq\SEQ_GS_GURUGURU.sseq
-     128 0x00101D60       7948   \Seq\SEQ_GS_BLD_GTC.sseq
-     129 0x00103C80      10820   \Seq\SEQ_GS_SAFARI_ROAD.sseq
-     130 0x001066E0       5404   \Seq\SEQ_GS_SAFARI_HOUSE.sseq
-     131 0x00107C00       5988   \Seq\SEQ_GS_SAFARI_FIELD.sseq
-     132 0x00109380       4952   \Seq\SEQ_GS_E_SUPPORT_M.sseq
-     133 0x0010A6E0       3940   \Seq\SEQ_GS_E_SUPPORT_F.sseq
-     134 0x0010B660       3404   \Seq\SEQ_GS_GAMEATARI.sseq
-     135 0x0010C3C0       2396   \Seq\SEQ_GS_E_MAIKO_MAI.sseq
-     136 0x0010CD20       3824   \Seq\SEQ_GS_E_MAIKO_THEME.sseq
-     137 0x0010DC20       3156   \Seq\SEQ_GS_E_HOUOU.sseq
-     138 0x0010E880       2604   \Seq\SEQ_GS_E_LUGIA.sseq
-     139 0x0010F2C0       4520   \Seq\SEQ_GS_E_G_PICHU.sseq
-     140 0x00110480      11600   \Seq\SEQ_GS_D_SHINTO.sseq
-     141 0x001131E0       6192   \Seq\SEQ_GS_RADIO_R_101.sseq
-     142 0x00114A20       4508   \Seq\SEQ_GS_RADIO_R_201.sseq
-     143 0x00115BC0       7332   \Seq\SEQ_GS_RADIO_TRAINER.sseq
-     144 0x00117880       3748   \Seq\SEQ_GS_RADIO_VARIETY.sseq
-     145 0x00118740       4976   \Seq\SEQ_GS_VS_KODAI.sseq
+      59 0x0008AF40       4548   \Seq\SEQ_GS_CHAMPROAD.sseq
+      60 0x0008C120       1044   \Seq\SEQ_GS_E_TSURETEKE1.sseq
+      61 0x0008C540       3436   \Seq\SEQ_GS_E_TSURETEKE2.sseq
+      62 0x0008D2C0       6976   \Seq\SEQ_GS_E_RIVAL1.sseq
+      63 0x0008EE00       6080   \Seq\SEQ_GS_E_RIVAL2.sseq
+      64 0x000905C0       1476   \Seq\SEQ_GS_TAIKAIMAE_D5.sseq
+      65 0x00090BA0       4668   \Seq\SEQ_GS_TAIKAI.sseq
+      66 0x00091DE0        520   \Seq\SEQ_GS_KAIDENPA.sseq
+      67 0x00092000       8556   \Seq\SEQ_GS_SENKYO_R.sseq
+      68 0x00094180       1888   \Seq\SEQ_GS_E_LINEAR.sseq
+      69 0x000948E0       8688   \Seq\SEQ_GS_KOUSOKUSEN.sseq
+      70 0x00096AE0       1508   \Seq\SEQ_GS_OTSUKIMI_EVENT.sseq
+      71 0x000970E0       1936   \Seq\SEQ_GS_RADIO_JINGLE.sseq
+      72 0x00097880        960   \Seq\SEQ_GS_RADIO_KOMORIUTA.sseq
+      73 0x00097C40       3416   \Seq\SEQ_GS_RADIO_MARCH.sseq
+      74 0x000989A0        488   \Seq\SEQ_GS_RADIO_UNKNOWN.sseq
+      75 0x00098BA0       1960   \Seq\SEQ_GS_HUE.sseq
+      76 0x00099360       5732   \Seq\SEQ_GS_OHKIDO_RABO.sseq
+      77 0x0009A9E0       6456   \Seq\SEQ_GS_AIKOTOBA.sseq
+      78 0x0009C320       6444   \Seq\SEQ_GS_E_MINAKI.sseq
+      79 0x0009DC60       3860   \Seq\SEQ_GS_IBUKI.sseq
+      80 0x0009EB80       3148   \Seq\SEQ_GS_EYE_J_SHOUJO.sseq
+      81 0x0009F7E0       3548   \Seq\SEQ_GS_EYE_J_SHOUNEN.sseq
+      82 0x000A05C0       2752   \Seq\SEQ_GS_EYE_J_AYASHII.sseq
+      83 0x000A1080       3080   \Seq\SEQ_GS_EYE_BOUZU.sseq
+      84 0x000A1CA0       2764   \Seq\SEQ_GS_EYE_MAIKO.sseq
+      85 0x000A2780       3252   \Seq\SEQ_GS_EYE_ROCKET.sseq
+      86 0x000A3440       2968   \Seq\SEQ_GS_EYE_K_SHOUJO.sseq
+      87 0x000A3FE0       3492   \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
+      88 0x000A4DA0       2224   \Seq\SEQ_GS_EYE_K_AYASHII.sseq
+      89 0x000A5660      13124   \Seq\SEQ_GS_VS_NORAPOKE.sseq
+      90 0x000A89C0      24012   \Seq\SEQ_GS_VS_TRAINER.sseq
+      91 0x000AE7A0      11596   \Seq\SEQ_GS_VS_GYMREADER.sseq
+      92 0x000B1500      15056   \Seq\SEQ_GS_VS_RIVAL.sseq
+      93 0x000B4FE0      10192   \Seq\SEQ_GS_VS_ROCKET.sseq
+      94 0x000B77C0      16068   \Seq\SEQ_GS_VS_SUICUNE.sseq
+      95 0x000BB6A0      10500   \Seq\SEQ_GS_VS_ENTEI.sseq
+      96 0x000BDFC0      15924   \Seq\SEQ_GS_VS_RAIKOU.sseq
+      97 0x000C1E00      12628   \Seq\SEQ_GS_VS_CHAMP.sseq
+      98 0x000C4F60      11188   \Seq\SEQ_GS_VS_NORAPOKE_KANTO.sseq
+      99 0x000C7B20      21464   \Seq\SEQ_GS_VS_TRAINER_KANTO.sseq
+     100 0x000CCF00      20568   \Seq\SEQ_GS_VS_GYMREADER_KANTO.sseq
+     101 0x000D1F60       3164   \Seq\SEQ_GS_WIN1.sseq
+     102 0x000D2BC0       3128   \Seq\SEQ_GS_WIN2.sseq
+     103 0x000D3800       2640   \Seq\SEQ_GS_WIN2_NOT_FAN.sseq
+     104 0x000D4260       6180   \Seq\SEQ_GS_WIN3.sseq
+     105 0x000D5AA0      19500   \Seq\SEQ_GS_VS_HOUOU.sseq
+     106 0x000DA6E0      12872   \Seq\SEQ_GS_VS_LUGIA.sseq
+     107 0x000DD940       3924   \Seq\SEQ_GS_PT_ENTR.sseq
+     108 0x000DE8A0       2704   \Seq\SEQ_GS_PT_OPEN.sseq
+     109 0x000DF340       2660   \Seq\SEQ_GS_PT_TITLE.sseq
+     110 0x000DFDC0      10400   \Seq\SEQ_GS_PT_GAME.sseq
+     111 0x000E2660      10748   \Seq\SEQ_GS_PT_GAMEF.sseq
+     112 0x000E5060       4508   \Seq\SEQ_GS_PT_RESULT.sseq
+     113 0x000E6200       8632   \Seq\SEQ_GS_PT_END_FIELD.sseq
+     114 0x000E83C0       2372   \Seq\SEQ_GS_PT_VICTORY.sseq
+     115 0x000E8D20       8872   \Seq\SEQ_GS_BF_FACTORY.sseq
+     116 0x000EAFE0      10804   \Seq\SEQ_GS_BF_STAGE.sseq
+     117 0x000EDA20      14668   \Seq\SEQ_GS_BF_ROULETTE.sseq
+     118 0x000F1380      10620   \Seq\SEQ_GS_BF_CASTLE.sseq
+     119 0x000F3D00      12500   \Seq\SEQ_GS_BA_BRAIN.sseq
+     120 0x000F6DE0       3256   \Seq\SEQ_GS_WINBRAIN.sseq
+     121 0x000F7AA0       1464   \Seq\SEQ_GS_WIFI_ACCESS.sseq
+     122 0x000F8060       2808   \Seq\SEQ_GS_WIFI_PRESENT.sseq
+     123 0x000F8B60      10716   \Seq\SEQ_GS_WIFIUNION.sseq
+     124 0x000FB540       4884   \Seq\SEQ_GS_WIFIGAME.sseq
+     125 0x000FC860       8792   \Seq\SEQ_GS_WIFIPARADE.sseq
+     126 0x000FEAC0      10128   \Seq\SEQ_GS_WIFITOWER.sseq
+     127 0x00101260       2820   \Seq\SEQ_GS_GURUGURU.sseq
+     128 0x00101D80       7948   \Seq\SEQ_GS_BLD_GTC.sseq
+     129 0x00103CA0      10820   \Seq\SEQ_GS_SAFARI_ROAD.sseq
+     130 0x00106700       5404   \Seq\SEQ_GS_SAFARI_HOUSE.sseq
+     131 0x00107C20       5988   \Seq\SEQ_GS_SAFARI_FIELD.sseq
+     132 0x001093A0       4952   \Seq\SEQ_GS_E_SUPPORT_M.sseq
+     133 0x0010A700       3940   \Seq\SEQ_GS_E_SUPPORT_F.sseq
+     134 0x0010B680       3404   \Seq\SEQ_GS_GAMEATARI.sseq
+     135 0x0010C3E0       2396   \Seq\SEQ_GS_E_MAIKO_MAI.sseq
+     136 0x0010CD40       3824   \Seq\SEQ_GS_E_MAIKO_THEME.sseq
+     137 0x0010DC40       3156   \Seq\SEQ_GS_E_HOUOU.sseq
+     138 0x0010E8A0       2604   \Seq\SEQ_GS_E_LUGIA.sseq
+     139 0x0010F2E0       4520   \Seq\SEQ_GS_E_G_PICHU.sseq
+     140 0x001104A0      11600   \Seq\SEQ_GS_D_SHINTO.sseq
+     141 0x00113200       6192   \Seq\SEQ_GS_RADIO_R_101.sseq
+     142 0x00114A40       4508   \Seq\SEQ_GS_RADIO_R_201.sseq
+     143 0x00115BE0       7332   \Seq\SEQ_GS_RADIO_TRAINER.sseq
+     144 0x001178A0       3748   \Seq\SEQ_GS_RADIO_VARIETY.sseq
+     145 0x00118760       4960   \Seq\SEQ_GS_VS_KODAI.sseq
      146 0x00119AC0       4672   \Seq\SEQ_GS_PHC.sseq
      147 0x0011AD00       3284   \Seq\SEQ_GS_E_ARCEUS.sseq
      148 0x0011B9E0       7848   \Seq\SEQ_GS_D_CHIKATSUURO_PHC.sseq
