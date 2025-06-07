@@ -1004,218 +1004,218 @@
   SEQ_SILENCE_FIELD           1001      2 702  70  30  64   1                   136 \Seq\SEQ_SILENCE_FIELD.sseq
   SEQ_SILENCE_DUNGEON         1002      2 728  70  30  64   1                   136 \Seq\SEQ_SILENCE_DUNGEON.sseq
   SEQ_TEST_TITLE              1003      1 700  50  30  64   7                  9428 \Seq\SEQ_TEST_TITLE.sseq
-  SEQ_GS_TITLE                1004      3 737 125  30  64   7                 17796 \Seq\SEQ_GS_TITLE.sseq
-  SEQ_GS_TITLE01              1005      1 737  80  30  64   7                  9428 \Seq\SEQ_GS_TITLE01.sseq
-  SEQ_GS_OPENING_TITLE_G      1006      1 737  80  30  64   7                  9428 \Seq\SEQ_GS_OPENING_TITLE_G.sseq
-  SEQ_GS_OPENING_TITLE_S      1007      1 737  80  30  64   7                  9428 \Seq\SEQ_GS_OPENING_TITLE_S.sseq
-  SEQ_GS_POKEMON_THEME        1008      4 737 114  30  64   7                 14356 \Seq\SEQ_GS_POKEMON_THEME.sseq
-  SEQ_GS_STARTING             1009      5 702  75  30  64   7                  2868 \Seq\SEQ_GS_STARTING.sseq
-  SEQ_GS_STARTING2            1010      6 702  95  30  64   7                  7216 \Seq\SEQ_GS_STARTING2.sseq
-  SEQ_GS_SHINKA               1011      7 700  83  30  64   7                  5352 \Seq\SEQ_GS_SHINKA.sseq
-  SEQ_GS_KOUKAN               1012      8 700  83  30  64   7                  5108 \Seq\SEQ_GS_KOUKAN.sseq
-  SEQ_GS_BICYCLE              1013      9 700  88  30  64   1                  6932 \Seq\SEQ_GS_BICYCLE.sseq
-  SEQ_GS_NAMINORI             1014     10 700  83  30  64   1                 12368 \Seq\SEQ_GS_NAMINORI.sseq
-  SEQ_GS_E_DENDOUIRI          1015     11 702 101  30  64   1                  5540 \Seq\SEQ_GS_E_DENDOUIRI.sseq
-  SEQ_GS_ENDING               1016     12 737  61  30  64   7                 33924 \Seq\SEQ_GS_ENDING.sseq
-  SEQ_GS_ENDING2              1017     13 737  77  30  64   7                  1520 \Seq\SEQ_GS_ENDING2.sseq
-  SEQ_GS_T_WAKABA             1018     14 702  82  30  64   1                  7884 \Seq\SEQ_GS_T_WAKABA.sseq
-  SEQ_GS_C_YOSHINO            1019     15 702  70  30  64   1                  7508 \Seq\SEQ_GS_C_YOSHINO.sseq
-  SEQ_GS_C_KIKYOU             1020     16 703  80  30  64   1                 13064 \Seq\SEQ_GS_C_KIKYOU.sseq
-  SEQ_GS_T_HIWADA             1021     17 704  75  30  64   1                  9968 \Seq\SEQ_GS_T_HIWADA.sseq
-  SEQ_GS_C_KOGANE             1022     18 705  74  30  64   1                  5124 \Seq\SEQ_GS_C_KOGANE.sseq
-  SEQ_GS_C_ENJU               1023     19 706  56  30  64   1                 11816 \Seq\SEQ_GS_C_ENJU.sseq
-  SEQ_GS_C_ASAGI              1024     16 707  80  30  64   1                 13064 \Seq\SEQ_GS_C_ASAGI.sseq
-  SEQ_GS_C_TANBA              1025     20 707  75  30  64   1                  5264 \Seq\SEQ_GS_C_TANBA.sseq
-  SEQ_GS_T_CHOUJI             1026     15 708  70  30  64   1                  7508 \Seq\SEQ_GS_T_CHOUJI.sseq
-  SEQ_GS_C_FUSUBE             1027     17 709  74  30  64   1                  9968 \Seq\SEQ_GS_C_FUSUBE.sseq
-  SEQ_GS_R_1_29               1028      1 702  65  30  64   1                  9428 \Seq\SEQ_GS_R_1_29.sseq
-  SEQ_GS_R_1_30               1029     21 702  95  30  64   1                  7216 \Seq\SEQ_GS_R_1_30.sseq
-  SEQ_GS_R_2_30               1030     21 703  95  30  64   1                  7216 \Seq\SEQ_GS_R_2_30.sseq
-  SEQ_GS_R_3_30               1031     21 704  95  30  64   1                  7216 \Seq\SEQ_GS_R_3_30.sseq
-  SEQ_GS_R_4_34               1032     22 705  94  30  64   1                  6008 \Seq\SEQ_GS_R_4_34.sseq
-  SEQ_GS_R_5_34               1033     22 706  94  30  64   1                  6008 \Seq\SEQ_GS_R_5_34.sseq
-  SEQ_GS_R_6_34               1034     22 707  94  30  64   1                  6008 \Seq\SEQ_GS_R_6_34.sseq
-  SEQ_GS_R_8_34               1035     22 709  94  30  64   1                  6008 \Seq\SEQ_GS_R_8_34.sseq
-  SEQ_GS_R_6_38               1036     23 707  86  30  64   1                  9852 \Seq\SEQ_GS_R_6_38.sseq
-  SEQ_GS_R_7_42               1037     24 708  88  30  64   1                  7112 \Seq\SEQ_GS_R_7_42.sseq
-  SEQ_GS_C_KUCHIBA            1038     25 711  64  30  64   1                  5704 \Seq\SEQ_GS_C_KUCHIBA.sseq
-  SEQ_GS_C_YAMABUKI           1039     26 712  60  30  64   1                  6804 \Seq\SEQ_GS_C_YAMABUKI.sseq
-  SEQ_GS_C_HANADA             1040     27 713  75  30  64   1                  5308 \Seq\SEQ_GS_C_HANADA.sseq
-  SEQ_GS_T_CHION              1041     28 714  75  30  64   1                  5948 \Seq\SEQ_GS_T_CHION.sseq
-  SEQ_GS_C_TAMAMUSHI          1042     29 715  64  30  64   1                  5528 \Seq\SEQ_GS_C_TAMAMUSHI.sseq
-  SEQ_GS_C_SEKICHIKU          1043     27 716  75  30  64   1                  5308 \Seq\SEQ_GS_C_SEKICHIKU.sseq
-  SEQ_GS_C_NIBI               1044     26 717  61  30  64   1                  6804 \Seq\SEQ_GS_C_NIBI.sseq
-  SEQ_GS_C_TOKIWA             1045     26 710  61  30  64   1                  6804 \Seq\SEQ_GS_C_TOKIWA.sseq
-  SEQ_GS_T_MASARA             1046     30 718  83  30  64   1                  7712 \Seq\SEQ_GS_T_MASARA.sseq
-  SEQ_GS_T_GUREN              1047     31 718  77  30  64   1                  1256 \Seq\SEQ_GS_T_GUREN.sseq
-  SEQ_GS_R_9_01               1048     32 710  87  30  64   1                  3560 \Seq\SEQ_GS_R_9_01.sseq
-  SEQ_GS_R_16_01              1049     32 717  87  30  64   1                  3560 \Seq\SEQ_GS_R_16_01.sseq
-  SEQ_GS_R_17_01              1050     32 718  87  30  64   1                  3560 \Seq\SEQ_GS_R_17_01.sseq
-  SEQ_GS_R_9_03               1051     33 710  89  30  64   1                  6380 \Seq\SEQ_GS_R_9_03.sseq
-  SEQ_GS_R_10_03              1052     33 711  89  30  64   1                  6380 \Seq\SEQ_GS_R_10_03.sseq
-  SEQ_GS_R_12_03              1053     33 713  89  30  64   1                  6380 \Seq\SEQ_GS_R_12_03.sseq
-  SEQ_GS_R_13_03              1054     33 714  89  30  64   1                  6380 \Seq\SEQ_GS_R_13_03.sseq
-  SEQ_GS_R_14_03              1055     33 715  89  30  64   1                  6380 \Seq\SEQ_GS_R_14_03.sseq
-  SEQ_GS_R_15_03              1056     33 716  89  30  64   1                  6380 \Seq\SEQ_GS_R_15_03.sseq
-  SEQ_GS_R_16_03              1057     33 717  89  30  64   1                  6380 \Seq\SEQ_GS_R_16_03.sseq
-  SEQ_GS_R_17_03              1058     33 718  89  30  64   1                  6380 \Seq\SEQ_GS_R_17_03.sseq
-  SEQ_GS_R_10_11              1059     34 711  79  30  64   1                  6472 \Seq\SEQ_GS_R_10_11.sseq
-  SEQ_GS_R_13_11              1060     34 714  79  30  64   1                  6472 \Seq\SEQ_GS_R_13_11.sseq
-  SEQ_GS_R_12_24              1061     35 713  82  30  64   1                  5500 \Seq\SEQ_GS_R_12_24.sseq
-  SEQ_GS_R_1_26               1062     36 702  80  30  64   1                  6560 \Seq\SEQ_GS_R_1_26.sseq
-  SEQ_GS_POKESEN              1063     37 702  77  30  64   1                  3840 \Seq\SEQ_GS_POKESEN.sseq
-  SEQ_GS_FS                   1064     38 702  80  30  64   1                  5864 \Seq\SEQ_GS_FS.sseq
-  SEQ_GS_GYM                  1065     39 709  88  30  64   1                  7524 \Seq\SEQ_GS_GYM.sseq
-  SEQ_GS_UTSUGI_RABO          1066     40 702  82  30  64   1                  7228 \Seq\SEQ_GS_UTSUGI_RABO.sseq
-  SEQ_GS_OHKIDO               1067     41 702 103  30  64   1                  8248 \Seq\SEQ_GS_OHKIDO.sseq
-  SEQ_GS_KABURENJOU           1068     42 706  83  30  64   1                  4192 \Seq\SEQ_GS_KABURENJOU.sseq
-  SEQ_GS_GAME                 1069     43 702  95  30  64   1                 11268 \Seq\SEQ_GS_GAME.sseq
-  SEQ_GS_BATTLETOWER          1070     44 702 100  30  64   1                  8108 \Seq\SEQ_GS_BATTLETOWER.sseq
-  SEQ_GS_BATTLETOWER2         1071     45 702  72  30  64   1                  5748 \Seq\SEQ_GS_BATTLETOWER2.sseq
-  SEQ_GS_TO_MADATSUBOMI1      1072     46 729  64  30  64   1                  9072 \Seq\SEQ_GS_TO_MADATSUBOMI1.sseq
-  SEQ_GS_D_CHIKATSUURO        1073     47 728  84  30  64   1                  7852 \Seq\SEQ_GS_D_CHIKATSUURO.sseq
-  SEQ_GS_D_UNKNOWN_ISEKI      1074     48 734  96  30  64   1                  3960 \Seq\SEQ_GS_D_UNKNOWN_ISEKI.sseq
-  SEQ_GS_D_KOUEN              1075     49 732  90  30  64   1                 12104 \Seq\SEQ_GS_D_KOUEN.sseq
-  SEQ_GS_TO_YAKETA            1076     50 730  72  30  64   1                  6916 \Seq\SEQ_GS_TO_YAKETA.sseq
-  SEQ_GS_TO_SUZU              1077     51 730  83  30  64   1                  4676 \Seq\SEQ_GS_TO_SUZU.sseq
-  SEQ_GS_TO_TOUDAI            1078     52 733  54  30  64   1                  5816 \Seq\SEQ_GS_TO_TOUDAI.sseq
-  SEQ_GS_D_AJITO              1079     53 736  83  30  64   1                  4868 \Seq\SEQ_GS_D_AJITO.sseq
-  SEQ_GS_D_KOORINONUKE        1080     54 728  75  30  64   1                  6872 \Seq\SEQ_GS_D_KOORINONUKE.sseq
-  SEQ_GS_RYUUNOANA            1081     55 735  90  30  64   1                  7668 \Seq\SEQ_GS_RYUUNOANA.sseq
-  SEQ_GS_D_IWAYAMA            1082     56 733  81  30  64   1                 10344 \Seq\SEQ_GS_D_IWAYAMA.sseq
-  SEQ_GS_D_TOKIWANOMORI3      1083     57 728  89  30  64   1                  5768 \Seq\SEQ_GS_D_TOKIWANOMORI3.sseq
-  SEQ_GS_D_CHAMPROAD          1084     58 733  89  30  64   1                  5260 \Seq\SEQ_GS_D_CHAMPROAD.sseq
-  SEQ_GS_CHAMPROAD            1085     59 710  84  30  64   1                  4544 \Seq\SEQ_GS_CHAMPROAD.sseq
-  SEQ_GS_E_TSURETEKE1         1086     60 700  81  30  64   7                  1044 \Seq\SEQ_GS_E_TSURETEKE1.sseq
-  SEQ_GS_E_TSURETEKE2         1087     61 700  80  30  64   7                  3436 \Seq\SEQ_GS_E_TSURETEKE2.sseq
-  SEQ_GS_E_RIVAL1             1088     62 700  94  30  64   7                  6976 \Seq\SEQ_GS_E_RIVAL1.sseq
-  SEQ_GS_E_RIVAL2             1089     63 700  94  30  64   7                  6080 \Seq\SEQ_GS_E_RIVAL2.sseq
-  SEQ_GS_TAIKAIMAE            1090     64 706  54  30  64   1                  1476 \Seq\SEQ_GS_TAIKAIMAE.sseq
-  SEQ_GS_TAIKAIMAE_D5         1091     64 732  54  30  64   1                  1476 \Seq\SEQ_GS_TAIKAIMAE_D5.sseq
-  SEQ_GS_TAIKAI               1092     65 706 102  30  64   1                  4668 \Seq\SEQ_GS_TAIKAI.sseq
-  SEQ_GS_KAIDENPA             1093     66 700  94  30  64   7                   520 \Seq\SEQ_GS_KAIDENPA.sseq
-  SEQ_GS_SENKYO               1094     67 705  76  30  64   1                  8556 \Seq\SEQ_GS_SENKYO.sseq
+  SEQ_GS_TITLE                1004      3 737 120  30  64   7                 17796 \Seq\SEQ_GS_TITLE.sseq
+  SEQ_GS_TITLE01              1005      1 737  78  30  64   7                  9428 \Seq\SEQ_GS_TITLE01.sseq
+  SEQ_GS_OPENING_TITLE_G      1006      1 737  78  30  64   7                  9428 \Seq\SEQ_GS_OPENING_TITLE_G.sseq
+  SEQ_GS_OPENING_TITLE_S      1007      1 737  78  30  64   7                  9428 \Seq\SEQ_GS_OPENING_TITLE_S.sseq
+  SEQ_GS_POKEMON_THEME        1008      4 737 109  30  64   7                 14356 \Seq\SEQ_GS_POKEMON_THEME.sseq
+  SEQ_GS_STARTING             1009      5 702  73  30  64   7                  2868 \Seq\SEQ_GS_STARTING.sseq
+  SEQ_GS_STARTING2            1010      6 702  92  30  64   7                  7216 \Seq\SEQ_GS_STARTING2.sseq
+  SEQ_GS_SHINKA               1011      7 700  80  30  64   7                  5352 \Seq\SEQ_GS_SHINKA.sseq
+  SEQ_GS_KOUKAN               1012      8 700  80  30  64   7                  5108 \Seq\SEQ_GS_KOUKAN.sseq
+  SEQ_GS_BICYCLE              1013      9 700  85  30  64   1                  6932 \Seq\SEQ_GS_BICYCLE.sseq
+  SEQ_GS_NAMINORI             1014     10 700  76  30  64   1                 12368 \Seq\SEQ_GS_NAMINORI.sseq
+  SEQ_GS_E_DENDOUIRI          1015     11 702  99  30  64   1                  5540 \Seq\SEQ_GS_E_DENDOUIRI.sseq
+  SEQ_GS_ENDING               1016     12 737  59  30  64   7                 33924 \Seq\SEQ_GS_ENDING.sseq
+  SEQ_GS_ENDING2              1017     13 737  74  30  64   7                  1520 \Seq\SEQ_GS_ENDING2.sseq
+  SEQ_GS_T_WAKABA             1018     14 702  80  30  64   1                  7884 \Seq\SEQ_GS_T_WAKABA.sseq
+  SEQ_GS_C_YOSHINO            1019     15 702  68  30  64   1                  7508 \Seq\SEQ_GS_C_YOSHINO.sseq
+  SEQ_GS_C_KIKYOU             1020     16 703  78  30  64   1                 13064 \Seq\SEQ_GS_C_KIKYOU.sseq
+  SEQ_GS_T_HIWADA             1021     17 704  73  30  64   1                  9968 \Seq\SEQ_GS_T_HIWADA.sseq
+  SEQ_GS_C_KOGANE             1022     18 705  72  30  64   1                  5124 \Seq\SEQ_GS_C_KOGANE.sseq
+  SEQ_GS_C_ENJU               1023     19 706  54  30  64   1                 11816 \Seq\SEQ_GS_C_ENJU.sseq
+  SEQ_GS_C_ASAGI              1024     16 707  78  30  64   1                 13064 \Seq\SEQ_GS_C_ASAGI.sseq
+  SEQ_GS_C_TANBA              1025     20 707  73  30  64   1                  5264 \Seq\SEQ_GS_C_TANBA.sseq
+  SEQ_GS_T_CHOUJI             1026     15 708  68  30  64   1                  7508 \Seq\SEQ_GS_T_CHOUJI.sseq
+  SEQ_GS_C_FUSUBE             1027     17 709  72  30  64   1                  9968 \Seq\SEQ_GS_C_FUSUBE.sseq
+  SEQ_GS_R_1_29               1028      1 702  63  30  64   1                  9428 \Seq\SEQ_GS_R_1_29.sseq
+  SEQ_GS_R_1_30               1029     21 702  93  30  64   1                  7216 \Seq\SEQ_GS_R_1_30.sseq
+  SEQ_GS_R_2_30               1030     21 703  93  30  64   1                  7216 \Seq\SEQ_GS_R_2_30.sseq
+  SEQ_GS_R_3_30               1031     21 704  93  30  64   1                  7216 \Seq\SEQ_GS_R_3_30.sseq
+  SEQ_GS_R_4_34               1032     22 705  92  30  64   1                  6008 \Seq\SEQ_GS_R_4_34.sseq
+  SEQ_GS_R_5_34               1033     22 706  92  30  64   1                  6008 \Seq\SEQ_GS_R_5_34.sseq
+  SEQ_GS_R_6_34               1034     22 707  92  30  64   1                  6008 \Seq\SEQ_GS_R_6_34.sseq
+  SEQ_GS_R_8_34               1035     22 709  92  30  64   1                  6008 \Seq\SEQ_GS_R_8_34.sseq
+  SEQ_GS_R_6_38               1036     23 707  83  30  64   1                  9852 \Seq\SEQ_GS_R_6_38.sseq
+  SEQ_GS_R_7_42               1037     24 708  85  30  64   1                  7112 \Seq\SEQ_GS_R_7_42.sseq
+  SEQ_GS_C_KUCHIBA            1038     25 711  62  30  64   1                  5704 \Seq\SEQ_GS_C_KUCHIBA.sseq
+  SEQ_GS_C_YAMABUKI           1039     26 712  58  30  64   1                  6804 \Seq\SEQ_GS_C_YAMABUKI.sseq
+  SEQ_GS_C_HANADA             1040     27 713  73  30  64   1                  5308 \Seq\SEQ_GS_C_HANADA.sseq
+  SEQ_GS_T_CHION              1041     28 714  73  30  64   1                  5948 \Seq\SEQ_GS_T_CHION.sseq
+  SEQ_GS_C_TAMAMUSHI          1042     29 715  63  30  64   1                  5528 \Seq\SEQ_GS_C_TAMAMUSHI.sseq
+  SEQ_GS_C_SEKICHIKU          1043     27 716  73  30  64   1                  5308 \Seq\SEQ_GS_C_SEKICHIKU.sseq
+  SEQ_GS_C_NIBI               1044     26 717  59  30  64   1                  6804 \Seq\SEQ_GS_C_NIBI.sseq
+  SEQ_GS_C_TOKIWA             1045     26 710  59  30  64   1                  6804 \Seq\SEQ_GS_C_TOKIWA.sseq
+  SEQ_GS_T_MASARA             1046     30 718  80  30  64   1                  7712 \Seq\SEQ_GS_T_MASARA.sseq
+  SEQ_GS_T_GUREN              1047     31 718  75  30  64   1                  1256 \Seq\SEQ_GS_T_GUREN.sseq
+  SEQ_GS_R_9_01               1048     32 710  85  30  64   1                  3560 \Seq\SEQ_GS_R_9_01.sseq
+  SEQ_GS_R_16_01              1049     32 717  85  30  64   1                  3560 \Seq\SEQ_GS_R_16_01.sseq
+  SEQ_GS_R_17_01              1050     32 718  85  30  64   1                  3560 \Seq\SEQ_GS_R_17_01.sseq
+  SEQ_GS_R_9_03               1051     33 710  87  30  64   1                  6380 \Seq\SEQ_GS_R_9_03.sseq
+  SEQ_GS_R_10_03              1052     33 711  87  30  64   1                  6380 \Seq\SEQ_GS_R_10_03.sseq
+  SEQ_GS_R_12_03              1053     33 713  87  30  64   1                  6380 \Seq\SEQ_GS_R_12_03.sseq
+  SEQ_GS_R_13_03              1054     33 714  87  30  64   1                  6380 \Seq\SEQ_GS_R_13_03.sseq
+  SEQ_GS_R_14_03              1055     33 715  87  30  64   1                  6380 \Seq\SEQ_GS_R_14_03.sseq
+  SEQ_GS_R_15_03              1056     33 716  87  30  64   1                  6380 \Seq\SEQ_GS_R_15_03.sseq
+  SEQ_GS_R_16_03              1057     33 717  87  30  64   1                  6380 \Seq\SEQ_GS_R_16_03.sseq
+  SEQ_GS_R_17_03              1058     33 718  87  30  64   1                  6380 \Seq\SEQ_GS_R_17_03.sseq
+  SEQ_GS_R_10_11              1059     34 711  77  30  64   1                  6472 \Seq\SEQ_GS_R_10_11.sseq
+  SEQ_GS_R_13_11              1060     34 714  77  30  64   1                  6472 \Seq\SEQ_GS_R_13_11.sseq
+  SEQ_GS_R_12_24              1061     35 713  80  30  64   1                  5500 \Seq\SEQ_GS_R_12_24.sseq
+  SEQ_GS_R_1_26               1062     36 702  78  30  64   1                  6560 \Seq\SEQ_GS_R_1_26.sseq
+  SEQ_GS_POKESEN              1063     37 702  75  30  64   1                  3840 \Seq\SEQ_GS_POKESEN.sseq
+  SEQ_GS_FS                   1064     38 702  78  30  64   1                  5864 \Seq\SEQ_GS_FS.sseq
+  SEQ_GS_GYM                  1065     39 709  84  30  64   1                  7524 \Seq\SEQ_GS_GYM.sseq
+  SEQ_GS_UTSUGI_RABO          1066     40 702  80  30  64   1                  7228 \Seq\SEQ_GS_UTSUGI_RABO.sseq
+  SEQ_GS_OHKIDO               1067     41 702 100  30  64   1                  8248 \Seq\SEQ_GS_OHKIDO.sseq
+  SEQ_GS_KABURENJOU           1068     42 706  80  30  64   1                  4192 \Seq\SEQ_GS_KABURENJOU.sseq
+  SEQ_GS_GAME                 1069     43 702  92  30  64   1                 11268 \Seq\SEQ_GS_GAME.sseq
+  SEQ_GS_BATTLETOWER          1070     44 702  97  30  64   1                  8108 \Seq\SEQ_GS_BATTLETOWER.sseq
+  SEQ_GS_BATTLETOWER2         1071     45 702  70  30  64   1                  5748 \Seq\SEQ_GS_BATTLETOWER2.sseq
+  SEQ_GS_TO_MADATSUBOMI1      1072     46 729  62  30  64   1                  9072 \Seq\SEQ_GS_TO_MADATSUBOMI1.sseq
+  SEQ_GS_D_CHIKATSUURO        1073     47 728  80  30  64   1                  7852 \Seq\SEQ_GS_D_CHIKATSUURO.sseq
+  SEQ_GS_D_UNKNOWN_ISEKI      1074     48 734  93  30  64   1                  3960 \Seq\SEQ_GS_D_UNKNOWN_ISEKI.sseq
+  SEQ_GS_D_KOUEN              1075     49 732  87  30  64   1                 12104 \Seq\SEQ_GS_D_KOUEN.sseq
+  SEQ_GS_TO_YAKETA            1076     50 730  70  30  64   1                  6916 \Seq\SEQ_GS_TO_YAKETA.sseq
+  SEQ_GS_TO_SUZU              1077     51 730  80  30  64   1                  4676 \Seq\SEQ_GS_TO_SUZU.sseq
+  SEQ_GS_TO_TOUDAI            1078     52 733  50  30  64   1                  5816 \Seq\SEQ_GS_TO_TOUDAI.sseq
+  SEQ_GS_D_AJITO              1079     53 736  81  30  64   1                  4868 \Seq\SEQ_GS_D_AJITO.sseq
+  SEQ_GS_D_KOORINONUKE        1080     54 728  72  30  64   1                  6872 \Seq\SEQ_GS_D_KOORINONUKE.sseq
+  SEQ_GS_RYUUNOANA            1081     55 735  87  30  64   1                  7668 \Seq\SEQ_GS_RYUUNOANA.sseq
+  SEQ_GS_D_IWAYAMA            1082     56 733  79  30  64   1                 10344 \Seq\SEQ_GS_D_IWAYAMA.sseq
+  SEQ_GS_D_TOKIWANOMORI3      1083     57 728  87  30  64   1                  5768 \Seq\SEQ_GS_D_TOKIWANOMORI3.sseq
+  SEQ_GS_D_CHAMPROAD          1084     58 733  87  30  64   1                  5260 \Seq\SEQ_GS_D_CHAMPROAD.sseq
+  SEQ_GS_CHAMPROAD            1085     59 710  82  30  64   1                  4544 \Seq\SEQ_GS_CHAMPROAD.sseq
+  SEQ_GS_E_TSURETEKE1         1086     60 700  79  30  64   7                  1044 \Seq\SEQ_GS_E_TSURETEKE1.sseq
+  SEQ_GS_E_TSURETEKE2         1087     61 700  78  30  64   7                  3436 \Seq\SEQ_GS_E_TSURETEKE2.sseq
+  SEQ_GS_E_RIVAL1             1088     62 700  89  30  64   7                  6976 \Seq\SEQ_GS_E_RIVAL1.sseq
+  SEQ_GS_E_RIVAL2             1089     63 700  89  30  64   7                  6080 \Seq\SEQ_GS_E_RIVAL2.sseq
+  SEQ_GS_TAIKAIMAE            1090     64 706  52  30  64   1                  1476 \Seq\SEQ_GS_TAIKAIMAE.sseq
+  SEQ_GS_TAIKAIMAE_D5         1091     64 732  52  30  64   1                  1476 \Seq\SEQ_GS_TAIKAIMAE_D5.sseq
+  SEQ_GS_TAIKAI               1092     65 706 100  30  64   1                  4668 \Seq\SEQ_GS_TAIKAI.sseq
+  SEQ_GS_KAIDENPA             1093     66 700  92  30  64   7                   520 \Seq\SEQ_GS_KAIDENPA.sseq
+  SEQ_GS_SENKYO               1094     67 705  69  30  64   1                  8556 \Seq\SEQ_GS_SENKYO.sseq
   SEQ_GS_E_LINEAR             1095     68 700 100  30  64   7                  1888 \Seq\SEQ_GS_E_LINEAR.sseq
-  SEQ_GS_KOUSOKUSEN           1096     69 735  79  30  64   1                  8688 \Seq\SEQ_GS_KOUSOKUSEN.sseq
-  SEQ_GS_OTSUKIMI_EVENT       1097     70 702 107  30  64   1                  1508 \Seq\SEQ_GS_OTSUKIMI_EVENT.sseq
-  SEQ_GS_RADIO_JINGLE         1098     71 700  84  30  64   7                  1936 \Seq\SEQ_GS_RADIO_JINGLE.sseq
-  SEQ_GS_RADIO_KOMORIUTA      1099     72 700  84  30  64   7                   960 \Seq\SEQ_GS_RADIO_KOMORIUTA.sseq
-  SEQ_GS_RADIO_MARCH          1100     73 700  84  30  64   7                  3416 \Seq\SEQ_GS_RADIO_MARCH.sseq
-  SEQ_GS_RADIO_UNKNOWN        1101     74 700  92  30  64   7                   488 \Seq\SEQ_GS_RADIO_UNKNOWN.sseq
-  SEQ_GS_HUE                  1102     75 700  92  30  64   7                  1960 \Seq\SEQ_GS_HUE.sseq
-  SEQ_GS_OHKIDO_RABO          1103     76 700  92  30  64   7                  5760 \Seq\SEQ_GS_OHKIDO_RABO.sseq
-  SEQ_GS_AIKOTOBA             1104     77 700  95  30  64   7                  6456 \Seq\SEQ_GS_AIKOTOBA.sseq
-  SEQ_GS_E_MINAKI             1105     78 700  88  30  64   7                  6444 \Seq\SEQ_GS_E_MINAKI.sseq
-  SEQ_GS_IBUKI                1106     79 700  91  30  64   7                  3860 \Seq\SEQ_GS_IBUKI.sseq
-  SEQ_GS_EYE_J_SHOUJO         1107     80 700  86  30  64   7                  3148 \Seq\SEQ_GS_EYE_J_SHOUJO.sseq
-  SEQ_GS_EYE_J_SHOUNEN        1108     81 700 105  30  64   7                  3548 \Seq\SEQ_GS_EYE_J_SHOUNEN.sseq
-  SEQ_GS_EYE_J_AYASHII        1109     82 700  75  30  64   7                  2752 \Seq\SEQ_GS_EYE_J_AYASHII.sseq
-  SEQ_GS_EYE_BOUZU            1110     83 700  86  30  64   7                  3080 \Seq\SEQ_GS_EYE_BOUZU.sseq
-  SEQ_GS_EYE_MAIKO            1111     84 700  86  30  64   7                  2764 \Seq\SEQ_GS_EYE_MAIKO.sseq
-  SEQ_GS_EYE_ROCKET           1112     85 700  73  30  64   7                  3252 \Seq\SEQ_GS_EYE_ROCKET.sseq
-  SEQ_GS_EYE_K_SHOUJO         1113     86 700 100  30  64   7                  2968 \Seq\SEQ_GS_EYE_K_SHOUJO.sseq
-  SEQ_GS_EYE_K_SHOUNEN        1114     87 700  91  30  64   7                  3492 \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
-  SEQ_GS_EYE_K_AYASHII        1115     88 700  88  30  64   7                  2224 \Seq\SEQ_GS_EYE_K_AYASHII.sseq
-  SEQ_GS_VS_NORAPOKE          1116     89 720 113  30  64   7                 13124 \Seq\SEQ_GS_VS_NORAPOKE.sseq
-  SEQ_GS_VS_TRAINER           1117     90 720 114  30  64   7                 24020 \Seq\SEQ_GS_VS_TRAINER.sseq
+  SEQ_GS_KOUSOKUSEN           1096     69 735  77  30  64   1                  8688 \Seq\SEQ_GS_KOUSOKUSEN.sseq
+  SEQ_GS_OTSUKIMI_EVENT       1097     70 702 105  30  64   1                  1508 \Seq\SEQ_GS_OTSUKIMI_EVENT.sseq
+  SEQ_GS_RADIO_JINGLE         1098     71 700  82  30  64   7                  1936 \Seq\SEQ_GS_RADIO_JINGLE.sseq
+  SEQ_GS_RADIO_KOMORIUTA      1099     72 700  82  30  64   7                   960 \Seq\SEQ_GS_RADIO_KOMORIUTA.sseq
+  SEQ_GS_RADIO_MARCH          1100     73 700  82  30  64   7                  3416 \Seq\SEQ_GS_RADIO_MARCH.sseq
+  SEQ_GS_RADIO_UNKNOWN        1101     74 700  89  30  64   7                   488 \Seq\SEQ_GS_RADIO_UNKNOWN.sseq
+  SEQ_GS_HUE                  1102     75 700  89  30  64   7                  1960 \Seq\SEQ_GS_HUE.sseq
+  SEQ_GS_OHKIDO_RABO          1103     76 700  89  30  64   7                  5760 \Seq\SEQ_GS_OHKIDO_RABO.sseq
+  SEQ_GS_AIKOTOBA             1104     77 700  92  30  64   7                  6456 \Seq\SEQ_GS_AIKOTOBA.sseq
+  SEQ_GS_E_MINAKI             1105     78 700  86  30  64   7                  6444 \Seq\SEQ_GS_E_MINAKI.sseq
+  SEQ_GS_IBUKI                1106     79 700  89  30  64   7                  3860 \Seq\SEQ_GS_IBUKI.sseq
+  SEQ_GS_EYE_J_SHOUJO         1107     80 700  84  30  64   7                  3148 \Seq\SEQ_GS_EYE_J_SHOUJO.sseq
+  SEQ_GS_EYE_J_SHOUNEN        1108     81 700 102  30  64   7                  3548 \Seq\SEQ_GS_EYE_J_SHOUNEN.sseq
+  SEQ_GS_EYE_J_AYASHII        1109     82 700  73  30  64   7                  2752 \Seq\SEQ_GS_EYE_J_AYASHII.sseq
+  SEQ_GS_EYE_BOUZU            1110     83 700  84  30  64   7                  3080 \Seq\SEQ_GS_EYE_BOUZU.sseq
+  SEQ_GS_EYE_MAIKO            1111     84 700  84  30  64   7                  2764 \Seq\SEQ_GS_EYE_MAIKO.sseq
+  SEQ_GS_EYE_ROCKET           1112     85 700  71  30  64   7                  3252 \Seq\SEQ_GS_EYE_ROCKET.sseq
+  SEQ_GS_EYE_K_SHOUJO         1113     86 700  97  30  64   7                  2968 \Seq\SEQ_GS_EYE_K_SHOUJO.sseq
+  SEQ_GS_EYE_K_SHOUNEN        1114     87 700  89  30  64   7                  3492 \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
+  SEQ_GS_EYE_K_AYASHII        1115     88 700  86  30  64   7                  2224 \Seq\SEQ_GS_EYE_K_AYASHII.sseq
+  SEQ_GS_VS_NORAPOKE          1116     89 720 110  30  64   7                 13124 \Seq\SEQ_GS_VS_NORAPOKE.sseq
+  SEQ_GS_VS_TRAINER           1117     90 720 111  30  64   7                 24020 \Seq\SEQ_GS_VS_TRAINER.sseq
   SEQ_GS_VS_GYMREADER         1118     91 720 108  30  64   7                 11596 \Seq\SEQ_GS_VS_GYMREADER.sseq
   SEQ_GS_VS_RIVAL             1119     92 721  84  30  64   7                 15056 \Seq\SEQ_GS_VS_RIVAL.sseq
-  SEQ_GS_VS_ROCKET            1120     93 720 105  30  64   7                 10192 \Seq\SEQ_GS_VS_ROCKET.sseq
-  SEQ_GS_VS_SUICUNE           1121     94 725 100  30  64   7                 16068 \Seq\SEQ_GS_VS_SUICUNE.sseq
-  SEQ_GS_VS_ENTEI             1122     95 725 100  30  64   7                 10500 \Seq\SEQ_GS_VS_ENTEI.sseq
-  SEQ_GS_VS_RAIKOU            1123     96 725 100  30  64   7                 15924 \Seq\SEQ_GS_VS_RAIKOU.sseq
+  SEQ_GS_VS_ROCKET            1120     93 720 102  30  64   7                 10192 \Seq\SEQ_GS_VS_ROCKET.sseq
+  SEQ_GS_VS_SUICUNE           1121     94 725  98  30  64   7                 16068 \Seq\SEQ_GS_VS_SUICUNE.sseq
+  SEQ_GS_VS_ENTEI             1122     95 725  98  30  64   7                 10500 \Seq\SEQ_GS_VS_ENTEI.sseq
+  SEQ_GS_VS_RAIKOU            1123     96 725  98  30  64   7                 15924 \Seq\SEQ_GS_VS_RAIKOU.sseq
   SEQ_GS_VS_CHAMP             1124     97 722 113  30  64   7                 12628 \Seq\SEQ_GS_VS_CHAMP.sseq
-  SEQ_GS_VS_NORAPOKE_KANTO    1125     98 720 105  30  64   7                 11188 \Seq\SEQ_GS_VS_NORAPOKE_KANTO.sseq
-  SEQ_GS_VS_TRAINER_KANTO     1126     99 723 120  30  64   7                 21464 \Seq\SEQ_GS_VS_TRAINER_KANTO.sseq
-  SEQ_GS_VS_GYMREADER_KANTO   1127    100 724  65  30  64   7                 19400 \Seq\SEQ_GS_VS_GYMREADER_KANTO.sseq
-  SEQ_GS_WIN1                 1128    101 700 112  30  64   7                  3164 \Seq\SEQ_GS_WIN1.sseq
-  SEQ_GS_WIN2                 1129    102 700 112  30  64   7                  3128 \Seq\SEQ_GS_WIN2.sseq
-  SEQ_GS_WIN2_NOT_FAN         1130    103 700  74  30  64   7                  2640 \Seq\SEQ_GS_WIN2_NOT_FAN.sseq
-  SEQ_GS_WIN3                 1131    104 700 104  30  64   7                  6180 \Seq\SEQ_GS_WIN3.sseq
-  SEQ_GS_VS_HOUOU             1132    105 726  74  30  64   7                 11172 \Seq\SEQ_GS_VS_HOUOU.sseq
-  SEQ_GS_VS_LUGIA             1133    106 727 105  30  64   7                 12856 \Seq\SEQ_GS_VS_LUGIA.sseq
-  SEQ_GS_PT_ENTR              1134    107 702  87  30  64   1                  3924 \Seq\SEQ_GS_PT_ENTR.sseq
-  SEQ_GS_PT_OPEN              1135    108 702  92  30  64   7                  2704 \Seq\SEQ_GS_PT_OPEN.sseq
-  SEQ_GS_PT_TITLE             1136    109 702  91  30  64   7                  2660 \Seq\SEQ_GS_PT_TITLE.sseq
-  SEQ_GS_PT_GAME              1137    110 702  98  30  64   7                 10400 \Seq\SEQ_GS_PT_GAME.sseq
-  SEQ_GS_PT_GAMEF             1138    111 702  99  30  64   7                 10748 \Seq\SEQ_GS_PT_GAMEF.sseq
-  SEQ_GS_PT_RESULT            1139    112 702  90  30  64   7                  4508 \Seq\SEQ_GS_PT_RESULT.sseq
-  SEQ_GS_PT_END               1140    113 702 100  30  64   7                  8632 \Seq\SEQ_GS_PT_END.sseq
-  SEQ_GS_PT_END_FIELD         1141    113 702 100  30  64   1                  8632 \Seq\SEQ_GS_PT_END_FIELD.sseq
-  SEQ_GS_PT_VICTORY           1142    114 702  90  30  64   7                  2372 \Seq\SEQ_GS_PT_VICTORY.sseq
-  SEQ_GS_BF_FACTORY           1143    115 731  79  30  64   1                  8872 \Seq\SEQ_GS_BF_FACTORY.sseq
-  SEQ_GS_BF_STAGE             1144    116 731  82  30  64   1                 10804 \Seq\SEQ_GS_BF_STAGE.sseq
-  SEQ_GS_BF_ROULETTE          1145    117 731  79  30  64   1                 14668 \Seq\SEQ_GS_BF_ROULETTE.sseq
-  SEQ_GS_BF_CASTLE            1146    118 731  99  30  64   1                 10620 \Seq\SEQ_GS_BF_CASTLE.sseq
-  SEQ_GS_BA_BRAIN             1147    119 723 102  30  64   7                 12500 \Seq\SEQ_GS_BA_BRAIN.sseq
-  SEQ_GS_WINBRAIN             1148    120 700  99  30  64   7                  3256 \Seq\SEQ_GS_WINBRAIN.sseq
-  SEQ_GS_WIFI_ACCESS          1149    121 700  81  30  64   7                  1464 \Seq\SEQ_GS_WIFI_ACCESS.sseq
-  SEQ_GS_WIFI_PRESENT         1150    122 700  89  30  64   7                  2808 \Seq\SEQ_GS_WIFI_PRESENT.sseq
-  SEQ_GS_WIFIUNION            1151    123 702  87  30  64   7                 10716 \Seq\SEQ_GS_WIFIUNION.sseq
-  SEQ_GS_WIFIGAME             1152    124 702  97  30  64   7                  4884 \Seq\SEQ_GS_WIFIGAME.sseq
-  SEQ_GS_WIFIPARADE           1153    125 702  94  30  64   7                  8792 \Seq\SEQ_GS_WIFIPARADE.sseq
-  SEQ_GS_WIFITOWER            1154    126 731  79  30  64   1                 10128 \Seq\SEQ_GS_WIFITOWER.sseq
-  SEQ_GS_GURUGURU             1155    127 702  95  30  64   7                  2820 \Seq\SEQ_GS_GURUGURU.sseq
-  SEQ_GS_BLD_GTC              1156    128 702  93  30  64   1                  7948 \Seq\SEQ_GS_BLD_GTC.sseq
-  SEQ_GS_SAFARI_ROAD          1157    129 719  75  30  64   1                 10820 \Seq\SEQ_GS_SAFARI_ROAD.sseq
-  SEQ_GS_SAFARI_HOUSE         1158    130 719  81  30  64   1                  5404 \Seq\SEQ_GS_SAFARI_HOUSE.sseq
-  SEQ_GS_SAFARI_FIELD         1159    131 719  89  30  64   1                  5988 \Seq\SEQ_GS_SAFARI_FIELD.sseq
-  SEQ_GS_E_SUPPORT_M          1160    132 700  89  30  64   7                  4952 \Seq\SEQ_GS_E_SUPPORT_M.sseq
-  SEQ_GS_E_SUPPORT_F          1161    133 700  89  30  64   7                  3940 \Seq\SEQ_GS_E_SUPPORT_F.sseq
-  SEQ_GS_GAMEATARI            1162    134 700  68  30  64   7                  3404 \Seq\SEQ_GS_GAMEATARI.sseq
-  SEQ_GS_E_MAIKO_MAI          1163    135 700  90  30  64   7                  2396 \Seq\SEQ_GS_E_MAIKO_MAI.sseq
-  SEQ_GS_E_MAIKO_THEME        1164    136 700  90  30  64   7                  3824 \Seq\SEQ_GS_E_MAIKO_THEME.sseq
-  SEQ_GS_E_HOUOU              1165    137 700 110  30  64   7                  3156 \Seq\SEQ_GS_E_HOUOU.sseq
+  SEQ_GS_VS_NORAPOKE_KANTO    1125     98 720 103  30  64   7                 11188 \Seq\SEQ_GS_VS_NORAPOKE_KANTO.sseq
+  SEQ_GS_VS_TRAINER_KANTO     1126     99 723 119  30  64   7                 21464 \Seq\SEQ_GS_VS_TRAINER_KANTO.sseq
+  SEQ_GS_VS_GYMREADER_KANTO   1127    100 724  63  30  64   7                 19400 \Seq\SEQ_GS_VS_GYMREADER_KANTO.sseq
+  SEQ_GS_WIN1                 1128    101 700 110  30  64   7                  3164 \Seq\SEQ_GS_WIN1.sseq
+  SEQ_GS_WIN2                 1129    102 700 110  30  64   7                  3128 \Seq\SEQ_GS_WIN2.sseq
+  SEQ_GS_WIN2_NOT_FAN         1130    103 700  72  30  64   7                  2640 \Seq\SEQ_GS_WIN2_NOT_FAN.sseq
+  SEQ_GS_WIN3                 1131    104 700 102  30  64   7                  6180 \Seq\SEQ_GS_WIN3.sseq
+  SEQ_GS_VS_HOUOU             1132    105 726  69  30  64   7                 11172 \Seq\SEQ_GS_VS_HOUOU.sseq
+  SEQ_GS_VS_LUGIA             1133    106 727 101  30  64   7                 12856 \Seq\SEQ_GS_VS_LUGIA.sseq
+  SEQ_GS_PT_ENTR              1134    107 702  85  30  64   1                  3924 \Seq\SEQ_GS_PT_ENTR.sseq
+  SEQ_GS_PT_OPEN              1135    108 702  90  30  64   7                  2704 \Seq\SEQ_GS_PT_OPEN.sseq
+  SEQ_GS_PT_TITLE             1136    109 702  89  30  64   7                  2660 \Seq\SEQ_GS_PT_TITLE.sseq
+  SEQ_GS_PT_GAME              1137    110 702  96  30  64   7                 10400 \Seq\SEQ_GS_PT_GAME.sseq
+  SEQ_GS_PT_GAMEF             1138    111 702  97  30  64   7                 10748 \Seq\SEQ_GS_PT_GAMEF.sseq
+  SEQ_GS_PT_RESULT            1139    112 702  88  30  64   7                  4508 \Seq\SEQ_GS_PT_RESULT.sseq
+  SEQ_GS_PT_END               1140    113 702  98  30  64   7                  8632 \Seq\SEQ_GS_PT_END.sseq
+  SEQ_GS_PT_END_FIELD         1141    113 702  98  30  64   1                  8632 \Seq\SEQ_GS_PT_END_FIELD.sseq
+  SEQ_GS_PT_VICTORY           1142    114 702  88  30  64   7                  2372 \Seq\SEQ_GS_PT_VICTORY.sseq
+  SEQ_GS_BF_FACTORY           1143    115 731  77  30  64   1                  8872 \Seq\SEQ_GS_BF_FACTORY.sseq
+  SEQ_GS_BF_STAGE             1144    116 731  80  30  64   1                 10804 \Seq\SEQ_GS_BF_STAGE.sseq
+  SEQ_GS_BF_ROULETTE          1145    117 731  77  30  64   1                 14668 \Seq\SEQ_GS_BF_ROULETTE.sseq
+  SEQ_GS_BF_CASTLE            1146    118 731  97  30  64   1                 10620 \Seq\SEQ_GS_BF_CASTLE.sseq
+  SEQ_GS_BA_BRAIN             1147    119 723 100  30  64   7                 12500 \Seq\SEQ_GS_BA_BRAIN.sseq
+  SEQ_GS_WINBRAIN             1148    120 700  97  30  64   7                  3256 \Seq\SEQ_GS_WINBRAIN.sseq
+  SEQ_GS_WIFI_ACCESS          1149    121 700  79  30  64   7                  1464 \Seq\SEQ_GS_WIFI_ACCESS.sseq
+  SEQ_GS_WIFI_PRESENT         1150    122 700  87  30  64   7                  2808 \Seq\SEQ_GS_WIFI_PRESENT.sseq
+  SEQ_GS_WIFIUNION            1151    123 702  85  30  64   7                 10716 \Seq\SEQ_GS_WIFIUNION.sseq
+  SEQ_GS_WIFIGAME             1152    124 702  95  30  64   7                  4884 \Seq\SEQ_GS_WIFIGAME.sseq
+  SEQ_GS_WIFIPARADE           1153    125 702  92  30  64   7                  8792 \Seq\SEQ_GS_WIFIPARADE.sseq
+  SEQ_GS_WIFITOWER            1154    126 731  75  30  64   1                 10128 \Seq\SEQ_GS_WIFITOWER.sseq
+  SEQ_GS_GURUGURU             1155    127 702  93  30  64   7                  2820 \Seq\SEQ_GS_GURUGURU.sseq
+  SEQ_GS_BLD_GTC              1156    128 702  91  30  64   1                  7948 \Seq\SEQ_GS_BLD_GTC.sseq
+  SEQ_GS_SAFARI_ROAD          1157    129 719  73  30  64   1                 10820 \Seq\SEQ_GS_SAFARI_ROAD.sseq
+  SEQ_GS_SAFARI_HOUSE         1158    130 719  79  30  64   1                  5404 \Seq\SEQ_GS_SAFARI_HOUSE.sseq
+  SEQ_GS_SAFARI_FIELD         1159    131 719  87  30  64   1                  5988 \Seq\SEQ_GS_SAFARI_FIELD.sseq
+  SEQ_GS_E_SUPPORT_M          1160    132 700  87  30  64   7                  4952 \Seq\SEQ_GS_E_SUPPORT_M.sseq
+  SEQ_GS_E_SUPPORT_F          1161    133 700  87  30  64   7                  3940 \Seq\SEQ_GS_E_SUPPORT_F.sseq
+  SEQ_GS_GAMEATARI            1162    134 700  78  30  64   7                  3404 \Seq\SEQ_GS_GAMEATARI.sseq
+  SEQ_GS_E_MAIKO_MAI          1163    135 700  88  30  64   7                  2396 \Seq\SEQ_GS_E_MAIKO_MAI.sseq
+  SEQ_GS_E_MAIKO_THEME        1164    136 700  88  30  64   7                  3824 \Seq\SEQ_GS_E_MAIKO_THEME.sseq
+  SEQ_GS_E_HOUOU              1165    137 700 108  30  64   7                  3156 \Seq\SEQ_GS_E_HOUOU.sseq
   SEQ_GS_E_LUGIA              1166    138 700  92  30  64   7                  2604 \Seq\SEQ_GS_E_LUGIA.sseq
-  SEQ_GS_E_G_PICHU            1167    139 702 102  30  64   7                  4520 \Seq\SEQ_GS_E_G_PICHU.sseq
-  SEQ_GS_D_SHINTO             1168    140 728  91  30  64   1                 11600 \Seq\SEQ_GS_D_SHINTO.sseq
-  SEQ_GS_RADIO_R_101          1169    141 700  72  30  64   7                  6192 \Seq\SEQ_GS_RADIO_R_101.sseq
-  SEQ_GS_RADIO_R_201          1170    142 700 106  30  64   7                  4508 \Seq\SEQ_GS_RADIO_R_201.sseq
-  SEQ_GS_RADIO_TRAINER        1171    143 700  75  30  64   7                  7332 \Seq\SEQ_GS_RADIO_TRAINER.sseq
-  SEQ_GS_RADIO_PT             1172     17 700  72  30  64   7                  9968 \Seq\SEQ_GS_RADIO_PT.sseq
-  SEQ_GS_RADIO_VARIETY        1173    144 700  75  30  64   7                  3748 \Seq\SEQ_GS_RADIO_VARIETY.sseq
-  SEQ_GS_VS_KODAI             1174    145 720 110  30  64   7                  4976 \Seq\SEQ_GS_VS_KODAI.sseq
-  SEQ_GS_PHC                  1175    146 700 108  30  64   7                  4672 \Seq\SEQ_GS_PHC.sseq
-  SEQ_GS_E_ARCEUS             1176    147 738  98  30  64   7                  3284 \Seq\SEQ_GS_E_ARCEUS.sseq
-  SEQ_GS_R_1_29_PHC           1177      1 700  55  30  64   7                  9428 \Seq\SEQ_GS_R_1_29_PHC.sseq
-  SEQ_GS_R_6_38_PHC           1178     23 700  76  30  64   7                  9852 \Seq\SEQ_GS_R_6_38_PHC.sseq
-  SEQ_GS_R_7_42_PHC           1179     24 700  78  30  64   7                  7112 \Seq\SEQ_GS_R_7_42_PHC.sseq
-  SEQ_GS_NAMINORI_PHC         1180     10 700  73  30  64   7                 12368 \Seq\SEQ_GS_NAMINORI_PHC.sseq
-  SEQ_GS_D_CHIKATSUURO_PHC    1181    148 700  74  30  64   7                  7888 \Seq\SEQ_GS_D_CHIKATSUURO_PHC.sseq
-  SEQ_GS_SENKYO_R             1182     67 700  76  30  64   1                  8556 \Seq\SEQ_GS_SENKYO_R.sseq
-  SEQ_ME_ASA                  1183    149 700  82 127  64   2                   732 \Seq\SEQ_ME_ASA.sseq
-  SEQ_ME_LVUP                 1184    150 700 105 127  64   2                   400 \Seq\SEQ_ME_LVUP.sseq
-  SEQ_ME_ITEM                 1185    151 700  84 127  64   2                   700 \Seq\SEQ_ME_ITEM.sseq
-  SEQ_ME_KEYITEM              1186    152 700  84 127  64   2                  1016 \Seq\SEQ_ME_KEYITEM.sseq
-  SEQ_ME_POKEGET              1187    153 700  79 127  64   2                  1380 \Seq\SEQ_ME_POKEGET.sseq
-  SEQ_ME_SHINKAOME            1188    153 700  79 127  64   2                  1380 \Seq\SEQ_ME_SHINKAOME.sseq
-  SEQ_ME_BADGE                1189    154 700 106 127  64   2                  1344 \Seq\SEQ_ME_BADGE.sseq
-  SEQ_ME_WAZA                 1190    155 700  90 127  64   2                   996 \Seq\SEQ_ME_WAZA.sseq
-  SEQ_ME_ACCE                 1191    156 700  74 127  64   2                   828 \Seq\SEQ_ME_ACCE.sseq
-  SEQ_ME_WASURE               1192    157 700 107 127  64   2                   420 \Seq\SEQ_ME_WASURE.sseq
-  SEQ_ME_KINOMI               1193    158 700  84 127  64   2                   632 \Seq\SEQ_ME_KINOMI.sseq
-  SEQ_ME_HYOUKA1              1194    159 700  94 127  64   2                   896 \Seq\SEQ_ME_HYOUKA1.sseq
-  SEQ_ME_HYOUKA2              1195    160 700  97 127  64   2                   844 \Seq\SEQ_ME_HYOUKA2.sseq
-  SEQ_ME_HYOUKA3              1196    161 700  83 127  64   2                  1040 \Seq\SEQ_ME_HYOUKA3.sseq
-  SEQ_ME_HYOUKA4              1197    162 700  94 127  64   2                   808 \Seq\SEQ_ME_HYOUKA4.sseq
-  SEQ_ME_HYOUKA5              1198    163 700  96 127  64   2                  1068 \Seq\SEQ_ME_HYOUKA5.sseq
-  SEQ_ME_HYOUKA6              1199    164 700  94 127  64   2                  1492 \Seq\SEQ_ME_HYOUKA6.sseq
-  SEQ_ME_TAMAGO_GET           1200    165 700  90 127  64   2                   676 \Seq\SEQ_ME_TAMAGO_GET.sseq
-  SEQ_ME_MUSHITORI1           1201    166 700  99 127  64   2                  1496 \Seq\SEQ_ME_MUSHITORI1.sseq
-  SEQ_ME_MUSHITORI2           1202    167 700 104 127  64   2                   940 \Seq\SEQ_ME_MUSHITORI2.sseq
-  SEQ_ME_MUSHITORI3           1203    168 700  99 127  64   2                   636 \Seq\SEQ_ME_MUSHITORI3.sseq
-  SEQ_ME_CARDGAME1            1204    169 700 100 127  64   2                   848 \Seq\SEQ_ME_CARDGAME1.sseq
-  SEQ_ME_CARDGAME2            1205    170 700  99 127  64   2                   880 \Seq\SEQ_ME_CARDGAME2.sseq
-  SEQ_ME_POKEGEAR_REGIST      1206    171 700  99 127  64   2                   872 \Seq\SEQ_ME_POKEGEAR_REGIST.sseq
-  SEQ_ME_GONIN                1207    172 700  90 127  64   2                   656 \Seq\SEQ_ME_GONIN.sseq
-  SEQ_ME_PT_NEW               1208    173 700 104 127  64   2                   452 \Seq\SEQ_ME_PT_NEW.sseq
-  SEQ_ME_PT_RESULTG           1209    174 700 100 127  64   2                   640 \Seq\SEQ_ME_PT_RESULTG.sseq
-  SEQ_ME_PT_SPECIAL           1210    175 700 100 127  64   2                   876 \Seq\SEQ_ME_PT_SPECIAL.sseq
-  SEQ_ME_PT_VICTORY           1211    176 700 100 127  64   2                  2372 \Seq\SEQ_ME_PT_VICTORY.sseq
-  SEQ_ME_ROULETTE             1212    177 700 100 127  64   2                   704 \Seq\SEQ_ME_ROULETTE.sseq
-  SEQ_ME_CASTLE               1213    178 700  88 127  64   2                   648 \Seq\SEQ_ME_CASTLE.sseq
-  SEQ_ME_BPGET                1214    179 700 109 127  64   2                  1328 \Seq\SEQ_ME_BPGET.sseq
-  SEQ_ME_MINIGAME             1215    180 700  93 127  64   2                   868 \Seq\SEQ_ME_MINIGAME.sseq
+  SEQ_GS_E_G_PICHU            1167    139 700 100  30  64   1                  4520 \Seq\SEQ_GS_E_G_PICHU.sseq
+  SEQ_GS_D_SHINTO             1168    140 728  88  30  64   1                 11600 \Seq\SEQ_GS_D_SHINTO.sseq
+  SEQ_GS_RADIO_R_101          1169    141 700  69  30  64   7                  6192 \Seq\SEQ_GS_RADIO_R_101.sseq
+  SEQ_GS_RADIO_R_201          1170    142 700 104  30  64   7                  4508 \Seq\SEQ_GS_RADIO_R_201.sseq
+  SEQ_GS_RADIO_TRAINER        1171    143 700  73  30  64   7                  7332 \Seq\SEQ_GS_RADIO_TRAINER.sseq
+  SEQ_GS_RADIO_PT             1172     17 700  70  30  64   7                  9968 \Seq\SEQ_GS_RADIO_PT.sseq
+  SEQ_GS_RADIO_VARIETY        1173    144 700  73  30  64   7                  3748 \Seq\SEQ_GS_RADIO_VARIETY.sseq
+  SEQ_GS_VS_KODAI             1174    145 720 108  30  64   7                  4976 \Seq\SEQ_GS_VS_KODAI.sseq
+  SEQ_GS_PHC                  1175    146 700 106  30  64   7                  4672 \Seq\SEQ_GS_PHC.sseq
+  SEQ_GS_E_ARCEUS             1176    147 738  95  30  64   7                  3284 \Seq\SEQ_GS_E_ARCEUS.sseq
+  SEQ_GS_R_1_29_PHC           1177      1 700  53  30  64   7                  9428 \Seq\SEQ_GS_R_1_29_PHC.sseq
+  SEQ_GS_R_6_38_PHC           1178     23 700  74  30  64   7                  9852 \Seq\SEQ_GS_R_6_38_PHC.sseq
+  SEQ_GS_R_7_42_PHC           1179     24 700  76  30  64   7                  7112 \Seq\SEQ_GS_R_7_42_PHC.sseq
+  SEQ_GS_NAMINORI_PHC         1180     10 700  71  30  64   7                 12368 \Seq\SEQ_GS_NAMINORI_PHC.sseq
+  SEQ_GS_D_CHIKATSUURO_PHC    1181    148 700  72  30  64   7                  7888 \Seq\SEQ_GS_D_CHIKATSUURO_PHC.sseq
+  SEQ_GS_SENKYO_R             1182     67 700  72  30  64   1                  8556 \Seq\SEQ_GS_SENKYO_R.sseq
+  SEQ_ME_ASA                  1183    149 700  80 127  64   2                   732 \Seq\SEQ_ME_ASA.sseq
+  SEQ_ME_LVUP                 1184    150 700 102 127  64   2                   400 \Seq\SEQ_ME_LVUP.sseq
+  SEQ_ME_ITEM                 1185    151 700  81 127  64   2                   700 \Seq\SEQ_ME_ITEM.sseq
+  SEQ_ME_KEYITEM              1186    152 700  81 127  64   2                  1016 \Seq\SEQ_ME_KEYITEM.sseq
+  SEQ_ME_POKEGET              1187    153 700  76 127  64   2                  1380 \Seq\SEQ_ME_POKEGET.sseq
+  SEQ_ME_SHINKAOME            1188    153 700  76 127  64   2                  1380 \Seq\SEQ_ME_SHINKAOME.sseq
+  SEQ_ME_BADGE                1189    154 700 104 127  64   2                  1344 \Seq\SEQ_ME_BADGE.sseq
+  SEQ_ME_WAZA                 1190    155 700  87 127  64   2                   996 \Seq\SEQ_ME_WAZA.sseq
+  SEQ_ME_ACCE                 1191    156 700  72 127  64   2                   828 \Seq\SEQ_ME_ACCE.sseq
+  SEQ_ME_WASURE               1192    157 700 105 127  64   2                   420 \Seq\SEQ_ME_WASURE.sseq
+  SEQ_ME_KINOMI               1193    158 700  82 127  64   2                   632 \Seq\SEQ_ME_KINOMI.sseq
+  SEQ_ME_HYOUKA1              1194    159 700  92 127  64   2                   896 \Seq\SEQ_ME_HYOUKA1.sseq
+  SEQ_ME_HYOUKA2              1195    160 700  95 127  64   2                   844 \Seq\SEQ_ME_HYOUKA2.sseq
+  SEQ_ME_HYOUKA3              1196    161 700  81 127  64   2                  1040 \Seq\SEQ_ME_HYOUKA3.sseq
+  SEQ_ME_HYOUKA4              1197    162 700  92 127  64   2                   808 \Seq\SEQ_ME_HYOUKA4.sseq
+  SEQ_ME_HYOUKA5              1198    163 700  92 127  64   2                  1068 \Seq\SEQ_ME_HYOUKA5.sseq
+  SEQ_ME_HYOUKA6              1199    164 700  92 127  64   2                  1492 \Seq\SEQ_ME_HYOUKA6.sseq
+  SEQ_ME_TAMAGO_GET           1200    165 700  88 127  64   2                   676 \Seq\SEQ_ME_TAMAGO_GET.sseq
+  SEQ_ME_MUSHITORI1           1201    166 700  97 127  64   2                  1496 \Seq\SEQ_ME_MUSHITORI1.sseq
+  SEQ_ME_MUSHITORI2           1202    167 700 102 127  64   2                   940 \Seq\SEQ_ME_MUSHITORI2.sseq
+  SEQ_ME_MUSHITORI3           1203    168 700  97 127  64   2                   636 \Seq\SEQ_ME_MUSHITORI3.sseq
+  SEQ_ME_CARDGAME1            1204    169 700  98 127  64   2                   848 \Seq\SEQ_ME_CARDGAME1.sseq
+  SEQ_ME_CARDGAME2            1205    170 700  97 127  64   2                   880 \Seq\SEQ_ME_CARDGAME2.sseq
+  SEQ_ME_POKEGEAR_REGIST      1206    171 700  97 127  64   2                   872 \Seq\SEQ_ME_POKEGEAR_REGIST.sseq
+  SEQ_ME_GONIN                1207    172 700  88 127  64   2                   656 \Seq\SEQ_ME_GONIN.sseq
+  SEQ_ME_PT_NEW               1208    173 700 102 127  64   2                   452 \Seq\SEQ_ME_PT_NEW.sseq
+  SEQ_ME_PT_RESULTG           1209    174 700  98 127  64   2                   640 \Seq\SEQ_ME_PT_RESULTG.sseq
+  SEQ_ME_PT_SPECIAL           1210    175 700  98 127  64   2                   876 \Seq\SEQ_ME_PT_SPECIAL.sseq
+  SEQ_ME_PT_VICTORY           1211    176 700  98 127  64   2                  2372 \Seq\SEQ_ME_PT_VICTORY.sseq
+  SEQ_ME_ROULETTE             1212    177 700  98 127  64   2                   704 \Seq\SEQ_ME_ROULETTE.sseq
+  SEQ_ME_CASTLE               1213    178 700  86 127  64   2                   648 \Seq\SEQ_ME_CASTLE.sseq
+  SEQ_ME_BPGET                1214    179 700 107 127  64   2                  1328 \Seq\SEQ_ME_BPGET.sseq
+  SEQ_ME_MINIGAME             1215    180 700  91 127  64   2                   868 \Seq\SEQ_ME_MINIGAME.sseq
   SEQ_PL_BICYCLE              1216      9 700 110  30  64   1                  6932 \Seq\SEQ_PL_BICYCLE.sseq
   SEQ_GS_P_START              1217    181 701  75  30  64   7                   120 \Seq\SEQ_GS_P_START.sseq
   SEQ_GS_P_TITLE              1218    182 701  75  30  64   7                  2428 \Seq\SEQ_GS_P_TITLE.sseq
@@ -1538,7 +1538,7 @@
   SEQ_SE_DP_CARD2             1535    445 700 110 104  64   3                    80 \Seq\SEQ_SE_DP_CARD2.sseq
   SEQ_SE_DP_WALL_HIT          1536    446 750  30  64  64   4                   152 \Seq\SEQ_SE_DP_WALL_HIT.sseq
   SEQ_SE_DP_WALL_HIT2         1537    447 750  55  64  64   4                   152 \Seq\SEQ_SE_DP_WALL_HIT2.sseq
-  SEQ_SE_DP_KAIDAN2           1538    448 750 127 104  64   3                   220 \Seq\SEQ_SE_DP_KAIDAN2.sseq
+  SEQ_SE_DP_KAIDAN2           1538    448 750 127 104  64   3                   208 \Seq\SEQ_SE_DP_KAIDAN2.sseq
   SEQ_SE_DP_DOOR              1539    449 750 127 104  64   3                   168 \Seq\SEQ_SE_DP_DOOR.sseq
   SEQ_SE_DP_DOOR_OPEN         1540    450 750 115 104  64   3                   164 \Seq\SEQ_SE_DP_DOOR_OPEN.sseq
   SEQ_SE_DP_DOOR_CLOSE        1541    451 750 112 104  64   3                   168 \Seq\SEQ_SE_DP_DOOR_CLOSE.sseq
@@ -1613,8 +1613,8 @@
   SEQ_SE_DP_FW015             1610    515 750 110  89  64   3                   176 \Seq\SEQ_SE_DP_FW015.sseq
   SEQ_SE_DP_FBRADE            1611    516 750 110  89  64   3                   264 \Seq\SEQ_SE_DP_FBRADE.sseq
   SEQ_SE_DP_FW463             1612    517 750 120  89  64   3                   452 \Seq\SEQ_SE_DP_FW463.sseq
-  SEQ_SE_DP_TELE              1613    518 750 127  89  64   3                   576 \Seq\SEQ_SE_DP_TELE.sseq
-  SEQ_SE_DP_TELE2             1614    519 700 127  89  64   3                   576 \Seq\SEQ_SE_DP_TELE2.sseq
+  SEQ_SE_DP_TELE              1613    518 750 115  89  64   3                   576 \Seq\SEQ_SE_DP_TELE.sseq
+  SEQ_SE_DP_TELE2             1614    519 700 115  89  64   3                   576 \Seq\SEQ_SE_DP_TELE2.sseq
   SEQ_SE_DP_FW104             1615    520 750 105  89  64   3                   108 \Seq\SEQ_SE_DP_FW104.sseq
   SEQ_SE_DP_ZUPO              1616    521 750 110  89  64   3                    84 \Seq\SEQ_SE_DP_ZUPO.sseq
   SEQ_SE_DP_ZUPO2             1617    522 750 110  89  64   3                    84 \Seq\SEQ_SE_DP_ZUPO2.sseq
@@ -2135,16 +2135,16 @@
   SEQ_SE_GS_N_SESERAGI        2132   1010 750 120 114  64   5                    64 \Seq\SEQ_SE_GS_N_SESERAGI.sseq
   SEQ_SE_GS_N_UMIBE           2133   1011 750 120 114  64   5                   252 \Seq\SEQ_SE_GS_N_UMIBE.sseq
   SEQ_SE_GS_N_HUUSHA          2134   1012 750 127 114  64   5                   316 \Seq\SEQ_SE_GS_N_HUUSHA.sseq
-  SEQ_SE_GS_N_HASHIRA         2135   1013 750 127 114  64   5                   256 \Seq\SEQ_SE_GS_N_HASHIRA.sseq
-  SEQ_SE_GS_N_ENGINE          2136   1014 750 127 114  64   5                    64 \Seq\SEQ_SE_GS_N_ENGINE.sseq
+  SEQ_SE_GS_N_HASHIRA         2135   1013 750 115 114  64   5                   256 \Seq\SEQ_SE_GS_N_HASHIRA.sseq
+  SEQ_SE_GS_N_ENGINE          2136   1014 750 120 114  64   5                    64 \Seq\SEQ_SE_GS_N_ENGINE.sseq
   SEQ_SE_GS_N_KABIGON         2137   1015 750 120 114  64   5                   160 \Seq\SEQ_SE_GS_N_KABIGON.sseq
   SEQ_SE_GS_N_KANE            2138   1016 750 120 114  64   5                    84 \Seq\SEQ_SE_GS_N_KANE.sseq
   SEQ_SE_GS_N_KAZE            2139   1017 750 127 114  64   5                   436 \Seq\SEQ_SE_GS_N_KAZE.sseq
-  SEQ_SE_GS_N_KITEKI          2140   1018 750 120 114  64   5                   516 \Seq\SEQ_SE_GS_N_KITEKI.sseq
-  SEQ_SE_GS_N_MOTER           2141   1019 750  70 114  64   5                    96 \Seq\SEQ_SE_GS_N_MOTER.sseq
+  SEQ_SE_GS_N_KITEKI          2140   1018 750 116 114  64   5                   516 \Seq\SEQ_SE_GS_N_KITEKI.sseq
+  SEQ_SE_GS_N_MOTER           2141   1019 750  58 114  64   5                    96 \Seq\SEQ_SE_GS_N_MOTER.sseq
   SEQ_SE_GS_N_LINEAR          2142   1020 750 120 114  64   5                   168 \Seq\SEQ_SE_GS_N_LINEAR.sseq
   SEQ_SE_GS_N_TAKI            2143   1021 750  75 114  64   5                    76 \Seq\SEQ_SE_GS_N_TAKI.sseq
-  SEQ_SE_GS_N_UZUSIO          2144   1022 750 100 114  64   5                   732 \Seq\SEQ_SE_GS_N_UZUSIO.sseq
+  SEQ_SE_GS_N_UZUSIO          2144   1022 750  94 114  64   5                   732 \Seq\SEQ_SE_GS_N_UZUSIO.sseq
   SEQ_SE_GS_N_YOUGAN          2145   1023 750 127 114  64   5                   144 \Seq\SEQ_SE_GS_N_YOUGAN.sseq
   SEQ_SE_GS_N_HUNSUI          2146   1024 750  86 114  64   5                   592 \Seq\SEQ_SE_GS_N_HUNSUI.sseq
   SEQ_SE_GS_N_KANSEI          2147   1025 750  70 114  64   5                   224 \Seq\SEQ_SE_GS_N_KANSEI.sseq
@@ -2156,18 +2156,18 @@
   SEQ_SE_GS_KYOUHUU           2153   1031 750 115 114  64   5                   320 \Seq\SEQ_SE_GS_KYOUHUU.sseq
   SEQ_SE_GS_OCHIBA            2154   1032 750 127  64  54   4                   180 \Seq\SEQ_SE_GS_OCHIBA.sseq
   SEQ_SE_GS_ASHIOTO           2155   1033 750 100  64  54   4                   120 \Seq\SEQ_SE_GS_ASHIOTO.sseq
-  SEQ_SE_GS_ASHIOTO_A_WALK    2156   1034 750  80  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_A_WALK.sseq
+  SEQ_SE_GS_ASHIOTO_A_WALK    2156   1034 750  84  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_A_WALK.sseq
   SEQ_SE_GS_ASHIOTO_A         2157   1035 750  75  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_A.sseq
   SEQ_SE_GS_ASHIOTO_B         2158   1036 750  75  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_B.sseq
   SEQ_SE_GS_ASHIOTO_C         2159   1034 750 105  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_C.sseq
   SEQ_SE_GS_ASHIOTO_D         2160   1037 750 110  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_D.sseq
-  SEQ_SE_GS_ASHIOTO_D_2       2161   1038 750  85  64  54   4                    80 \Seq\SEQ_SE_GS_ASHIOTO_D_2.sseq
+  SEQ_SE_GS_ASHIOTO_D_2       2161   1038 750  94  64  54   4                    80 \Seq\SEQ_SE_GS_ASHIOTO_D_2.sseq
   SEQ_SE_GS_ASHIOTO_E         2162   1039 750  90  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_E.sseq
   SEQ_SE_GS_ASHIOTO_F         2163   1040 728 125  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_F.sseq
-  SEQ_SE_GS_ASHIOTO_G         2164   1041 750  62  64  54   4                   108 \Seq\SEQ_SE_GS_ASHIOTO_G.sseq
+  SEQ_SE_GS_ASHIOTO_G         2164   1041 750  85  64  54   4                   108 \Seq\SEQ_SE_GS_ASHIOTO_G.sseq
   SEQ_SE_GS_ASHIOTO_H         2165   1042 750  90  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_H.sseq
-  SEQ_SE_GS_EDAPAKI           2166   1043 750 126  64  54   4                   112 \Seq\SEQ_SE_GS_EDAPAKI.sseq
-  SEQ_SE_GS_KUSA2             2167   1044 750  36  89  54   3                   164 \Seq\SEQ_SE_GS_KUSA2.sseq
+  SEQ_SE_GS_EDAPAKI           2166   1043 750 124  64  54   4                   112 \Seq\SEQ_SE_GS_EDAPAKI.sseq
+  SEQ_SE_GS_KUSA2             2167   1044 750  36  89  54   4                   164 \Seq\SEQ_SE_GS_KUSA2.sseq
   SEQ_SE_GS_PHONE0            2168   1045 700 120  89  64   3                   156 \Seq\SEQ_SE_GS_PHONE0.sseq
   SEQ_SE_GS_PHONE1            2169   1046 700 120  89  64   3                   160 \Seq\SEQ_SE_GS_PHONE1.sseq
   SEQ_SE_GS_PHONE_OFF         2170   1047 700 120  89  64   3                    96 \Seq\SEQ_SE_GS_PHONE_OFF.sseq
@@ -2179,8 +2179,8 @@
   SEQ_SE_GS_SUNA_TRAP         2176   1053 750 100  89  64   3                   404 \Seq\SEQ_SE_GS_SUNA_TRAP.sseq
   SEQ_SE_GS_IWA_TRAP          2177   1054 750 125  89  64   3                   864 \Seq\SEQ_SE_GS_IWA_TRAP.sseq
   SEQ_SE_GS_ICE_SLIP          2178   1055 750 100  89  64   3                   128 \Seq\SEQ_SE_GS_ICE_SLIP.sseq
-  SEQ_SE_GS_RAKKA             2179   1056 750 100  89  64   3                   144 \Seq\SEQ_SE_GS_RAKKA.sseq
-  SEQ_SE_GS_RAKKA01           2180   1057 750 125  89  64   3                   128 \Seq\SEQ_SE_GS_RAKKA01.sseq
+  SEQ_SE_GS_RAKKA             2179   1056 750 110  89  64   3                   144 \Seq\SEQ_SE_GS_RAKKA.sseq
+  SEQ_SE_GS_RAKKA01           2180   1057 750 126  89  64   3                   128 \Seq\SEQ_SE_GS_RAKKA01.sseq
   SEQ_SE_GS_IWAOTOSHI         2181   1058 750 100  89  64   3                   220 \Seq\SEQ_SE_GS_IWAOTOSHI.sseq
   SEQ_SE_GS_IWAOTOSHI01       2182   1059 750 125  89  64   3                   128 \Seq\SEQ_SE_GS_IWAOTOSHI01.sseq
   SEQ_SE_GS_IWAOTOSHI02       2183   1060 750 120  89  64   3                   144 \Seq\SEQ_SE_GS_IWAOTOSHI02.sseq
@@ -2353,7 +2353,7 @@
   SEQ_SE_GS_HAKKOUTAI_SYUTUG  2350   1204 750  95  89  64   3                   832 \Seq\SEQ_SE_GS_HAKKOUTAI_SYUTUGEN.sseq
   SEQ_SE_GS_HAKKOUTAI_HIROGA  2351   1205 777  85  89  64   3                   732 \Seq\SEQ_SE_GS_HAKKOUTAI_HIROGARI.sseq
   SEQ_SE_GS_SUZUNOONPA_APRI   2352   1206 777 110  89  64   3                   708 \Seq\SEQ_SE_GS_SUZUNOONPA_APRI.sseq
-  SEQ_SE_GS_RUGIA_TAKISHUTUG  2353   1207 750 125  89  64   3                   388 \Seq\SEQ_SE_GS_RUGIA_TAKISHUTUGEN.sseq
+  SEQ_SE_GS_RUGIA_TAKISHUTUG  2353   1207 750 126  89  64   3                   388 \Seq\SEQ_SE_GS_RUGIA_TAKISHUTUGEN.sseq
   SEQ_SE_GS_HAKKOUTAI_HIROGA  2354   1208 750 100  89  64   3                   524 \Seq\SEQ_SE_GS_HAKKOUTAI_HIROGARI2.sseq
   SEQ_SE_GS_PHC_KEMURI        2355   1209 776 105  89  64   3                   116 \Seq\SEQ_SE_GS_PHC_KEMURI.sseq
   SEQ_SE_GS_PHC_POKEMONIDOU   2356   1210 776 100  89  64   3                   452 \Seq\SEQ_SE_GS_PHC_POKEMONIDOU.sseq
@@ -4398,7 +4398,7 @@
      445 0x001767C0         80   \Seq\SEQ_SE_DP_CARD2.sseq
      446 0x00176820        152   \Seq\SEQ_SE_GS_THLON_HIT.sseq
      447 0x001768C0        152   \Seq\SEQ_SE_DP_WALL_HIT2.sseq
-     448 0x00176960        220   \Seq\SEQ_SE_DP_KAIDAN2.sseq
+     448 0x00176960        208   \Seq\SEQ_SE_DP_KAIDAN2.sseq
      449 0x00176A40        168   \Seq\SEQ_SE_DP_DOOR.sseq
      450 0x00176B00        164   \Seq\SEQ_SE_DP_DOOR_OPEN.sseq
      451 0x00176BC0        168   \Seq\SEQ_SE_DP_DOOR_CLOSE.sseq
