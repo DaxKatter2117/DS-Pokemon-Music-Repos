@@ -1695,7 +1695,7 @@
   SEQ_SE_DP_SYU02             1692    586 754 125 104  64   3                   240 \Seq\SEQ_SE_DP_SYU02.sseq
   SEQ_SE_DP_SYU03             1693    587 754 125  94  64   3                   248 \Seq\SEQ_SE_DP_SYU03.sseq
   SEQ_SE_DP_DECIDE2           1694    427 754 104 104  64   4                    76 \Seq\SEQ_SE_DP_DECIDE2.sseq
-  SEQ_SE_DP_POKELIST_001      1695    588 759 113 104  64   3                   240 \Seq\SEQ_SE_DP_POKELIST_001.sseq
+  SEQ_SE_DP_POKELIST_001      1695    588 700 113 104  64   3                   248 \Seq\SEQ_SE_DP_POKELIST_001.sseq
   SEQ_SE_DP_UG_001            1696    589 760 127 104  64   3                   308 \Seq\SEQ_SE_DP_UG_001.sseq
   SEQ_SE_DP_UG_002            1697    590 760 125 104  64   3                   132 \Seq\SEQ_SE_DP_UG_002.sseq
   SEQ_SE_DP_UG_003            1698    591 760 127 104  64   3                   240 \Seq\SEQ_SE_DP_UG_003.sseq
@@ -4538,7 +4538,7 @@
      585 0x0017E6C0         80   \Seq\SEQ_SE_DP_SYU01.sseq
      586 0x0017E720        240   \Seq\SEQ_SE_DP_SYU02.sseq
      587 0x0017E820        248   \Seq\SEQ_SE_DP_SYU03.sseq
-     588 0x0017E920        240   \Seq\SEQ_SE_DP_POKELIST_001.sseq
+     588 0x0017E920        248   \Seq\SEQ_SE_DP_POKELIST_001.sseq
      589 0x0017EA20        308   \Seq\SEQ_SE_DP_UG_001.sseq
      590 0x0017EB60        132   \Seq\SEQ_SE_DP_UG_002.sseq
      591 0x0017EC00        240   \Seq\SEQ_SE_DP_UG_003.sseq
