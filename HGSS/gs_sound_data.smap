@@ -1004,7 +1004,7 @@
   SEQ_SILENCE_FIELD           1001      2 702  70  30  64   1                   136 \Seq\SEQ_SILENCE_FIELD.sseq
   SEQ_SILENCE_DUNGEON         1002      2 728  70  30  64   1                   136 \Seq\SEQ_SILENCE_DUNGEON.sseq
   SEQ_TEST_TITLE              1003      1 700  50  30  64   7                  9428 \Seq\SEQ_TEST_TITLE.sseq
-  SEQ_GS_TITLE                1004      3 737 120  30  64   7                 17796 \Seq\SEQ_GS_TITLE.sseq
+  SEQ_GS_TITLE                1004      3 737 120  30  64   7                 17820 \Seq\SEQ_GS_TITLE.sseq
   SEQ_GS_TITLE01              1005      1 737  78  30  64   7                  9428 \Seq\SEQ_GS_TITLE01.sseq
   SEQ_GS_OPENING_TITLE_G      1006      1 737  78  30  64   7                  9428 \Seq\SEQ_GS_OPENING_TITLE_G.sseq
   SEQ_GS_OPENING_TITLE_S      1007      1 737  78  30  64   7                  9428 \Seq\SEQ_GS_OPENING_TITLE_S.sseq
@@ -1127,7 +1127,7 @@
   SEQ_GS_VS_CHAMP             1124     97 722 113  30  64   7                 12628 \Seq\SEQ_GS_VS_CHAMP.sseq
   SEQ_GS_VS_NORAPOKE_KANTO    1125     98 720 103  30  64   7                 11188 \Seq\SEQ_GS_VS_NORAPOKE_KANTO.sseq
   SEQ_GS_VS_TRAINER_KANTO     1126     99 723 119  30  64   7                 21464 \Seq\SEQ_GS_VS_TRAINER_KANTO.sseq
-  SEQ_GS_VS_GYMREADER_KANTO   1127    100 724  63  30  64   7                 19400 \Seq\SEQ_GS_VS_GYMREADER_KANTO.sseq
+  SEQ_GS_VS_GYMREADER_KANTO   1127    100 724  66  30  64   7                 19400 \Seq\SEQ_GS_VS_GYMREADER_KANTO.sseq
   SEQ_GS_WIN1                 1128    101 700 110  30  64   7                  3164 \Seq\SEQ_GS_WIN1.sseq
   SEQ_GS_WIN2                 1129    102 700 110  30  64   7                  3128 \Seq\SEQ_GS_WIN2.sseq
   SEQ_GS_WIN2_NOT_FAN         1130    103 700  72  30  64   7                  2640 \Seq\SEQ_GS_WIN2_NOT_FAN.sseq
@@ -1167,7 +1167,7 @@
   SEQ_GS_E_MAIKO_THEME        1164    136 700  88  30  64   7                  3824 \Seq\SEQ_GS_E_MAIKO_THEME.sseq
   SEQ_GS_E_HOUOU              1165    137 700 108  30  64   7                  3156 \Seq\SEQ_GS_E_HOUOU.sseq
   SEQ_GS_E_LUGIA              1166    138 700  92  30  64   7                  2604 \Seq\SEQ_GS_E_LUGIA.sseq
-  SEQ_GS_E_G_PICHU            1167    139 700 100  30  64   1                  4520 \Seq\SEQ_GS_E_G_PICHU.sseq
+  SEQ_GS_E_G_PICHU            1167    139 700 100  30  64   7                  4520 \Seq\SEQ_GS_E_G_PICHU.sseq
   SEQ_GS_D_SHINTO             1168    140 728  88  30  64   1                 11600 \Seq\SEQ_GS_D_SHINTO.sseq
   SEQ_GS_RADIO_R_101          1169    141 700  69  30  64   7                  6192 \Seq\SEQ_GS_RADIO_R_101.sseq
   SEQ_GS_RADIO_R_201          1170    142 700 104  30  64   7                  4508 \Seq\SEQ_GS_RADIO_R_201.sseq
@@ -2166,7 +2166,7 @@
   SEQ_SE_GS_ASHIOTO_F         2163   1040 728 125  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_F.sseq
   SEQ_SE_GS_ASHIOTO_G         2164   1041 750  85  64  54   4                   108 \Seq\SEQ_SE_GS_ASHIOTO_G.sseq
   SEQ_SE_GS_ASHIOTO_H         2165   1042 750  90  64  54   4                   116 \Seq\SEQ_SE_GS_ASHIOTO_H.sseq
-  SEQ_SE_GS_EDAPAKI           2166   1043 750 124  64  54   4                   112 \Seq\SEQ_SE_GS_EDAPAKI.sseq
+  SEQ_SE_GS_EDAPAKI           2166   1043 750 126  64  54   4                   112 \Seq\SEQ_SE_GS_EDAPAKI.sseq
   SEQ_SE_GS_KUSA2             2167   1044 750  36  89  54   4                   164 \Seq\SEQ_SE_GS_KUSA2.sseq
   SEQ_SE_GS_PHONE0            2168   1045 700 120  89  64   3                   156 \Seq\SEQ_SE_GS_PHONE0.sseq
   SEQ_SE_GS_PHONE1            2169   1046 700 120  89  64   3                   160 \Seq\SEQ_SE_GS_PHONE1.sseq
@@ -3953,7 +3953,7 @@
        0 0x00021160         44   \Seq\SEQ_SE_END.sseq
        1 0x000211A0       9428   \Seq\SEQ_GS_R_1_29_PHC.sseq
        2 0x00023680        136   \Seq\SEQ_SILENCE_DUNGEON.sseq
-       3 0x00023720      17796   \Seq\SEQ_GS_TITLE.sseq
+       3 0x00023720      17820   \Seq\SEQ_GS_TITLE.sseq
        4 0x00027CC0      14356   \Seq\SEQ_GS_POKEMON_THEME.sseq
        5 0x0002B4E0       2868   \Seq\SEQ_GS_STARTING.sseq
        6 0x0002C020       7216   \Seq\SEQ_GS_STARTING2.sseq
