@@ -1117,7 +1117,7 @@
   SEQ_GS_EYE_K_SHOUNEN        1114     87 700  89  30  64   7                  3492 \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
   SEQ_GS_EYE_K_AYASHII        1115     88 700  86  30  64   7                  2224 \Seq\SEQ_GS_EYE_K_AYASHII.sseq
   SEQ_GS_VS_NORAPOKE          1116     89 720 110  30  64   7                 13124 \Seq\SEQ_GS_VS_NORAPOKE.sseq
-  SEQ_GS_VS_TRAINER           1117     90 720 111  30  64   7                 24020 \Seq\SEQ_GS_VS_TRAINER.sseq
+  SEQ_GS_VS_TRAINER           1117     90 720 111  30  64   7                 24004 \Seq\SEQ_GS_VS_TRAINER.sseq
   SEQ_GS_VS_GYMREADER         1118     91 720 108  30  64   7                 11596 \Seq\SEQ_GS_VS_GYMREADER.sseq
   SEQ_GS_VS_RIVAL             1119     92 721  84  30  64   7                 15056 \Seq\SEQ_GS_VS_RIVAL.sseq
   SEQ_GS_VS_ROCKET            1120     93 720 102  30  64   7                 10192 \Seq\SEQ_GS_VS_ROCKET.sseq
@@ -4040,7 +4040,7 @@
       87 0x000A4280       3492   \Seq\SEQ_GS_EYE_K_SHOUNEN.sseq
       88 0x000A5040       2224   \Seq\SEQ_GS_EYE_K_AYASHII.sseq
       89 0x000A5900      13124   \Seq\SEQ_GS_VS_NORAPOKE.sseq
-      90 0x000A8C60      24020   \Seq\SEQ_GS_VS_TRAINER.sseq
+      90 0x000A8C60      24004   \Seq\SEQ_GS_VS_TRAINER.sseq
       91 0x000AEA40      11596   \Seq\SEQ_GS_VS_GYMREADER.sseq
       92 0x000B17A0      15056   \Seq\SEQ_GS_VS_RIVAL.sseq
       93 0x000B5280      10192   \Seq\SEQ_GS_VS_ROCKET.sseq
